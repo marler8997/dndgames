@@ -1,0 +1,706 @@
+Spell Filter by Denny Edwards (denny.edwards@gmail.com)
+A | B | C | D | E | F | G | H | I | J | K | L | M N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+0 | 1 | 2 | 3 | 4 | 5 | 6
+To filter the table, enter text and press Enter. You can use '(first word|second word)' without the quotes to find either word.
+Clear all filters
+
+
+
+
+
+Spell Name	Level	M/F	Description	Source
+Dancing Lights	0	 	Creates torches or other lights.	CRB
+Daze	0	 	Humanoid creature of 4 HD or less loses next action.	CRB
+Detect Magic	0	 	Detects spells and magic items within 60 ft.	CRB
+Flare	0	 	Dazzles one creature (–1 on attack rolls).	CRB
+Ghost Sound	0	 	Figment sounds.	CRB
+Haunted Fey Aspect	0	 	You surround yourself with disturbing illusions.	UC
+Know Direction	0	 	You discern north.	CRB
+Light	0	 	Object shines like a torch.	CRB
+Lullaby	0	 	Makes subject drowsy (–5 on Perception checks, –2 on Will saves against sleep.)	CRB
+Mage Hand	0	 	5-pound telekinesis.	CRB
+Mending	0	 	Makes minor repairs on an object.	CRB
+Message	0	 	Whisper conversation at distance.	CRB
+Open/Close	0	 	Opens or closes small or light things.	CRB
+Prestidigitation	0	 	Performs minor tricks.	CRB
+Read Magic	0	 	Read scrolls and spellbooks.	CRB
+Resistance	0	 	Subject gains +1 on saving throws.	CRB
+Sift	0	 	See area as though examining it.	APG
+Spark	0	 	Ignites flammable objects.	APG
+Summon Instrument	0	 	Summons one musical instrument.	CRB
+Unwitting Ally	0	 	Subject is considered ally for 1 round.	APG
+Abundant Ammunition	1	 	Replaces nonmagical ammunition every round.	UC
+Adjuring Step	1	 	You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.	UC
+Adoration	1	 	You gain a bonus on Diplomacy checks and performance combat checks.	UC
+Alarm	1	 	Wards an area for 2 hours/level.	CRB
+Animate Rope	1	 	Makes a rope move at your command.	CRB
+Anticipate Peril	1	 	Target gains a bonus on one initiative check.	UM
+Abstemiousness	1	 	 	FoB
+Beguiling Gift	1	 	Subject immediately accepts an offered item and uses it.	APG
+Borrow Skill	1	 	Make a skill check using another’s ranks.	APG
+Cause Fear	1	 	One creature of 5 HD or less flees for 1d4 rounds.	CRB
+Charm Person	1	 	Makes one person your friend.	CRB
+Chord of Shards	1	 	Performance deals 2d6 piercing damage.	UM
+Compel Hostility	1	 	Compels opponents to attack you instead of your allies.	UC
+Comprehend Languages	1	 	You understand all languages.	CRB
+Confusion, Lesser	1	 	One creature is confused for 1 round.	CRB
+Cure Light Wounds	1	 	Cures 1d8 damage + 1/level (max +5).	CRB
+Dancing Lantern	1	 	Animates a lantern that follows you.	APG
+Dazzling Blade	1	 	-	RG
+Deadeye’s Lore	1	 	-	UC
+Delusional Pride	1	 	Target is penalized on attacks and checks but gains bonus against charms and compulsions.	UM
+Detect Charm	1	 	Detect strength and location of charms, compulsions, and possession auras on creatures in the area.	ASoL
+Detect Secret Doors	1	 	Reveals hidden doors within 60 ft.	CRB
+Disguise Self	1	 	Changes your appearance.	CRB
+Ear-Piercing Scream	1	 	Deal sonic damage and daze target.	UM
+Enhance Water	1	 	-	FoP
+Erase	1	 	Mundane or magical writing vanishes.	CRB
+Expeditious Retreat	1	 	Your base land speed increases by 30 ft.	CRB
+Feather Fall	1	 	Objects or creatures fall slowly.	CRB
+Feather Step	1	 	Ignore movement penalty in difficult terrain.	APG
+Flare Burst	1	 	As flare, but on all creatures within 10 ft.	APG
+Forced Quiet	1	 	Target cannot make loud noises.	UM
+Fumbletongue	1	 	Target cannot speak intelligently.	UM
+Grease	1	 	Makes 10-ft. square or one object slippery.	CRB
+Haze of Dreams	1	 	-	FoP
+Hideous Laughter	1	 	Subject loses actions for 1 round/ level.	CRB
+Horn of Pursuit	1	 	Create three notes heard miles away.	UM
+Hypnotism	1	 	Fascinates 2d4 HD of creatures.	CRB
+Identify	1	 	Gives +10 bonus to identify magic items.	CRB
+Innocence	1	 	Gain +10 on Bluff checks to seem innocent.	APG
+Invigorate	1	 	Temporarily relieves fatigue or exhaustion.	APG
+Jury-Rig	1	 	Removes the broken condition from the targeted object.	UC
+Ki Arrow	1	 	Arrow deals damage as your unarmed strike.	UM
+Lighten Object	1	 	 	FoB
+Liberating Command	1	 	Target makes an Escape Artist check as an immediate action and gains a bonus on it.	UC
+Lock Gaze	1	 	Compels the target to look only at you for the duration of the spell.	UC
+Moment of Greatness	1	 	Doubles a morale bonus.	UC
+Magic Mouth	1	M	Objects speaks once when triggered.	CRB
+Memory Lapse	1	 	Subject forgets events back to last turn.	APG
+Magic Aura	1	 	Alters object's magic aura.	CRB
+Negative Reaction	1	 	Targeted creature may not positively influence anyone.	UC
+Obscure Object	1	 	Masks object against scrying.	CRB
+Play Instrument	1	 	Play instrument as if you were skilled.	UM
+Read Weather	1	 	 	FoB
+Remove Fear	1	 	Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.	CRB
+Restful Sleep	1	 	Gain more hit points while sleeping.	APG
+Saving Finale	1	 	Subject rerolls failed saving throw.	APG
+See Alignment	1	 	Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.	UC
+Share Language	1	 	Subject understands chosen language.	APG
+Silent Image	1	 	Creates minor illusion of your design.	CRB
+Sleep	1	 	Puts 4 HD of creatures into magical slumber.	CRB
+Solid Note	1	 	Creates tangible music note.	APG
+Summon Minor Monster	1	 	Summon 1d3 Tiny animals.	UM
+Summon Monster I	1	 	Summons extraplanar creature to fight for you.	CRB
+Swallow Your Fear	1	 	Grants +2 morale bonus to Str and Con, +1 morale bonus to Will saves, and -2 penalty to AC to subjects suffering from a fear effect. Prevents frightened subject from running.	AP:K
+Tap Inner Beauty	1	 	You gain a +2 insight bonus on all Charisma ability checks and Charisma-based skill checks.	FoP
+Timely Inspiration	1	 	Gives bonus on failed check/attack.	APG
+Touch of Gracelessness	1	 	Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.	APG
+Unbreakable Heart	1	 	Target gains a +4 bonus on saves against mind-affecting effects that rely on negative emotions.	ISWG
+Undetectable Alignment	1	 	Conceals alignment for 24 hours.	CRB
+Unnatural Lust	1	 	Target is compelled to kiss or caress another.	UM
+Unprepared Combatant	1	 	Target takes -4 on initiative and Reflex saves.	UM
+Unseen Servant	1	 	Invisible force obeys your commands.	CRB
+Vanish	1	 	As invisibility for 1 round/level (5 max).	APG
+Ventriloquism	1	 	Throws voice for 1 min./level.	CRB
+Vocal Alteration	1	 	Disguise target's voice.	UM
+Youthful Appearance	1	 	Target appears younger.	UM
+Acute Senses	2	 	Subject gains bonus on Perception checks.	UM
+Allegro	2	 	Gain haste while maintaining bardic performance.	UM
+Alter Self	2	 	Assume form of a Small or Medium humanoid.	CRB
+Ancestral Communion	2	 	You contact your ancestors to bolster your own knowledge.	DoG
+Animal Messenger	2	 	Sends a Tiny animal to a specific place.	CRB
+Animal Trance	2	 	Fascinates 2d6 HD of animals.	CRB
+Blindness/Deafness	2	 	Makes subject blind or deaf.	CRB
+Blistering Invective	2	 	Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.	UC
+Blood Biography	2	 	Learn about a creature with its blood.	APG
+Boiling Blood	2	 	Targets take fire damage; orcs get +2 Strength.	UM
+Book Ward	2	 	As protection from energy, except lasting 1 day/level instead of 10 minutes per level and that the spell only protects against acid and fire damage (and while energy protection remains, the item is also completely waterproof).	SoS
+Blur	2	 	Attacks miss subject 20% of the time.	CRB
+Cacophonous Call	2	 	Nauseates target.	APG
+Calm Emotions	2	 	Calms creatures, negating emotion effects.	CRB
+Cat's Grace	2	 	Subject gains +4 to Dex for 1 min./level.	CRB
+Codespeak	2	 	Grant all recipients ability to speak, read and write a new secret language.	SD
+Compassionate Ally	2	 	Target compelled to help injured ally.	UM
+Create Treasure Map	2	M	Creates a treasure map out of a creature's corpse.	APG
+Cure Moderate Wounds	2	 	Cures 2d8 damage + 1/level (max +10).	CRB
+Darkness	2	 	20-ft. radius of supernatural shadow.	CRB
+Daze Monster	2	 	Living creature of 6 HD or less loses next action.	CRB
+Delay Pain	2	 	Ignore pain for 1 hour/level.	UM
+Delay Poison	2	 	Stops poison from harming target for 1 hour/level.	CRB
+Detect Thoughts	2	 	Allows “listening” to surface thoughts.	CRB
+Discovery Torch	2	 	Touched object emanates bright light, granting Perception and Sense Motive bonuses.	UC
+Disguise Other	2	 	As disguise self, but affects you or another.	UM
+Distracting Cacophony	2	 	Noise makes it difficult to cast.	UM
+Distressing Tone	2	 	Sound sickens 1d4 creatures.	UM
+Dust of Twilight	2	 	Black particles extinguish light sources.	APG
+Eagle's Splendor	2	 	Subject gains +4 to Cha for 1 min./level.	CRB
+Enter Image	2	 	Transfers your consciousness to an object bearing your likeness.	APG
+Enthrall	2	 	Captivates all within 100 ft. + 10 ft./level.	CRB
+Fox's Cunning	2	 	Subject gains +4 to Int for 1 min./level.	CRB
+Gallant Inspiration	2	 	+2d4 bonus on failed attack roll or skill check.	APG
+Ghostbane Dirge	2	 	Incorporeal creature takes half damage from non-magical weapons.	APG
+Ghostly Disguise	2	 	You look like a ghost of yourself.	UM
+Glitterdust	2	 	Blinds creatures, outlines invisible creatures.	CRB
+Haunting Mists	2	 	Creatures are shaken and take Wis damage.	UM
+Heroic Fortune	2	M	The target gains 1 temporary hero point.	APG
+Heroism	2	 	Gives +2 on attack rolls, saves, skill checks.	CRB
+Hidden Speech	2	 	Gain +10 on Bluff to send secret messages.	APG
+Hold Person	2	 	Paralyzes one humanoid for 1 round/level.	CRB
+Honeyed Tongue	2	 	Roll 2 dice when using Diplomacy, take higher roll.	APG
+Hypnotic Pattern	2	 	Fascinates (2d4 + level) HD of creatures.	CRB
+Invisibility	2	 	Subject is invisible for 1 min./level or until it attacks.	CRB
+Locate Object	2	 	Senses direction toward object (specific or type).	CRB
+Mad Hallucination	2	 	Target takes penalties to mental actions.	UM
+Masterwork Transformation	2	M	Make a normal item into a masterwork one.	UM
+Minor Image	2	 	As silent image, plus some sound.	CRB
+Mirror Image	2	 	Creates decoy duplicates of you (1d4 + 1 per three levels, max 8).	CRB
+Misdirection	2	 	Misleads divinations for one creature or object.	CRB
+Miserable Pity	2	 	Opponents cannot attack a pathetic creature.	UM
+Oppressive Boredom	2	 	Target loses its next action.	UM
+Piercing Shriek	2	 	Target is staggered by a painful sound.	UM
+Pilfering Hand	2	 	You may seize an object or manipulate it from afar.	UC
+Pyrotechnics	2	 	Turns fire into blinding light or choking smoke.	CRB
+Qualm	2	 	Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.	UC
+Rage	2	 	Gives +2 to Str and Con, +1 on Will saves, –2 to AC.	CRB
+Reckless Infatuation	2	 	Target is compelled to stay near another.	UM
+Retrieve Item	2	 	Call an item instantly to you hand from nearby by speaking a special word and snapping your fingers. The spell fails if the item is in the possession of another creature.	CTR
+Returning Weapon	2	 	Grants a weapon the returning special weapon quality.	UC
+Scare	2	 	Panicks creatures of less than 6 HD.	CRB
+Seducer's Eyes	2	 	 	FoB
+Share Language, Communal	2	 	As share language, but you may divide the duration among creatures touched.	UC
+Share Memory	2	 	Share one memory with the target.	UM
+Shatter	2	 	Sonic vibration damages objects or crystalline creatures.	CRB
+Silence	2	 	Negates sound in 20-ft. radius.	CRB
+Silk to Steel	2	 	Use a scarf as a shield or whip.	UM
+Snapdragon Fireworks	2	 	Create 1 dragon firework/level.	UM
+Sound Burst	2	 	Deals 1d8 sonic damage and may stun subjects.	CRB
+Spell Guage	2	 	 	FoB
+Steal Voice	2	 	Target gains the croaking spellblight.	UM
+Suggestion	2	 	Compels subject to follow stated course of action.	CRB
+Summon Monster II	2	 	Summons extraplanar creature to fight for you.	CRB
+Summon Swarm	2	 	Summons swarm of bats, rats, or spiders.	CRB
+Tactical Acumen	2	 	You gain an additional +1 on attack rolls or to AC due to battlefield positioning.	UC
+Thunder Fire	2	 	Ammunition in the targeted firearm deafens opponents.	UC
+Tongues	2	 	Speak and understand any language.	CRB
+Trail of the Rose	2	 	-	FoP
+Unadulterated Loathing	2	 	Target is compelled to avoid another creature.	UM
+Versatile Weapon	2	 	Weapon bypasses some DR.	APG
+Wartrain Mount	2	 	Animal gains the combat training general purpose.	UM
+Whispering Wind	2	 	Sends a short message 1 mile/level.	CRB
+Arcane Concordance	3	 	Grants metamagic to arcane spells.	APG
+Aura of the Unremarkable	3	 	An invisible sphere of magic surrounds you, clouding the minds of creatures in the area so they regard even the strangest actions as innocuous.	CEoD
+Blink	3	 	You randomly vanish and reappear for 1 round/level.	CRB
+Campfire Wall	3	 	Creates a shelter around a campfire.	APG
+Channel the Gift	3	 	Channel magical power into target to fuel their spellcasting. The next 3rd level or lower spell target casts does not expend a spell slot; instead you use your spell slot to power their spell.	GaM
+Charm Monster	3	 	Makes monster believe it is your ally.	CRB
+Clairaudience/Clairvoyance	3	 	Hear or see at a distance for 1 min./level.	CRB
+Confusion	3	 	Subjects behave oddly for 1 round/level.	CRB
+Control Summoned Creature	3	 	Direct a summoned monster as if you had summoned it.	UM
+Coordinated Effort	3	 	Grants a teamwork feat you have.	APG
+Crushing Despair	3	 	Subjects take –2 on attack rolls, damage rolls, saves, and checks.	CRB
+Cure Serious Wounds	3	 	Cures 3d8 damage + 1/level (max +15).	CRB
+Curse of Disgust	3	 	Target is sickened when viewing a trigger.	UM
+Daylight	3	 	60-ft. radius of bright light.	CRB
+Delay Poison, Communal	3	 	As delay poison, but you may divide the duration among creatures touched.	UC
+Deep Slumber	3	 	Puts 10 HD of creatures to sleep.	CRB
+Dispel Magic	3	 	Cancels one magical spell or effect.	CRB
+Displacement	3	 	Attacks miss subject 50% of the time.	CRB
+Elemental Speech	3	 	Enables you to speak to elementals and some creatures.	APG
+Exquisite Accompaniment	3	 	Instrument maintains bardic performance for you.	UM
+Fear	3	 	Subjects within cone flee for 1 round/level.	CRB
+Feather Step, Mass	3	 	As feather step, but multiple creatures.	APG
+Gaseous Form	3	 	Subject becomes insubstantial and can fly slowly.	CRB
+Geas, Lesser	3	 	Commands subject of 7 HD or less.	CRB
+Glibness	3	 	You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.	CRB
+Good Hope	3	 	Subjects gain +2 on attack rolls, damage rolls, saves, and checks.	CRB
+Harrowing	3	F	You use a Harrow deck to tell a fortune for yourself or someone else.	ISWG
+Haste	3	 	One creature/level moves faster, receives +1 on attack rolls, AC, and Reflex saves.	CRB
+Haunting Choir	3	 	Spirits cause wracking pain to listeners.	UM
+Illusory Script	3	M	Only select creatures can read text.	CRB
+Invigorate, Mass	3	 	As invigorate, but multiple creatures.	APG
+Invisibility Sphere	3	 	Makes everyone within 10 feet invisible.	CRB
+Jester's Jaunt	3	 	Teleport target within 30 ft. of itself.	APG
+Lover's Vengeance	3	M	You inspire yourself or a lover to a vengeful rage against a chosen enemy.	ISWG
+Mad Monkeys	3	 	Summon a swarm of mischievous monkeys.	UM
+Major Image	3	 	As silent image, plus sound, smell, and thermal effects.	CRB
+Malicious Spite	3	M	Target is compelled to plot against another.	UM
+Overwhelming Grief	3	 	Grieving target can take no actions and is denied its Dex bonus.	UM
+Phantom Driver	3	 	Conjures a phantom to drive vehicles.	UC
+Phantom Steed	3	 	Magic horse appears for 1 hour/level.	CRB
+Purging Finale	3	 	Removes one negative effect.	APG
+Rain of Frogs	3	 	Summon a swarm of poisonous frogs.	UM
+Remove Curse	3	 	Frees object or person from curse.	CRB
+Returning weapon, Communal	3	 	As returning weapon, but you may divide the duration among weapons touched.	UC
+Reviving Finale	3	 	Allies cured 2d6 damage.	APG
+Scrying	3	F	Spies on subject from a distance.	CRB
+Sculpt Sound	3	 	Creates new sounds or changes existing ones into new sounds.	CRB
+Secret Page	3	 	Changes one page to hide its real content.	CRB
+See Invisibility	3	 	Reveals invisible creatures or objects.	CRB
+Seek Thoughts	3	 	Detects thinking creatures’ thoughts.	APG
+Sepia Snake Sigil	3	M	Creates a snake-shaped text symbol that immobilizes reader.	CRB
+Slow	3	 	One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.	CRB
+Smug Narcissism	3	 	Target is distracted by its sense of self.	UM
+Speak with Animals	3	 	You can communicate with animals.	CRB
+Summon Monster III	3	 	Summons extraplanar creature to fight for you.	CRB
+Terrible Remorse	3	 	Creature is compelled to harm itself.	UM
+Thunderous Drums	3	 	1d8 damage/level and knocked prone.	APG
+Tiny Hut	3	 	Creates shelter for 10 creatures.	CRB
+Tongues, Communal	3	 	As tongues, but you may divide the duration among creatures touched.	UC
+Vision of Hell	3	 	Illusory hellscape makes creatures shaken.	UM
+Witness	3	 	See through the target's eyes and ears.	UM
+Ancestral Gift	4	 	A ghostly ancestor appears and gives you a magic weapon, which you may use as if you were proficient in it.	DoG
+Apparent Master	4	 	Charm makes a construct regard you as its master.	M:GoD
+Break Enchantment	4	 	Frees subjects from enchantments, transmutations, and curses.	CRB
+Cure Critical Wounds	4	 	Cures 4d8 damage + 1/level (max +20).	CRB
+Dance of a Hundred Cuts	4	 	Gain +1 combat bonus/3 levels.	UM
+Daze, Mass	4	 	As daze, but affecting multiple creatures.	UM
+Denounce	4	 	Worsens attitudes toward target creature.	APG
+Detect Scrying	4	 	Alerts you to magical eavesdropping.	CRB
+Dimension Door	4	 	Teleports you a short distance.	CRB
+Discordant Blast	4	 	3d6 sonic damage in 10-ft. burst or 30-ft. cone can also bull rush creatures.	APG
+Dominate Person	4	 	Controls humanoid telepathically.	CRB
+Echolocation	4	 	Sonic sense gives you blindsight 40 ft.	UM
+Envious Urge	4	 	Targets steal from or disarm others.	UM
+Ghostbane Dirge, Mass	4	 	As ghostbane dirge, but affecting multiple creatures.	APG
+Freedom of Movement	4	 	Subject moves normally despite impediments to restrict movement.	CRB
+Hallucinatory Terrain	4	 	Makes one type of terrain appear like another (field as forest, or the like).	CRB
+Heroic Finale	4	 	Subject within range of your bardic performance can take an action.	APG
+Heroic Fortune, Mass	4	M	As heroic fortune, except it affects more targets.	APG
+Hold Monster	4	 	As hold person, but any creature.	CRB
+Invisibility, Greater	4	 	As invisibility, but subject can attack and stay invisible.	CRB
+Legend Lore	4	MF	Lets you learn tales about a person, place, or thing.	CRB
+Locate Creature	4	 	Indicates direction to known creature.	CRB
+Modify Memory	4	 	Changes 5 minutes of subject's memories.	CRB
+Neutralize Poison	4	 	Immunizes subject against poison, detoxifies venom in or on subject.	CRB
+Phantom Steed, Communal	4	 	As phantom steed, but you may divide the duration among creatures touched.	UC
+Primal Scream	4	 	Free yourself from enchantments and paralysis effects.	UM
+Rainbow Pattern	4	 	Lights fascinate 24 HD of creatures.	CRB
+Repel Vermin	4	 	Insects, spiders, and other vermin stay 10 ft. away.	CRB
+Secure Shelter	4	 	Creates sturdy cottage.	CRB
+Serenity	4	 	Peaceful feelings harm those attempting violence.	UM
+Shadow Conjuration	4	 	Mimics conjuration below 4th level, but only 20% real.	CRB
+Shadow Step	4	 	Teleport from one shadow to another.	UM
+Shield of the Dawnflower	4	 	Creatures that strike you take 1d6 +1/level fire damage.	ISWG
+Shocking Image	4	 	As mirror image, but the duplicates emit electrical damage when destroyed.	UC
+Shout	4	 	Deafens all within cone and deals 5d6 sonic damage.	CRB
+Sonic Thrust	4	 	Sound moves targets away from you.	UM
+Speak with Plants	4	 	You can talk to plants and plant creatures.	CRB
+Summon Accuser	4	 	Summons a single accuser devil from Hell to do your bidding.	RG
+Summon Monster IV	4	 	Summons extraplanar creature to fight for you.	CRB
+Treasure Stitching	4	M	Objects on cloth become embroidered.	APG
+Utter Contempt	4	 	target's attitude worsens by two categories.	UM
+Virtuoso Performance	4	 	Start a second bardic performance while maintaining the first.	UM
+Wall of Sound	4	 	Sonic wall deflects and damages creatures.	UM
+Wandering Star Motes	4	 	Outlines subject, produces light.	APG
+Zone of Silence	4	 	Keeps eavesdroppers from overhearing you.	CRB
+Bard's Escape	5	 	You and allies escape an emergency by teleporting to safety.	APG
+Cacophonous Call, Mass	5	 	Nauseates multiple targets.	APG
+Cloak of Dreams	5	 	Living creatures within 5 ft. fall asleep.	APG
+Covetous Aura	5	 	You may gain the benefits of a spell meant for someone else.	ISWG
+Cure Light Wounds, Mass	5	 	Cures 1d8 damage + 1/level, affects 1 subject/level.	CRB
+Deafening Song Bolt	5	 	Blast of song deals 3d10 damage and deafens targets.	APG
+Dispel Magic, Greater	5	 	As dispel magic, but can affect multiple targets.	CRB
+Dream	5	 	Sends message to anyone sleeping.	CRB
+False Vision	5	M	Fools scrying with an illusion.	CRB
+Foe to Friend	5	 	Redirect an enemy creature's attack.	APG
+Frozen Note	5	 	Paralyzes creatures listening to your song.	APG
+Heroism, Greater	5	 	Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.	CRB
+Joyful Rapture	5	 	Negate harmful emotions.	UM
+Ki Shout	5	 	Target takes 1d6 sonic/level and is stunned.	UM
+Mind Fog	5	 	Subjects in fog get –10 to Wis and Will checks.	CRB
+Mirage Arcana	5	 	As hallucinatory terrain, plus structures.	CRB
+Mislead	5	 	Turns you invisible and creates illusory double.	CRB
+Nightmare	5	 	Sends vision dealing 1d10 damage, fatigue.	CRB
+Persistent Image	5	 	As major image, but no concentration required.	CRB
+Phantasmal Web	5	 	Catches subjects in illusory web.	APG
+Resonating Word	5	 	Target is damaged, staggered, and stunned.	UM
+Seeming	5	 	Changes appearance of one person per two levels.	CRB
+Shadow Evocation	5	 	Mimics evocation of lower than 5th level, but only 20% real.	CRB
+Shadow Walk	5	 	Step into shadow to travel rapidly.	CRB
+Shadowbard	5	 	Shadowy duplicate starts a bardic performance.	UM
+Song of Discord	5	 	Forces targets to attack each other.	CRB
+Stunning Finale	5	 	Stuns 3 creatures for 1 round.	APG
+Suggestion, Mass	5	 	As suggestion, affects subject/level.	CRB
+Summon Infernal Host	5	 	Summon host devils.	RG
+Summon Monster V	5	 	Summons extraplanar creature to fight for you.	CRB
+Unwilling Shield	5	M	Subject shares wounds you receive.	APG
+Vengeful Outrage	5	 	Target is compelled to destroy one enemy.	UM
+Analyze Dweomer	6	F	Reveals magical aspects of subject.	CRB
+Animate Objects	6	 	Objects attack your foes.	CRB
+Brilliant Inspiration	6	 	Take best of two d20 rolls.	APG
+Cat's Grace, Mass	6	 	As cat's grace, affects 1 subject/level.	CRB
+Charm Monster, Mass	6	 	As charm monster, but all within 30 ft.	CRB
+Cure Moderate Wounds, Mass	6	 	Cures 2d8 damage + 1/level, affects 1 subject/level.	CRB
+Dance of a Thousand Cuts	6	 	As dance of a hundred cuts, plus the benefits of haste.	UM
+Deadly Finale	6	 	Deals 2d8 damage to multiple targets.	APG
+Dirge of the Victorious Knights	6	 	Call forth special illusions of mounted Hellknights.	ISWG
+Eagle's Splendor, Mass	6	 	As eagle's splendor, affects 1 subject/level.	CRB
+Euphoric Tranquility	6	 	Makes a single creature peaceful and friendly.	APG
+Eyebite	6	 	Target becomes panicked, sickened, and/or comatose.	CRB
+Find the Path	6	 	Shows most direct way to a location.	CRB
+Fool's Forbiddance	6	 	Confuses enemies who come within a magical emanation centered on you.	APG
+Fox's Cunning, Mass	6	 	As fox's cunning, affects 1 subject/level.	CRB
+Geas/Quest	6	 	As lesser geas, but affects any creature.	CRB
+Getaway	6	 	Teleports a group of predetermined allies and creatures to a predetermined location.	APG
+Heroes' Feast	6	 	Food for one creature/level cures and grants combat bonuses.	CRB
+Irresistible Dance	6	 	Forces subject to dance.	CRB
+Overwhelming Presence	6	 	Creatures bow before you as if you were divine.	UM
+Permanent Image	6	 	Permanent illusion, includes sight, sound, smell, and thermal effects.	CRB
+Pied Piping	6	 	Compel similar creatures to follow you.	APG
+Programmed Image	6	M	As major image, plus triggered by event.	CRB
+Project Image	6	M	Illusory double can talk and cast spells.	CRB
+Scrying, Greater	6	 	As scrying, but faster and longer.	CRB
+Shout, Greater	6	 	Devastating yell deals 10d6 sonic damage; stuns creatures.	CRB
+Summon Monster VI	6	 	Summons extraplanar creature to fight for you.	CRB
+Sympathetic Vibration	6	 	Deals 2d10 damage/round to freestanding structure.	CRB
+Veil	6	 	Changes appearance of group of creatures.	CRB
+Waves of Ecstasy	6	 	Pleasure stuns and staggers creatures.	UM
+Alter Taste	0	
+Changes the taste of one meal to a taste that is pleasant for the creature consuming it.	RP:101-0
+Animate Tools	0	
+Tools automatically perform simple tasks.	RP:101-0
+Blossom	0	
+Causes flowering plant to blossom.	RP:101-0
+Boom	0	 	
+TO:FF
+Canny Effort	0	
+Caster gains a +2 competence bonus on next skill check.	RP:101-0
+Clandestine Conversation	0	
+Allows two subjects to speak without being overheard.	RP:101-0
+Cleanse of Alcohol	0	
+Subject is completely cured of alcohol effects.	RP:101-0
+Cloth Armor	0	
+Unworn clothing becomes armor.	RP:101-0
+Crack	0	
+Inflicts damage to a single object, undead or construct creature.	RP:101-0
+Dark Baubles	0	
+Object casts deep shadows in 20 ft. radius.	RP:101-0
+Decrypt	0	
+Helps decipher a coded message or cipher.	RP:101-0
+Detect Charm	0	
+Determines whether a creature is under a charm effect.	RP:101-0
+Detune	0	
+Removes the tuning from a nearby instrument.	RP:101-0
+Dim	0	
+Dims light sources within 100 feet of object touched.	RP:101-0
+Disorienting Quake	0	
+One creature is shaken and must make a Acrobatics check or fall prone.	RP:101-0
+Encrypt	0	
+Encode a message to protect it from view.	RP:101-0
+Giggle	0	 	
+TO:FF
+Glimmer of Hope	0	
+Increase chance of target stabilizing at negative hit points.	RP:101-0
+Guide Vessel	0	
+A ship, cart, or wagon moves as you command.	RP:101-0
+Layer of Ice	0	
+Does 1 cold damage to a target but absorbs up to 5 fire damage before melting away.	RP:101-0
+Light My Fire	0	
+Starts a fire quickly.	RP:101-0
+Lightsight	0	
+Negate penalties caused by light.	RP:101-0
+Low Blow	0	
+Target takes 1 point of bludgeoning damage, and becomes sickened for 1 round.	RP:101-0
+Mishap	0	
+You create a minor mishap.	RP:101-0
+Overlook	0	
+Hides a small object in plain sight.	RP:101-0
+Pants	0	
+Removes target’s pants.	RP:101-0
+Pause	0	
+Decrease target’s initiative by 4.	RP:101-0
+Pointer	0	
+Shines a beam of light from your finger.	RP:101-0
+Quicken Stride	0	
+Increase touched creature’s land speed.	RP:101-0
+Quill	0	
+Creates a writing quill with limitless ink.	RP:101-0
+Restlessness	0	
+Target cannot sleep for 24 hours.	RP:101-0
+Rigged Coin	0	
+Causes target coin to always land on face you choose.	RP:101-0
+Shelve	0	
+Returns a book to its shelf in the proper place.	RP:101-0
+Sign of Discovery	0	
+Grant +2 insight bonus to your next knowledge, perception or sense motive check.	RP:101-0
+Signal	0	
+Creates a loud sound.	RP:101-0
+Simple Bed	0	
+Creates a comfortable place to sleep giving caster +1 hp to normal healing rate for bed rest.	RP:101-0
+Slapping Hand	0	
+Disembodied hand slaps target for 1 point of damage.	RP:101-0
+Smoke Image	0	
+Caster creates any shape out of existing smoke.	RP:101-0
+Song of Serenity	0	
+Subject is cured of fatigue.	RP:101-0
+Spook Animal	0	
+Target animal is panicked.	RP:101-0
+Timer	0	
+Creates a single sound after a preset amount of time.	RP:101-0
+Trifling Image	0	
+Creates tiny and immobile image.	RP:101-0
+Ultrasonic Ray	0	
+Ranged touch attack inflicts 1d3 points of sonic damage.	RP:101-0
+Unseen Attendant	0	
+Cleans and straightens you and your clothing.	RP:101-0
+Alter Liquid	1	
+Transmute 1 pint/level of liquid (max 5 pints).	RP:101-1
+Animate Tattoo	1	
+Creates a moving image on a subject’s body that can attack.	RP:101-1
+Borrow Skill	1	
+Use target creature’s ranks in one skill.	RP:101-1
+Clarity of Thought	1	
+Grants +4 insight bonus to Concentration checks.	RP:101-1
+Clear Conscience	1	
+Caster loses all memory of events just prior to casting the spell.	RP:101-1
+Climb	1	
+Gain a +5 bonus to Climb checks.	SGG:AH1
+Color	1	
+Changes the color of a creature or object.	RP:101-1
+Contrariness	1	
+Target must lie and be generally disagreeable and difficult.	RP:101-1
+Curse of Ineptitude	1	
+Target experiences clumsiness and bad luck (Swift).	RP:101-1
+Deep Shadows	1	
+Enhances shadows so they grant minor concealment bonus.	RP:101-1
+Discerning Eye	1	
+Reveals the exact monetary value of a single item	RP:101-1
+Dispel Magic, Lesser	1	
+As dispel magic except maximum +5.	RP:101-1
+Distract	1	
+Subject becomes flat-footed.	RP:101-1
+Escape Grapple	1	
+Improves grapple and Escape	RP:101-1
+Flashy Defenses	1	
+Chaos defends you against random types of attacks.	RP:101-1
+Fluster	1	
+As hold person, but the target is staggered rather than paralyzed .	SGG:110SV
+Fool's Gold	1	 	 	TO:FF
+Friendly Face	1	 	 	TO:FF
+Glamour	1	
+Caster becomes physically attractive.	RP:101-1
+Guilt	1	
+One evil target is denied an action.	RP:101-1
+Heartache	1	 	 	TO:FF
+Heat Lightning	1	
+Vertical strokes of lightning deal 1d6 nonlethal damage +1/level (max +5), plus dazzle and set creatures on fire.	RP:101-1
+Hesitation	1	
+Target’s initiative count drops by your caster level (Swift).	RP:101-1
+Hot Foot	1	
+
+TO:FF
+Malicious Intent	1	
+Subjects take –1 or –2 on saves.	RP:101-1
+Minor Lasting Image	1	
+Creates permanent, tiny, immobile image.	RP:101-1
+Missteps	1	
+Subject’s speed and Dexterity are temporarily reduced.	RP:101-1
+Pacifist	1	
+Subject will avoid combat and casting spells that cause damage.
+4W:BoDM
+Pacifist	1	 	
+TO:FF
+Peephole	1	
+Creates a small opening through a wooden, plaster, or stone wall.	RP:101-1
+Pins and Needles	1	
+Victim suffers a –1 circumstance penalty on all attack rolls and skill checks, and requires a Concentration check to cast spells.	RP:101-1
+Protection from Monsters	1	
+As protection from evil, but it works against creatures of one type rather than evil.	SGG:110SV
+Scatterbrained	1	
+
+TO:FF
+Screech	1	
+As acid splash but it deals 1d4 sonic damage, and you can expend 1 round of bardic performance per 2 levels to deal +1d4 damage.	SGG:110SV
+Skill Lore	1	
+Target gains an insight bonus of +1/two caster levels one skill check.	RP:101-1
+Songstrike	1	
+Cone of sonic energy inflicts 1d4 points of damage/three caster levels (Move).	RP:101-1
+Sonic Dart	1	
+Ranged touch attack inflicts 1d6 points of sonic damage (Move).	RP:101-1
+Stunning Note	1	
+Target stunned for 1 round (Move).	RP:101-1
+Torchbearer	1	
+You conjure a creature that carries a torch, sunrod, lantern or daylight spell.	RP:101-1
+Unspeakable Tongue	1	
+Target cannot speak intelligibly.	RP:101-1
+White Noise	1	
+Creates a loud sound and white light causing a –20 penalty to Perception checks.	RP:101-1
+Beguile	2	
+Target takes a -4 penalty on saves against enchantment and illusion spells and is dazzled.	RP:101-2
+Break Object	2	
+Inflicts damage and broken condition on a single object or damages a construct creature.	RP:101-2
+Brightmatter	2	
+Sticky phosphorescent mass sheds light where ifs attached.	RP:101-2
+Contingent Light Healing	2	
+Target that takes 4 or more damage instantly heals 1d8 hit points.	RP:101-2
+Curse of Prevarication	2	
+Subject can't tell the truth.	RP:101-2
+Damage Loins	2	
+Target takes 1d6 damage/2 levels, moves at half speed, becomes sickened for 1d4 rounds.	RP:101-2
+Deathchant	2	
+Chanting saps the life from living creatures.	RP:101-2
+Delayed Reaction	2	
+
+4W:BoDM
+Delude Divination	2	
+Divination attempts against target may fail and produce random results.	RP:101-2
+Dimension Hop	2	
+You, touched objects, and your familiar or companion teleport to any spot within close range.	RP:101-2
+Disguise Wounds	2	
+You cause the subject to appear resilient to various forms of damage.	RP:101-2
+Distortion Field	2	
+Grants total concealment against blindsight and tremorsense.	RP:101-2
+Euphoria	2	
+Target has attitude improved by one step and suffers a -2 penalty on saves against your enchantment spells.	RP:101-2
+Exhaustion	2	
+Target becomes exhausted.	RP:101-2
+Expeditious Charge	2	
+You temporarily are faster and more agile.	RP:101-2
+Fit of Pique	2	
+Force target to attack its ally.	RP:101-2
+Flexarmor	2	
+You reduce the armor check penalty and arcane spell failure chance for a single set of armor or a shield.	RP:101-2
+Frigid Slowness	2	
+Causes 1d4/level points of cold damage (max 10d4) and the target is slowed.	RP:101-2
+Hesitate	2	
+One subject per level goes last in the initiative order and does not take its first attack of opportunity each round.	RP:101-2
+Insomnia	2	
+Subject is unable to sleep, suffers from fatigue and is unable to heal naturally.	RP:101-2
+Lifechant	2	
+Your chanting renews living creatures.	RP:101-2
+Memory Crystal	2	
+Permanently store a memory in a crystal or gem.	RP:101-2
+Memory of Love	2	
+
+TO:FF
+Mute	2	
+Subject cannot produce sounds from its mouth.	RP:101-2
+Nightsnare	2	
+You cause a very deep, very short sleep to fall upon a target.	RP:101-2
+Oathbind	2	
+Willing participants immediately gain awareness that another party has violated the terms of a written contract.	RP:101-2
+Obscure Text	2	
+Magical or mundane writing appears illegible.	RP:101-2
+One Track Mind	2	
+Subject continually repeats last action.
+4W:BoDM
+One Track Mind	2	 	
+TO:FF
+Remove Charm	2	
+As remove fear, but works against all mind-affecting effects.	SGG:110SV
+Reverse Gender	2	 	
+TO:FF
+Scout's Hike	2	
+Target receives +2 to Dex, +4 to Stealth checks, and base land speed increases by 10 feet.	RP:101-2
+Shadow Sentry	2	
+A shadowy warrior guards, patrols or attacks on your command.	RP:101-2
+Silent Ray	2	
+You emit a beam of supersonic vibrations causing 1d8 per level unheard sonic damage to one target.	RP:101-2
+Slip of the Tongue	2	
+
+TO:FF
+Supernatural Ward	2	
+Subject gains +4 bonus on saves against supernatural abilities (Immediate).	RP:101-1
+Torn Muscle	2	
+One living creature is flat-footed, cannot run, and suffers a -4 penalty to attacks, skills and ability checks.	RP:101-2
+Touch Me Not	2	
+
+TO:FF
+Touch of History	2	
+
+PFU:W4
+Undetectable Poison	2	
+Allows you to mask the presence of poisons.	RP:101-1
+Vertigo	2	
+You cause creatures to become dizzy to the point of being sickened and perhaps fall prone.	RP:101-2
+Animal Mind	3	
+Subject believes it’s a specific kind of animal.	RP:101-3
+Aura of Peace	3	
+Creatures near caster have combat penalties.	RP:101-3
+Awesome Striker	3	
+One melee attack per round knocks back foes.	RP:101-3
+Beast’s Curse	3	
+Target is incessantly hounded by animals.	RP:101-3
+Beneficent Breeze	3	
+Target’s movement is aided by friendly winds.	SGG:AM
+Bonefiddle
+3	 	Deal 2d6 nonlethal sonic damage per round
+BP:VR
+Choir	3	
+As the ‘summon 1d3 monsters’ option of summon monster II, and creatures summoned can maintain a bardic performance you begin.	SGG:110SV
+Corrosive Blood	3	
+Piercing and slashing weapons take acid damage.	RP:101-3
+Curse of Chaos	3	
+Target suffers random changes each day to appearance, abilities, etc.	RP:101-3
+Curse of Truth	3	
+Target is incapable of speaking falsehoods.	RP:101-3
+Deepsight	3	
+Extend darkvision by 60 ft.	RP:101-3
+Euphoria	3	
+Subject feels good despite danger or pain.	RP:101-3
+False Pain	3	
+Target creature takes 1d6 nonlethal damage per round and suffers a –2 penalty on attack rolls, skill checks and ability checks.	RP:101-3
+Frictionless Sheet	3	
+Slippery liquid reduces movement cause creatures to fall prone.	RP:101-3
+Glimpse of Knowledge	3	
+Use a bard’s knowledge.	RP:101-3
+Glossolalia	3	
+Target’s speech becomes random and inappropriate.	RP:101-3
+Hand of the Marksman	3	
+Your firearm or crossbow attack is an automatic critical threat.	RP:101-3
+Indecision	3	
+Target delays action and must succeed on a Will save to take any actions.	RP:101-3
+Indisputable Fact	3	
+the subject believes something you tell them to believe.	RP:101-3
+Intelligent Object	3	
+Item gains semblance of intelligence.	RP:101-3
+Lost	3	
+Subject moves at half speed in a random direction each round.	RP:101-3
+Magic Shop	3	
+You conjure a sturdy merchant’s shop.	RP:101-3
+Mocking Laughter	3	
+Target takes 3d6 nonlethal damage, –4 penalty on attack rolls, saving throws, ability checks, and skill checks.	RP:101-3
+Mute	3	
+As silence, but effecting a single target.	SGG:110SV
+Overconfidence	3	
+Target takes a cumulative –2 penalty on all skill and ability checks.	RP:101-3
+Phobia	3	
+Subject develops a sudden and severe fear.
+4W:BoDM
+Phobia	3	 	
+TO:FF
+Plant Spy	3	
+Turn a plant into a recording device.	RP:101-3
+Psychic Twin	3	
+You and target share skill ranks, neither can be surprised nor flanked unless both are.	RP:101-3
+Remembrance	3	
+You instantly recall something specific from your past that you want to remember.	RP:101-3
+Secret Speech	3	
+You and creatures you select conceal hidden messages in your normal speech.	RP:101-3
+Shadow Healing	3	
+Illusion of cure moderate wounds grants 2d8 temp hp plus 1 temp hp/level (max +10); target has attitude improved by one-step, takes –2 a penalty on saves against your enchantment spells.	RP:101-3
+Shadow Sentry, Greater	3	
+A shadowy warrior guards, patrols or attacks on your command.	RP:101-3
+Surge	3	
+Target creature gains +20 to initiative.	RP:101-3
+Uncontrollable Rage	3	
+Target gains rage bonuses and penalties but must attack nearest creature; attacks can cause targets to rage as well.	RP:101-3
+Weapon of Nightmares	3	
+You infuse a dagger with energy that delivers horrid visions that deal +1d8/level nonlethal damage and renders the victim unconscious.	RP:101-3
+Weapons Storm	3	
+You create force duplicates of your weapon that hit what you hit.	RP:101-3
+Ice Mirror	4	
+
+SGG:IM
+Imbue with Skill	4	
+As imbue with spell ability, but you grant the target skill ranks in one skill up to the target’s HD .	SGG:110SV
+Scry Trap	5	
+As alarm, but when the alarm goes off it automatically shows you a vision of the area alarmed, as the scry spell.	SGG:110SV
+Speak with Vermin	5	
+As speak with plants, but it works on vermin rather than plants .	SGG:110SV
+Mass Modify Memory	6	
+As modify memory, but effecting multiple targets. All targets get same memory.	SGG:110SV
+Unconscious Agenda	6	
+
+TO:FF

@@ -1,0 +1,156 @@
+Reminders
+======================================================
+Checkout the heated exchange
+Checkout renfar at "arcane arts" for magical shit
+Open that chest in ariodyte
+
+My Stuff
+======================================================
+2 cure light wounds
+525gold
+1 dark vision potion
+1 lesser restoration potion
+wooden holy symbol of Nethys (equipped)
+
+Group Stuff
+======================================================
+the faucet from the House of pantheru (farryn has it)
+engagement ring (appraised around 1500 gold, I think farryn has it)
++1 light crossbow
+10 x crossbow bolts
+2 small sealed tubes, kohl of uncanny discernment (5 applications, worth 1500gold)
+
+-- After Sanctum of Ariodite
+Masterwork Scimitars from hoboes (6 of them worth about 315gold each)
+Gold funery mask from ariodite x 6 (appraised about 50gold)
+potion of bull's strength
+potions of cure moderate wounds x 2
+ruby x 6 (worth 40gold each)
+Gold urn (worth 75gold)
+Spear of the wathful guardian (worth 12000gold)
+--- loot from scorched hand
+potion of hide from undead
+scroll of burning hands (level 2)
+scroll of flaming sphere
+scroll of identify
+scroll of levitate
+scroll of magic missile
+scroll of shocking grasp (level 2)
+wand of grease (9 charges)
+wand of vanish (8 charges)
+wooden holy symbol of Nethys x 1 (todo: maybe equip this myself, appraise it first)
++1 leather armor
++1 khopesh
+4 alchemist filre
+2 sun rod
+masterwork quarter staff
+basic scale mail
+2 scrolls of bless
+scroll of cure moderate wounds
+scroll of effortless armor
+scroll of hold person
+scroll of magic weapon
+scroll of sound burst
+wand of cure light wounds (25 charges)
+flask of holy water 2x
+everburning torch
+alluring golden apple (maybe worth 400gold)
+pair of magical bracers from leader of scorched hand
+ioun torch
+scroll of charm person
+scroll of invisibility
+scroll of warding weapon
+wand of scorching ray (5 charges)
+wand of shield (9 charges)
+---
+studded leather armor (ra's old armor, worth 25gold)
+
+
+
+Battle
+======================================================
+Round 1: Produce Flame(fail to activate)
+Round 2: Fire Ray, 5 dammage
+Round 3:
+
+Story
+======================================================
+Pharoh "?" was not able to pass on...now haunts the crypts
+
+New pharoh, to stop unwanted tomb raiding, they open it up to people using a lottery.
+
+Group "Scorched Hand"
+Group "Crypt Finders"
+Group "Daughters of the Desert"
+Group "Dog Soldiers"
+Group "Sand Scorpians"
+Group "Wanderers" (us)
+
+We were assigned "Tomb of akhentepi"
+
+"Bepti the Camel" gave us 6 potions of cure light wounds
+
+Reserved rooms at the "Whispering Stone" run by "Tet, Black Blossom"
+
+Statues dedicated to Anubis
+
+Finished tomb of akhentepi, got a new order "House of Pentheru"
+
+Group "Scorched Hand"
+    leader "Velriana Hypaxes", asked about "Sanctum of Ariodite Eye"
+Group "Crypt Finders"
+    bragging about how much treasure they got
+Group "Daughters of the Desert"
+    trying to sell stuff they got
+Group "Dog Soldiers"
+    lost animals
+Group "Sand Scorpians"
+
+Finished House of Pentheru
+
+Next Place: "Sanctum of the Ariodite Eye" a temple of Nethys
+
+We got ambushed there, we think the "Scorched Hand" hired them to keep people from looting this one
+
+Sanctum of Ariodite Eye
+---
+2 Statues of Nethys
+
+ Thorne is impersonating Trace killing Imodae's followers.
+ Imodae wants him to find and kill thorne and kill follower of rovagug.
+
+Feat Ideas
+======================================================
+Empower Spell. Increases dammage of spells by half of variable. Costs a spell slot 2 levels higher. Can be used with MaximizeSpell.
+Maximize Spell. All variables of a spell are maximized. Costs a spell slot 3 levels higher.  Can be used with EmpowerSpell. The Guide suggests I use a rod for this one.
+Quickened Spell (later)? Expensice, uses a spell slot 4 levels higher, allows a spell to be cast as a swift action.
+Dazing Spell. Daze all enemies dammaged by spell. Costs a spell slot 3 levels higher.
+Intensified Spell!
+Spell Focus (+1 DC for spells in a certain school, evocation?)
+Craft Wondrous Item (level 3)!
+Leadership (level 7), let them take feats like Craft Wondrous Item and such
+Gifted Adept (pick a spell, casts 1 level higher)
+Reach Spell. Spell range is 1 category higher (touch>close>medium>...).  Costs spell slot 1 level higher.
+At SpellCraft 10, Selective Spell: Limit targets of a spell (exclude allys)
+Casting Conduit: Use an ally for a touch spell, both parties need this feat
+Extend Spell (doubles duration of spell, costs 1 spell slot higher, probably useful with daze)
+
+Trait Ideas
+======================================================
+Magical Lineage (choose when I decide on a spell to use it with, maybe with "fireball")
+    Note that the spell I chose should be more than level 1, otherwise it does nothing
+
+Level 3
+==================================
+Level 1 Spell: Burning Hands
+Feat: Spell Specialization: Burning Hands
+
+Level 4
+==================================
+Flaming Sphere
+Detect Magic
+Prestidigitation
+
+Level 5
+==================================
+Eagle's Splender (level 2 spell, +4 to cha 1min/level)

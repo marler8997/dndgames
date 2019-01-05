@@ -1,0 +1,6 @@
+Feats:
+
+Power Attack: -2 AttackRoll, +4 Dammage
+Vital Strike: Do more dammage, only 1 attack
+Cleave: Attack 2 adjacent people with 1 attack
+

@@ -1,0 +1,304 @@
+get 12336gold
+buy "potion of fox's cunning" 3x300gold
+buy "potion of bull's strength" 300gold
+buy "3 mage armor potions" 200gold
+buy "summon monster 1 scroll" 10gold
+buy "wand of bless weapon" 750gold
+buy "couriour message" 1gold
+buy "bank blood account" 4x57gold
+
+# bank deposit
+buy "bank deposit" 7000gold
+
+buy "scorching ray spell" 45gold
+buy "shocking grasp spell" 10gold
+buy "web spell" 45gold
+buy "shrink item spell" 90gold
+buy "spider climb" 45gold
+buy "rooms in turtleback" 40gold
+
+# exchange
+lose 1gold
+get 100copper
+lose 10gold
+get 100silver
+
+buy "drink" 1copper
+buy "ferry passage" 5copper
+get 23gold
+get 121copper
+get 110silver
+
+# enemy
+get 235gold
+
+# plant treasure
+get 210gold
+get 452silver
+get 108copper
+
+buy "heal abaron" 100gold
+buy "remove curse spell" 160gold
+buy "8 rooms at inn" 40gold
+buy "heal abaron" 100gold
+buy "spells" 120gold
+
+buy "blink spell" 90gold
+
+# Sold stuff at magnimar
+sell "ogre hooks" 5x1150gold
+sell "+1 hyde armor" 5x190gold
+sell "boots of the mire" 1750gold
+sell "18 arrows" 18gold
+sell "short sword" 2x10gold
+sell "pieces of jaspar" 2x80gold
+sell "diamonds" 3x200gold
+sell "+1 natural armor amulets" 2x1000gold
+sell "agut studded ring" 25gold
+sell "necklace with gems" 50gold
+sell "dragonscale broche" 150gold
+sell "+1 ring of protection" 2x1000gold
+sell "Jade ring" 50gold
+sell "headband of charisma" 2000gold
+sell "masterwork thieves toolkit" 3x50gold
+sell "pearl studded leather gloves" 200gold
+sell "vials of pesh" 15gold
+sell "trident" 5000gold
+sell "silver goblet with opals" 50gold
+sell "music book" 2500gold
+
+buy "wayfinder" 1000gold
+buy "cure moderate wounds and remove blindness wands" 15000gold
+buy "headband of vast intellect" 16500gold
+sell "headband of not so vast intellect" 2250gold
+# bank withdrawal
+get 6000gold
+
+buy "flint and steel" 2x1gold
+buy "parka" 4x1copper
+buy "snow shoes" 3x5silver
+buy "50 ft of rope" 1gold
+buy "piton" 5x1silver
+buy "grappling hook" 1gold
+
+# shalalu body
+get 86gold
+
+# back in magnamar
+sell "+1 ogre hook" 2x1175gold
+sell "+1 composite long blow" 1200gold
+sell "+1 long sword" 1160gold
+sell "+1 hyde armor" 2x580gold
+sell "+1 studded armor" 580gold
+sell "cloak of resistance" 5000gold
+sell "mithral chain shirt" 370gold
+sell "shit from cavern" 9200gold
+sell "boots of the winterland" 1250gold
+sell "silver locket" 20gold
+
+buy "boots of speed" 11000gold
+buy "+1 kikko armor" 9200gold
+sell "+1 mithral chain shirt" 1050gold
+
+buy "wand of cure light wounds" 3x750gold
+
+# get gold from mayor at magnimar
+get 4x3500gold
+
+buy "aberan spells" 230gold
+buy "alchemist fire" 120gold
+
+# pillage sandpoint
+get 350silver
+
+# back in magnimar
+sell "masterwork half-plate armor" 4500gold
+sell "magical dark magic medallion, relic" 1650gold
+sell "+2 hyde armor" 1150gold
+sell "+1 ring of protection" 1000gold
+sell "regular light pick" 1500gold
+sell "dwarf bane heavy pick" 4070gold
+buy "portable hole" 14000gold
+sell "bag of holding" 2500gold
+buy "cure moderate wounds" 4250gold
+
+buy "commision 2 agile swords for seren" 12000gold
+
+# deposit for transporting halflings
+get 750gold
+
+# fascinating the halflings
+get 130platinum
+
+# from briaerwoods
+get 15000gold
+
+sell "seren's fire/ice swords" 6000gold
+
+buy "pearl of power" 8750gold
+buy "inquisitors monacle" 2500gold
+buy "scroll of glibness" 375gold
+buy "+2 leather armor" 4170gold
+
+buy "vengeful outrage scroll" 1125gold
+buy "hymn of peace" 2400gold
+
+# from giants on top of stone steps
+get 3306silver
+
+# found in cave near where all the giants were
+get 436gold
+get 4935silver
+
+# killed macmerian
+get 1100platinum
+get 12000gold
+
+buy "improved familiar upgrade (nibbles)" 2600gold
+
+# stone building above mocmerian hole
+get 992gold
+get 1082silver
+
+# dragons horde
+get 366055copper
+get 23145silver
+get 3304gold
+get 23platinum
+
+# selling LOTS of shit in korvosa
+sell "pouch of gold dust" 10gold
+sell "pouch of silver dust" 10silver
+sell "black opal" 7000gold
+sell "bag of gems" 3500gold
+sell "rich blue diamond" 16500gold
+sell "water opal" 1000gold
+sell "fire opal" 200gold
+sell "silver ring" 10gold
+sell "brown and green garnets" 3x100gold
+sell "platinum bowl" 350gold
+sell "bear idol" 250gold
+sell "silver idols" 4x300gold
+sell "jeweled gold crown" 1700gold
+sell "mithril anklet" 500gold
+sell "gem from eyepatch" 900gold
+sell "tapestry" 300gold
+sell "small mammoth statue" 250gold
+sell "staff of heaven of earth" 22500gold
+sell "+1 long sword" 1185gold
+sell "+2 halbard" 4250gold
+sell "staff of rusting grasp" 7000gold
+sell "120 bolts" 2gold
+sell "magical scarf" 9150gold
+sell "full plate armor" 750gold
+sell "long swords" 11x7gold
+sell "large warhammers" 3x9gold
+sell "heavy sheilds" 100gold
+sell "chain shirts" 6x8gold
+sell "ghost touch" 4000gold
+sell "+1 arrow catching heavy steel shield" 2200gold
+sell "+1 large full plate" 2000gold
+sell "masterwork breast-plate" 200gold
+sell "half-plate armor" 300gold
+sell "amber necklace" 2000gold
+sell "+2 rancers, large" 2x4000gold
+sell "+2 breastplate" 2x2000gold
+sell "incence burners" 2x200gold
+sell "tack and harness" 2x150gold
+
+buy "ring of invisibility" 18750gold
+sell "ring of jumping" 1000gold
+
+buy "headband of alluring charisma +6" 2x35500gold
+sell "headband of alluring charisma +4" 2x16000gold
+
+sell "headband of vast intellect +4" 16000gold
+buy "headband of vast intellect +6" 36000gold
+
+buy "recharge fireball necklace" 500gold
+
+buy "2 cloak of resistance +5" 48000gold
+sell "cloak of resistance +1" 2x500gold
+
+buy "diamond dust" 1500gold
+buy "cure serious wounds" 750gold
+
+buy "learn permanency" 250gold
+
+# from sandpoint mayor
+get 2000gold
+
+buy "permanent reduce person" 2500gold
+
+# bank exchange
+get 6000gold
+lose 600platinum
+lose 300000copper
+get 3000gold
+lose 30000silver
+get 3000gold
+
+# from saving sandpoint...again
+get 2000gold
+
+sell "lab equipment" 750gold
+sell "+3 huge great club" 7500gold
+sell "falchion" 11500gold
+sell "runehill hatchets" 2x2500gold
+sell "dagger of returning" 5000gold
+sell "+3 breastplate" 675gold
+sell "headband of wisdon" 2000gold
+sell "+2 spell-storing club" 9000gold
+sell "karzug statue" 2500gold
+sell "thassalonion runestones" 700gold
+sell "vial book kill rituals" 250gold
+
+buy "cloak of resistance +5" 22500gold
+sell "cloak of resistance +1" 500gold
+
+buy "staff of fire" 18950gold
+
+buy "greater teleport" 2275gold
+
+buy "wizard spell shit" 100gold
+
+# peebo perform
+get 1200gold
+get 3600gold
+
+buy "permanency comprehend languages & tongues" 10000gold
+buy "small winter clothes/sell old medium winter clothes" 35gold
+
+sell "bag of holding" 1250gold
+buy "diamond dust" 2250gold
+sell "gloves of arrow snaring" 2000gold
+sell "ring of protection +1" 3x1000gold
+sell "amulet of natural armor +1" 2x1000gold
+sell "bag of holding" 1250gold
+sell "magic circle against law" 350gold
+sell "fox's cunning" 150gold
+sell "couple daggers" 2x5gold
+
+buy "see invisibility permanency" 5000gold
+
+# the dragon horde in rimeskull
+get 39500copper
+get 9410silver
+get 3500gold
+get 250platinum
+
+# selling dragon horde
+sell "furniture/jewlery" 16000gold
+sell "belt of giant strength +4" 8000gold
+sell "lesser bracers of archery" 2500gold
+sell "+3 buckler" 4500gold
+sell "masterwork full plate" 950gold
+sell "+3 half plate" 15000gold
+sell "+1 mithral shirt" 2x1200gold
+sell "adamantin warhammer" 2500gold
+sell "level 1 pearl of power" 500gold
+sell "diplomacy check for selling all this shit" 7500gold
+
+# bank deposit
+lose 70000gold
+

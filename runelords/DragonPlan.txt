@@ -1,0 +1,42 @@
+
+
+
+
+Dragon Plan
+    - Magic Jar?
+    - Question: what happens at 0 dex?
+    - how to sneak up on him?  invisibility scrolls, but he has blind sense, mask smell?
+      distraction? disguise as something he wants, then ambush him.
+      dimension door to him so he can't precast spells.
+    : find some enemies, cast dominate person on them?
+    : Hero's Feast
+    : Seren (damage dex with sneak attack)
+    : Alchemist Fire?
+    : Good Hope and Prayer, Healing Token
+    : 1st round
+    : MindFog (gallant inspiration)
+    : Slow (gallant inspiration, aberan)
+    : Chains of light (ember)
+    : 2nd round
+    : Major curse (aberan, lower his dex or con?)
+    : Maybe Shadow Bard with Dirge of Doom (lowers saves)
+    : Maybe Dispel Magic (ember)
+    : Fire Storm (no spell resistance, 13 d6, once a day, 10x10 adjacent square, 13 of them, lasts 9 rounds)
+    : Flame Strike (but has Spell resistance)
+    : gallant inspiration on close sneak attacks and close fire attacks
+
+
+Responsibilities:
+    Aberan:
+       - Major Curse, Major Curse, Major Cuse
+       - Slow
+    Ember: 
+       - Chains, then FireStorm, Maybe Dispel, Otherwise Heal if really low
+    Seren:
+       - Wait until grappled, then move in
+    Peebo: 
+       - Gallant Inspiration (spell resistance)
+       - Inspire Courage
+       - Slow
+       - Healing ()
+       - Staff of Fire

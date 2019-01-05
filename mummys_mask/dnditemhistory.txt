@@ -1,0 +1,89 @@
+# get 123gold
+# lose 100gold
+# buy "thing" 3x40gold
+# sell "thing" 2x500silver
+
+
+#
+# Stuff from Akhentepi's tomb
+#
+sell "5 scroll" 600gold
+sell "2 books akhentepi biography and war campaigns" 350gold
+sell "12 golden medalions" 325gold
+sell "akhentepi's armor" 2600gold
+sell "coffer" 25gold
+sell "lapis pendant" 35gold
+sell "funery masks" 4x40gold
+sell "1 gold scarab" 50gold
+sell "silversheen vials" 2x150gold
+sell "gold scarab slasp" 50gold
+sell "onyx and silver symbol" 100gold
+sell "silver hand mirror" 20gold
+sell "wax sealed clay urn of nard" 40gold
+sell "gold chest" 100gold
+# sack of coins
+get 100gold42silver
+sell "bottle of nard" 40gold
+sell "special funeral mask" 800gold
+
+buy "scimitar from daughter's of the desert" 1100gold
+sell "scimitar from daughter's of the desert" 1100gold
+
+buy "cure light wounds" 750gold
+buy "2 rings of protection" 3500gold
+
+# death dog room
+get 7gold3silver12copper
+
+# House with crazy lady
+get 6platinum37gold
+
+# After looting house of pantheru
+sell "brass urns from house of pantheru" 2x600gold
+sell "guardian from pantheru" 3000gold
+sell "gold funery mask" 3000gold
+sell "small laquer box (ancient board game, small curved stone playing pieces, worth about 100gold)" 150gold
+sell "long scroll tube, self portrait of arrisete (worth 120gold to collector)" 120gold
+sell "wedding robe (worth 225gold)" 250gold
+sell "20 gold ingots bearing a seal (has faint aura on them, worth 40gold a piece)" 20x40gold
+sell "silver plates (worth 45gold a piece)" 6x45gold
+sell "6 x goblets from house (worth 60gold a piece)" 6x60gold
+sell "small ornate vase (worth 100 gold)" 750gold
+sell "tarnished silver serving tray (worth 50 gold)" 50gold
+
+buy "remove cursed headband from ra" 175gold
+buy "wand of detect secret doors" 700gold
+
+sell "ring of protection" 1000gold
+
+
+sell "anklet, some gems, an ankh (worth 225 gold)" 225gold
+sell "suit of +1 scale mail" 600gold
+sell "cursed headband" 1000gold
+
+sell "large darkwood box (worth 200gold)" 100gold
+sell "jewelry (worth 50gold)" 50gold
+sell "fresh water perls, necklace (worth 300gold)" 300gold
+sell "gold and turquoise scarab penant (100gold)" 100gold
+sell "handfull precious stones (60gold)" 60gold
+
+buy "wax shit" 100gold
+
+sell "gold wedding ring, no magic (worth 75gold, inside of it to Acar from Panhet, Love Eternel)" 75gold
+
+buy "ring of protection" 2x2000gold
+buy "cloak of resistance" 5x1000gold
+buy "cure moderate wounds" 2x300gold
+buy "hide armor" 15gold
+buy "convert 10 cold iron bolts to 10 cold iron arrows" 1gold
+buy "wand of produce flame" 750gold
+buy "pathfinder pouch" 400gold
+
+# hoboes above sanctum of ariodite
+get 121gold
+
+# ariodite chest
+get 500gold
+
+# from raiders in ariodite
+get 34gold
