@@ -302,3 +302,5 @@ sell "diplomacy check for selling all this shit" 7500gold
 # bank deposit
 lose 70000gold
 
+# inside runeforge, used copper
+buy "telepathic bond" 250copper

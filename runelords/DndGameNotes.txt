@@ -1,7 +1,8 @@
 Reminders
 ======================================================
+* come back for the books (worth about 10,000gold, as a collection could be worth more)
 * rod of absorbtion
-* read that charisma book (8 hours)
+* read that charisma book (8 hours, 5 hours, 8 hours, 5 hours)
 * we have 2 immovable rods (ember has them)
 * eversmoking bottle
 * frightening tune
@@ -9,16 +10,15 @@ Reminders
 * get karn boots of speed
 * reduce person again
 * seren needs a +6 belt of dexterity
-* go back to the golem for the gems!!! (in the evocation hallway)
 * get an agile melee weapon, maybe a bow
 * buy rope
-* bank (The Emerald Crew) 950 GOLD
-  bank now has 70950gold
+* bank (The Emerald Crew) 70950gold
 * When Attacking: Declare Spellsong
 * Vengeful Outrage Scroll
 * Hymn of Peace Scroll
 * Hold Monster is +2 DC (Spell Specialization)
 * permanency reduce person $2,500 gold
+* telepathic bond (aberan to seren, seren to peebo, peebo to aberan)
 
 * Make sure seren gets "agile" special ability on his swords
 * get seren better armor
@@ -183,6 +183,8 @@ we got his "revalation quill", seems heavy, if placed in empty vial/container, i
 once a day, ask a question about an event in the next week, will answer in a rhyme
 once a week, "contact other plane" to contact the ruler of the quill and ask 10 questions
 
+TimeLine
+======================================================
 RealLife: November 4, 2018, DND: Day 100
 
 yes/no/maybe/never/irrelevent (or some other one word answer)
@@ -233,6 +235,9 @@ Long rest and reading/studying
 
 Real Life: December 16, 2018, DND: day 104
 
+Real Life: January 6, 2019, DND: day 104
+
+day 105: we did a bunch of permanency stuff
 
 
 
@@ -245,6 +250,4 @@ In Combat
 
 Battle
 ======================================================
-0: Haste, Linger (Fascinate) (got protection from evil, 4 minutes)
-1: 
-2: Fascinate(restart), 
+0: 
