@@ -304,3 +304,31 @@ lose 70000gold
 
 # inside runeforge, used copper
 buy "telepathic bond" 250copper
+
+# after runeforge
+sell "a bunch of shit after runeforge" 400000gold
+sell "bracers of armor +5" 13000gold
+
+buy "sending spell" 250gold
+
+buy "mysterious robe for ember" 55000gold
+
+sell "sell cloak of resistance +3" 2x4500gold
+buy "ring of resistance +4 (for ember)" 2x4000gold
+sell "ring of protection +1" 1000gold
+buy "ring of protection +5 (for seren)" 49000gold
+buy "cloak of resistance +5 (for karn)" 23000gold
+
+sell "karn and seren's old belts" 28000gold
+buy "belt of physical might +6 (for seren)" 80000gold
+buy "belt of strength con +6 (for karn)" 80000gold
+buy "mantle of spell resistance" 80000gold
+buy "celstial armor" 20000gold
+sell "+2 studded leather" 4600gold
+buy "pearl of power" 2x4000gold
+buy "quicken metamagic rod (for aberan)" 50000gold
+buy "amulet of natural armor +5 (for aaberan, used bank gold)" 0gold
+
+buy "passage to jenderhoff" 25gold
+
+buy "endure elements" 10gold

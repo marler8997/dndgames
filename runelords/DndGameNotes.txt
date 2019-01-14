@@ -1,8 +1,18 @@
 Reminders
 ======================================================
+* Reminder: can use fly once a day now from celestial armor
 * come back for the books (worth about 10,000gold, as a collection could be worth more)
 * rod of absorbtion
-* read that charisma book (8 hours, 5 hours, 8 hours, 5 hours)
+* read that charisma book
+  - 8 hours
+  - 5 hours
+  - 8 hours
+  - 5 hours
+  - 3 hours (short rest)
+  - 5 hours (aberan learns sending)
+  - 1 hour (aberan learns endure elements)
+  - 1 hour (aberan prepares spells)
+  - TOTAL: 36
 * we have 2 immovable rods (ember has them)
 * eversmoking bottle
 * frightening tune
@@ -12,7 +22,7 @@ Reminders
 * seren needs a +6 belt of dexterity
 * get an agile melee weapon, maybe a bow
 * buy rope
-* bank (The Emerald Crew) 70950gold
+* bank (The Emerald Crew) 10950gold
 * When Attacking: Declare Spellsong
 * Vengeful Outrage Scroll
 * Hymn of Peace Scroll
@@ -48,8 +58,8 @@ Reminder: Before resting
 Story
 ======================================================
 Alchemist fire: 2 to the town (4 for me)
-Grease/Oil on the north wall: 
-Booby trap the bridges: 
+Grease/Oil on the north wall:
+Booby trap the bridges:
 Signaling: horns(1 toot, top, 2 toots middle, 3 toots bottom), Flags
 
 Need to coordinate how to defend Sandpoint
@@ -58,7 +68,7 @@ Pits behind the wall (traps)
    - alchamist fire for wall
 Explosives
 Burning bridges
-    - 
+    -
 Have citizens line the northeast wall and eastern cliff face
 
 From Teratiknus:
@@ -131,6 +141,19 @@ Neleveto Voan: from Xinshalast
 - RuneLords went into a deep sleep to return someday
 - It's been 10,000 years
 
+From Quink in Sandpoint:
+- karzug will need his followers to bring hiim back
+- xinshalast is in the highest peak in the kodor mountains (mahar masif, north east part of verisia)
+- redwing has found the way to xinshalast, there were 2 dwarven brothers (the vekker brothers) who found the way
+  they bankrupted investors establishing a base in the lower kodor mountains to find xinshalast and scavenge
+  janderhoff is located on the south eastern paprt of verisia
+
+The largest investor of the vekker brothers was part of the "StoneHaven group"
+
+There's a "planar mine" just off the "kazeron river"
+There's something called "the world's roof", it's inhabited by the foulest of beasts
+They have a cabin that sits along a 50foot cliff
+
 Group Stuff
 ======================================================
 - Tome of leadership and influence +2 (over 50,000 Gold, appraise 21)
@@ -183,6 +206,7 @@ we got his "revalation quill", seems heavy, if placed in empty vial/container, i
 once a day, ask a question about an event in the next week, will answer in a rhyme
 once a week, "contact other plane" to contact the ruler of the quill and ask 10 questions
 
+
 TimeLine
 ======================================================
 RealLife: November 4, 2018, DND: Day 100
@@ -214,7 +238,7 @@ RealLife: November 11, 2018, DND: DAY 102
 - defeated the white dragon at rimeskull
 - dominated the high lady of throxis, guardian of halls of wrath
 
-From lady we dominated 
+From lady we dominated
 - we need to create the dominant weapons
   (take the ash falling from the fire ceiling to create a weapon for one of the runelords)
   ash good against belemrius and krune
@@ -239,6 +263,8 @@ Real Life: January 6, 2019, DND: day 104
 
 day 105: we did a bunch of permanency stuff
 
+Real Life: January 13, 2019: DND: day 106
+
 
 
 In Combat
@@ -250,4 +276,4 @@ In Combat
 
 Battle
 ======================================================
-0: 
+0:
