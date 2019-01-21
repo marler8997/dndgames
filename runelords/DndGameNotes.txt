@@ -3,16 +3,6 @@ Reminders
 * Reminder: can use fly once a day now from celestial armor
 * come back for the books (worth about 10,000gold, as a collection could be worth more)
 * rod of absorbtion
-* read that charisma book
-  - 8 hours
-  - 5 hours
-  - 8 hours
-  - 5 hours
-  - 3 hours (short rest)
-  - 5 hours (aberan learns sending)
-  - 1 hour (aberan learns endure elements)
-  - 1 hour (aberan prepares spells)
-  - TOTAL: 36
 * we have 2 immovable rods (ember has them)
 * eversmoking bottle
 * frightening tune
@@ -32,6 +22,18 @@ Reminders
 
 * Make sure seren gets "agile" special ability on his swords
 * get seren better armor
+* read that charisma book
+  - 8 hours
+  - 5 hours
+  - 8 hours
+  - 5 hours
+  - 3 hours (short rest)
+  - 5 hours (aberan learns sending)
+  - 1 hour (aberan learns endure elements)
+  - 1 hour (aberan prepares spells)
+  - 6 hours (down-time in the kodor mountains)
+  - 6 hours (more down-time in kodor mountains)
+  - TOTAL: 36
 
 Remember the run/double movement rule
 * Figure outh how to signal Stuff
@@ -179,6 +181,7 @@ couple pickles
 69 arrows
 flint and steel
 50 ft of rope
+1000gold platinum bar from xinshalast
 
 # from sandpoint after raid
 bunch of rope
@@ -265,6 +268,17 @@ day 105: we did a bunch of permanency stuff
 
 Real Life: January 13, 2019: DND: day 106
 
+Real Life: January 20, 2019: DND: day 107?
+
+We found the path to xinshalast from one of the old dwarve's journal
+- Follow river AVA, on western coast of Fen of the Ice Mist there's a path to follow
+  Once we get to the western coast of the Fen we have to fast under the full moon for the indicator to appear
+
+We spend like 3 days hiking up the mountains, on about day 110
+
+There are 2 groups in Xinshalast, 'The Spared' trades info and 'The minions of the hidden beast', a creature below the
+   city tells them what to do, they are very aggressive
+
 
 
 In Combat
@@ -276,4 +290,7 @@ In Combat
 
 Battle
 ======================================================
-0:
+0: shaken, panicked, cowering
+1: cowering
+2:
+

@@ -332,3 +332,6 @@ buy "amulet of natural armor +5 (for aaberan, used bank gold)" 0gold
 buy "passage to jenderhoff" 25gold
 
 buy "endure elements" 10gold
+
+buy "solid darkness spell" 350gold
+buy "summon genie" 350gold
