@@ -335,3 +335,14 @@ buy "endure elements" 10gold
 
 buy "solid darkness spell" 350gold
 buy "summon genie" 350gold
+
+# dragon horde
+get 64000silver
+get 21000gold
+get 520platinum
+
+# collesium
+get 4500gold
+get 220platinum
+
+buy "permanency and see invisibility scrolls" 675gold

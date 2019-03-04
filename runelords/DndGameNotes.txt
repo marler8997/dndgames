@@ -1,5 +1,10 @@
 Reminders
 ======================================================
+* boots of teleportation
+* we can use planes to change time amounts (might be a plane where 1 day is 1 minute in our plane)
+* permanency scroll, and "see invisibility" scroll
+* sihedron ring (change appearance clothing at will, permanent endure elements)
+* baleful shadow transmutation (sheep/goat/dog)
 * Reminder: can use fly once a day now from celestial armor
 * come back for the books (worth about 10,000gold, as a collection could be worth more)
 * rod of absorbtion
@@ -164,12 +169,14 @@ Group Stuff
 
 Stuff
 ======================================================
+8000gold worth of gems
 rancer from the alluring demon
 bag of holding 2
   - cold weather outfit
   - alchemist fire (x4)
-Potion of restoration (lesser)
 Potion of barkskin x 3
+Potion of remove disease
+Potion of cure moderate wounds x 2
 10 sleep arrows
 32 +1 arrows
 10 +1 giant bane arrows (+2 to hit, + 2d6 dammage)
@@ -181,7 +188,7 @@ couple pickles
 69 arrows
 flint and steel
 50 ft of rope
-1000gold platinum bar from xinshalast
+1000gold platinum bar from Xinshalast
 
 # from sandpoint after raid
 bunch of rope
@@ -279,6 +286,36 @@ We spend like 3 days hiking up the mountains, on about day 110
 There are 2 groups in Xinshalast, 'The Spared' trades info and 'The minions of the hidden beast', a creature below the
    city tells them what to do, they are very aggressive
 
+- Need to kill the one at the colloseum (gammogen)
+- The giants at the top of the mountain
+- The "roper" at the hidden passage NW part of town, there's a balcony (he'll throw his chain at you and rip you up the cliff face)
+- Morgiv (+4 to initiative when in the lower city of Xinshalast)
+
+Real Life: February 3, 2018: DND: day 108?
+
+1. we are in xinshalast, can we find karzug here?
+yes
+2. besides dominant weapons, do we need anything else to defeat karzug?
+yes
+3. are those things in xinshalast?
+yes
+4. we are in the lower level, are they in the upper level?
+yes
+5. are you referring to us?
+yes
+6. is there a way around the roper?
+possibly
+7. are there more guardians after the roper?
+definitely
+8. is he immune to mind-affecting spells?
+some
+9. is resistant to fire dammage
+possibly
+10. do you think we can defeat him?
+hopefully
+
+quil: what advice do you have to get past the roper
+it is not what it appears to be, keep your eyes open
 
 
 In Combat
@@ -290,7 +327,6 @@ In Combat
 
 Battle
 ======================================================
-0: shaken, panicked, cowering
-1: cowering
-2:
+1: Inspire Courage, Haste
+2: Feed potiion to ember
 
