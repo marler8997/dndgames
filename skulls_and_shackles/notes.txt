@@ -1,0 +1,17 @@
+
+Important Skills
+----------------------------------------------------------
+Craft carpentry           | killian |       |      |
+Craft mechanical          |         | karlo |      |
+Craft ships               | killian |       |      |
+Craft seige engines       |         | karlo |      |
+Craft traps               |         | karlo |      |
+Craft gem cutting         |         |       | nyri |
+Craft jewelry             |         |       | nyri |
+Craft mapmaking           |         |       | nyri |
+-------------------------------------------------------------
+Profession sailor         |         | karlo |      |
+Profession seige engineer |         | karlo |      |
+Profession astronomer     |         |       |      |
+Profession gambler        | killian |       |      |
+
