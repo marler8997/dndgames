@@ -1,0 +1,46 @@
+
+
+
+27
+23
+
+26 - brienne
+25 - peebo
+24 - green man
+20 - aberan
+18 - diva
+4 - ember
+
+
+
+
+Timmy Encounter:
+
+37 - ember
+28 - brienne
+20 - diva
+16 - peebo
+8 - alfre
+2 - timmy
+-1 - aberan
+
+
+Crystal Encounter:
+
+HP: 1218/2000
+AC 25: 
+
+Aberan's Mind is in Peebo's Body
+Ember's Mind is in Aberan's Body
+Peeob's Mind is in Ember's Body
+
+31 - peebo (ember's body)
+?? - the green mans
+31 - brienne (in her own body)
+26 - aberan (peebo's body)
+20 - diva (her own body)
+4 - ember (aberan's body)
+    trex
+    divas
+
+4d6 points of fire dammage
