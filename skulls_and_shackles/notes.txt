@@ -1,26 +1,27 @@
 
-Arcanist Guide:
-https://rpgbot.net/pathfinder/characters/classes/arcanist/
-https://rpgbot.net/pathfinder/characters/classes/arcanist/exploits.html
 
 Later Levels:
 Feat: Expanded Preparation
 
-
+8 extra skills per level:
+  - Craft/Profession/Knowledge
 
 Important Skills
-----------------------------------------------------------
-Craft carpentry           | killian |       |      |
-Craft mechanical          |         | karlo |      |
-Craft ships               | killian |       |      |
-Craft seige engines       |         | karlo |      |
-Craft traps               |         | karlo |      |
-Craft gem cutting         |         |       | nyri |
-Craft jewelry             |         |       | nyri |
-Craft mapmaking           |         |       | nyri |
--------------------------------------------------------------
-Profession sailor         |         | karlo |      |
-Profession seige engineer |         | karlo |      |
-Profession astronomer     |         |       |      |
-Profession gambler        | killian |       |      |
+-----------------------------------------------------------------
+Craft carpentry           | killian |       |            | trix |
+Craft mechanical          |         | karlo |            |      |
+Craft ships               | killian |       |            | trix |
+Craft seige engines       |         | karlo |            |      |
+Craft fire arms           |         | karlo |            |      |
+Craft traps               |         | karlo |            |      |
+Craft gem cutting         |         |       | maelnastra |      |
+Craft jewelry             |         |       | maelnastra |      |
+Craft mapmaking           |         |       | maelnastra |      |
+Craft alchemy             | killian | karlo |            |      |
+-----------------------------------------------------------------
+Profession sailor         | killian | karlo | maelnastra | trix |
+Profession seige engineer |         | karlo |            |      |
+Profession astronomer     |         |       | maelnastra |      |
+Profession gambler        |         |       |            | trix |
+-----------------------------------------------------------------
 

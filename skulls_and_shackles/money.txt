@@ -1,0 +1,9 @@
+# starting cash
+get 70g
+
+# gambling
+get 85g
+get 7s
+
+get 40s
+get 27c
