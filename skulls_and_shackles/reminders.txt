@@ -1,0 +1,3 @@
+* free action to use 1 point from arcanist reservior to
+  increate DC or caster level of any spell
+* A Wyroot quarterstaff is a fantastic way to recharge your Arcane Pool. Use it to deal nonlethal damage to unconscious enemies and you can quickly recharge your arcane pool for free.

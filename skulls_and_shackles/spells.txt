@@ -1,0 +1,3 @@
+# TODO:
+
+I need a way to enter spells into a document, then sort/filter them by spell resistance, dammage, school, etc

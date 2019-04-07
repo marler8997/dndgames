@@ -1,4 +1,13 @@
 
+Arcanist Guide:
+https://rpgbot.net/pathfinder/characters/classes/arcanist/
+https://rpgbot.net/pathfinder/characters/classes/arcanist/exploits.html
+
+Later Levels:
+Feat: Expanded Preparation
+
+
+
 Important Skills
 ----------------------------------------------------------
 Craft carpentry           | killian |       |      |
