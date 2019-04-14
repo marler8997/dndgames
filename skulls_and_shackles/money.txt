@@ -5,5 +5,17 @@ get 70g
 get 85g
 get 7s
 
+# exploring the ship
 get 40s
 get 27c
+
+# gold from the box job
+get 20g
+
+# gambling
+lose 1g1s
+get 1g9s
+get 2g1s3c
+
+buy "buy and scribe jolt overlook rope spells" 45g
+buy "3 cure minor wounds" 3x12g

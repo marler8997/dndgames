@@ -1,4 +1,10 @@
 
+* cure potions: take max if you take 3 full rounds to take it
+* craft wand?
+* handy haversack
+* our ship
+   - 2 canons (one each side) can hold up to 8
+
 
 Later Levels:
 Feat: Expanded Preparation
