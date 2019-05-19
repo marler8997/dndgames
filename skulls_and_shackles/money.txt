@@ -19,3 +19,6 @@ get 2g1s3c
 
 buy "buy and scribe jolt overlook rope spells" 45g
 buy "3 cure minor wounds" 3x12g
+
+buy "material for 7 charis" 7s
+buy "sleep scroll" 25g
