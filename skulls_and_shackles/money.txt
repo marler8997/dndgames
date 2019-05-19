@@ -22,3 +22,9 @@ buy "3 cure minor wounds" 3x12g
 
 buy "material for 7 charis" 7s
 buy "sleep scroll" 25g
+
+# from the numan crystal miner I tied up under the ocean
+get 95gold
+
+# paid Norris to help mine the crystal
+lose 3g

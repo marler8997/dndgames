@@ -2,7 +2,6 @@
 * Learn how to make furniture (need wood and furniture hardware)
 * Get sleep spell? Useful for animals
 * Buy cure light wounds potions
-* Take 3 hours to scribe jolt/overlook/rope
 
 * Prepare my spells each morning
 
