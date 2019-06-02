@@ -5,7 +5,6 @@
 * our ship
    - 2 canons (one each side) can hold up to 8
 
-
 Later Levels:
 Feat: Expanded Preparation
 
@@ -31,3 +30,5 @@ Profession astronomer     |         |       | maelnastra |      |
 Profession gambler        |         |       |            | trix |
 -----------------------------------------------------------------
 
+Sailing bonus:
+Two sailor slots must be filled.  Sailors with modifiers take precedence.

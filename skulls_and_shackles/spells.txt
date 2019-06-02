@@ -10,6 +10,16 @@ Hoarfrost
 Level 1 Spells of Interest
 --------------------------
 
-Level 1 Spells of Interest
---------------------------
-False Life!!!
+
+* How to get spells
+  - copy from scrolls (1 hour per spell level)
+  - copy from another spellbook (1 hour per spell level)
+  - rip a page from another spellbook to use as a scroll
+  cost:
+    level 0 - 5g
+    level 1 - 10g
+    level 2 - 40g
+    level 3 - 90g
+    level 4 - 160g
+    level 5 - 250g
+    level 6 - 360g

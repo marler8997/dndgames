@@ -1,1 +1,16 @@
-Chair: 1s material (worth 1g) (6 hours)
+1s for material
+1 day to make a piece
+
+use "Perform" table for bards to determine value, except add 1 silver to each entry (price of material).
+if natural 1, lose the material
+
+--------------------------------------------------------------
+Bard Perform Table
+--------------------------------------------------------------
+10     1d10 copper/day
+15     1d10 silver/day
+20     3d10 silver/day
+25     1d6 gold/day
+30     3d6 gold/day
+
+Also note that I could try to make specific peices to make more money.  These peices could take multiple days but have a larger reward.

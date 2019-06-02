@@ -2,6 +2,8 @@
 Crew/Passengers
 ==========================================================
 
+3 x NPC at 1s/day
+
 Dungarth Bilgur (Dung)
 -------------------------
 
@@ -24,12 +26,14 @@ Manafor
 +1 sailing
 -5 diplomacy
 
+Tamica
+-------------------------
+?
 
-Noris (killed all his Gem Miner buddies)
-Taran (the other Gem Miner)
 
-Greylock (in bedroom)
-Tamica (found in the brig, didn't know who greylock was)
+
+
+Also transporting 6 crew members to pick up our ship
 
 
 Special Abilities
@@ -50,3 +54,12 @@ Cargo
 * Salted Fish
 * Sugar
 * 5 chests of clear crystal from the cave where we found greylock
+
+
+
+Past Crew
+==========================================================
+Bella Rosley: ?
+Billy Coyle: 1g/day
+Vincent Cuddlescarf: 1g/day
+Kasaki Shanks: 3g/day

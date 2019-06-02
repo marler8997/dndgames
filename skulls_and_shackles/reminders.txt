@@ -1,7 +1,11 @@
+
+* waterproof spellbook (2 coats)
+* build the dining set
+    - rolled 18 (1 chair)
+    - rolled 12 (1 chair)
 * need waterproof container for spell book
-* Learn how to make furniture (need wood and furniture hardware)
-* Get sleep spell? Useful for animals
-* Buy cure light wounds potions
+    * commisioned waterproof bag from carvin puddle for 20g, get when you come back to Port Drake
+* buy handy haversack or pathfinders patch
 
 * Prepare my spells each morning
 
@@ -10,16 +14,3 @@
 * A Wyroot quarterstaff is a fantastic way to recharge your Arcane Pool. Use it to deal nonlethal damage to unconscious enemies and you can quickly recharge your arcane pool for free.
 * Elven Magic - +2 to Spell Resistance and +2 Spellcraft to identify properties on magic items
 * Aquatic Mastery - +1 DC on any spell with "water" descriptor
-
-* How to get spells
-  - copy from scrolls (1 hour per spell level)
-  - copy from another spellbook (1 hour per spell level)
-  - rip a page from another spellbook to use as a scroll
-  cost:
-    level 0 - 5g
-    level 1 - 10g
-    level 2 - 40g
-    level 3 - 90g
-    level 4 - 160g
-    level 5 - 250g
-    level 6 - 360g

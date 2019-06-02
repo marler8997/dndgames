@@ -28,3 +28,27 @@ get 95gold
 
 # paid Norris to help mine the crystal
 lose 3g
+
+# payment for saving Ben Greylock
+get 18platinum
+
+sell "potiion of jump" 20g
+sell "potion of sanctuary" 20g
+
+buy "furniture material" 8s
+sell "made furniture" 3g1s
+sell "wide brimed hat" 1s
+sell "composite long bow" 50g
+sell "sap" 5s
+sell "buckler" 2g5s
+sell "arrows" 19x5c
+
+buy "false life" 25g
+buy "cure light wounds potiion" 50g
+buy "waterproof oil for spellbook" 5s
+buy "2 lbs of good enough cheese" 5s
+
+# pay for ship repair
+lose 30g
+
+buy "copy false life" 40g
