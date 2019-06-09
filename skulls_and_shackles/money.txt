@@ -52,3 +52,14 @@ buy "2 lbs of good enough cheese" 5s
 lose 30g
 
 buy "copy false life" 40g
+
+# sugar/fish deliveries
+get 175g
+
+# bought scroll in Russet City from Loray Elseone (Elseone's Shop)
+buy "silent image" 25g
+buy "air bubble" 25g
+buy "trip line" 12g5s
+buy "ventriloquism" 25g
+buy "unseen servant" 25g
+buy "hoarfrost" 12g5s

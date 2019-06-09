@@ -1,0 +1,8 @@
+# 
+get 3p
+
+# from deliveries
+get 50g
+
+# entrance to russet city
+lose 1s

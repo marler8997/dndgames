@@ -5,11 +5,19 @@ I need a way to enter spells into a document, then sort/filter them by spell res
 
 Level 0 Spells of Interest
 --------------------------
-Hoarfrost
 
 Level 1 Spells of Interest
---------------------------
+-------------------------
+Prot from evil? good?
+Magic Weapon? Buf one of our fighters.
+Obscuring Mist
+Disguise Self
 
+Level 2 Spells of Interest
+--------------------------
+Invisibility
+Glitterdust
+Alter Self
 
 * How to get spells
   - copy from scrolls (1 hour per spell level)
