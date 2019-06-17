@@ -63,3 +63,6 @@ buy "trip line" 12g5s
 buy "ventriloquism" 25g
 buy "unseen servant" 25g
 buy "hoarfrost" 12g5s
+
+# from bandits
+get 20g201s

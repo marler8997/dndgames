@@ -14,12 +14,6 @@ Nikolai Havoc
 +1 seige engine
 +1 bluff for smuggling
 
-Jerrica Firewitch
--------------------------
-8g a day
--1 sailing
-+5 carpentry (repairing)
-
 Manafor
 -------------------------
 +2 handle animal
@@ -29,8 +23,6 @@ Manafor
 Tamica
 -------------------------
 ?
-
-
 
 
 Also transporting 6 crew members to pick up our ship
@@ -53,7 +45,7 @@ Cargo
 ==========================================================
 * 5 chests of clear crystal from the cave where we found greylock
 
-
+* 2 Capture Cages (1 medium and 1 small)
 
 Past Crew
 ==========================================================
@@ -61,3 +53,9 @@ Bella Rosley: ?
 Billy Coyle: 1g/day
 Vincent Cuddlescarf: 1g/day
 Kasaki Shanks: 3g/day
+
+Jerrica Firewitch
+-------------------------
+8g a day
+-1 sailing
++5 carpentry (repairing)
