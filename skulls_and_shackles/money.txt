@@ -66,3 +66,9 @@ buy "hoarfrost" 12g5s
 
 # from bandits
 get 20g201s
+
+# light snake job
+get 150g
+
+# heirloom job
+get 500g
