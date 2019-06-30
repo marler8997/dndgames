@@ -1,0 +1,792 @@
+Please read the disclaimer before you recommend new items for the list.
+
+Disclaimer: This list is designed to provide items that would otherwise not occur to players when shopping. When your Druid has his Wild armor and his Druid’s Vestment, and you don’t know what else to buy for him, you can look here. This list is NOT meant to be a repository for every useful item in the game, because virtually anything can be made useful under certain circumstances. Please do not bitch and moan about “Why isn’t Headband of Vast Intelligence under Wizard?” because every wizard already has one. For the same reason, you will not find Belts of Physical Stat; basic weapon enhancements like Bane, Flaming, or Keen; basic armor enhancements like Fortification or Ghost Touch; Cloaks of Resistance; and so on.
+
+This list also does not contain: 
+Mythic items, unless they are useful to non-Mythic characters.
+Cursed Items,
+ Artifacts,
+wands/potions,
+Mundane, non-magical items, including alchemical items,
+Technological items,
+Anything craftable with Craft Construct or Grow Plant Creature.
+
+Items with a price of "Varies" have multiple types with different costs, or have scaling prices depending on the player's level; see Scaling Magic Items.
+
+Items on this list are useful to the most common build under which they are listed; some items are listed more than once. 
+If at any point you ask yourself, "But Patrick; why isn't X item on this list?" The answer is most likely one of the following:
+I decided it was too narrow or specific to be useful to an average character for whom it would have been made
+It doesn't support the spirit of the game (For example; a Flying Sled is a boat that flies, but can only carry one occupant, in a game where multiple players is the norm)
+That item doesn't actually benefit that specific class (For example, the Samisen of Oracular Vision isn't particularly useful for Oracles)
+It may be at the bottom under "Cool, Random Shit"
+I didn't know it existed
+I might have thought it was stupid
+I encourage you to send me a message regardless; if I agree with you that whatever item you tell me about is useful enough that it should go on the list, I'll add it. I’m on Reddit at BrotherPatrick.
+
+If your build is less like the traditional class it plays (for example, if you're playing a Ranger who uses Firearms, or a Vivisectionist Alchemist), it is possible that you will find more useful items under the entry for the class you are most approximating. I recommend you check classes and builds that might be closer to what you’re playing.
+
+This list will also be updated as new books come out, and will typically be up-to-date with all Paizo material the week such books are published. 
+
+Class/build    Item                    Slot        Price
+
+Aid Another Builds
+    Benevolent Armor Enhancement        Armor        2000
+    Benevolent Weapon Enhancement        Weapons    +1 bonus
+    Gloves of Arcane Striking            Hands        5000
+
+Alchemist (+Anything Extract-, Mutagen, or Potion-Related)
+    Admixture Vial                    None        5000
+    Alchemist’s Aspergillum            Weapons    2805
+    Alchemist's Atlatl                None        1500
+    Battlepot                    Weapons    9312
+    Blackwick Cauldron                None        8850
+    Boro Bead                    None        Varies
+    Caduceus Rod                Rods        142000
+    Explosion Pocket                None        3000
+    Focusing Flask                None        700
+    Formula Alembic                None        200
+    Homunculus Clay                None        4100
+    Hybridization Funnel                None        200
+    Monstrification Staff                Staves        12000
+    Poisoner’s Gloves                Hands        5000
+    Preserving Flask                 None        Varies
+    Sipping Jacket                    Chest        5000
+    Vest of Stable Mutation            Chest        20000
+    Volatile Vaporizer                None        Varies
+
+Antipaladin (+"Good For Evil" Items)
+    Bastard's Sting                Weapons    123035
+    Choker of the Rough Beast            Neck        100000
+    Conductive Weapon Enhancement        Weapons    +1 bonus
+    Dastard Armor Enhancement            Armor        +1 bonus
+    Deceiving Armor Enhancement        Armor        5000
+    Grayflame Weapon Enhancement        Weapons    +1 bonus
+    Mail of Malevolence                Armor        61300
+    Pallid Crystal                    Neck        3300
+    Phylactery of Negative Channeling        Headband    11000
+    Righteous Fist Amulet                Neck        4000
+    Rod of the Deadlord                Rods        Varies
+    Void Scythe                    Weapons    95318
+    Warding Armor Enhancement        Armor        +1 bonus
+    Withershot                    Weapons    34800
+
+Arcanist
+    Blessed Book                    None        12500
+    Bookplate of Recall                None        1000
+
+Archery/Crossbow Builds (+General Ranged)
+    Blightburn Arrow                Weapons    3000
+    Bracers of Archery                Wrists        Varies
+    Conserving Weapon Enhancement        Weapons    +1 bonus
+    Driving Weapon Enhancement        Weapons    +1 bonus
+    Efficient Quiver                None        1800
+    Legacy Arrow                    Weapons    Varies
+    Nightbane Quiver                None        16000
+    Nimble Shot Weapon Enhancement        Weapons    +4 bonus
+    Silver Nocking Point                None        3150
+    Swarmbow                    Weapons    11275
+
+Barbarian (+Anything "rage"-y)
+    Amulet of Uncanny Defense            Neck        5000
+    Bloodthirsty Armor Enhancement        Armor        +2 bonus
+    Cord of Stubborn Resolve            Belts        15000
+    Earth Breaker of Righted Justice        Weapons    61340
+    Flame of Bakrakhan                Head        10000
+    Furious Weapon Enhancement        Weapons    +1 bonus
+    Hamatula Hide                Armor        44215
+    Headband of Havoc                Headband    8000
+    Helm of Fearsome Mein            Head        5000
+    Horn of Battle Clarity                None        6000
+    Invigorating Weapon Enhancement        Weapons    +2 bonus
+    Mark of the Grinning Skull            Headband    Varies
+    Molvenn                    Weapons    63312
+    Spear of the Honored Ancestors        Weapons    15302
+    Torc of Bloody Rage                Neck        8000
+    Torc of Enmity                    Neck        9500
+    Torc of Lionheart Fury                Neck        8000
+    Warbringer                    Weapons    61375
+
+Bard (Most "perform"-related things)
+    Banner of the Ancient Kings            None        18000
+    Book of the Loremaster            None        15000
+    Bracers of the Glib Entertainer        Wrists        7900
+    Daring Dancers                Feet        16000
+    Dervish Sikke                    Head        10000
+    Doomharp                    None        10000
+    Glorious Gorget                Neck        Varies
+    Harmonizing Armor Enhancement        Armor        15000
+    Hero's Hauberk                Armor        16600
+    Lute of Discord                None        37900
+    Luthier's Rapier                Weapons    25020
+    Musical Staff                    Staves        32000
+    Player's Prize                    None        3000
+    Poet's Cloak                    Shoulders    9750
+    Rallying Armor Enhancement            Armor        5000
+    Resplendant Robe of the Thespian        Body        75000
+    Ring of Spell Knowledge            Rings        Varies
+    Rod of Beguiling                Rods        18000
+    Soothing Lyre                    None        45000
+    Staff of Accompaniment            Staves        14800
+    Three Reasons to Live            None        9000
+    Tuned Bowstring                None        18000
+
+Bloodrager
+    Invigorating Weapon Enhancement        Weapons    +2 bonus
+    Flame of Bakrakhan                Head        10000
+    Ring of Ancestral Blood Magic        Rings        4000
+    Ring of Lingering Blood Magic        Rings        2000
+    Ring of Powerful Blood Magic        Rings        3000
+    Ring of Vengeful Blood Magic        Rings        5400
+    Ring of Spell Knowledge            Rings        Varies
+
+Brawler
+    Belt of Superior Maneuvers             Belts        Varies
+    Brawling Armor Enhancement        Armor        +1 bonus
+    Monk’s Robe                    Body        13000
+    Sash of Flowing Water            Belts        25000
+    Serpentine Tattoo                None        2000
+    Skullcrusher Gauntlets            Hands        15302
+
+Casters (Items listed here are valuable to more than one type of caster, but not necessarily all types)
+    Amulet of Reverse Incantation        Head        20000
+    Armband of the Golden Serpent        Wrists        20000
+    Caster's Tattoo                None        Varies
+    Centering Jewel (Psychic)            Headband    1000
+    Cookbook of Arcane Augmentation        None        21500
+    Diminishing Sash                Belt        5000
+    Efficient Quiver                None        1800
+    Glorious Tabard                Body        Varies
+    Goblet of Liquified Cognition            None        18000
+    Headband of Arcane Energy            Headband    20000
+    Incense of Meditation (Divine)        None        4900
+    Mage's Crossbow                Weapons    18335
+    Magician's Hat                    Head        20000
+    Mask of Conflicting Energies            Head        4000
+    Mnemonic Vestment                Body        5000
+    Page of Spell Knowledge            None        Varies
+    Pearl of Power                None        Varies
+    Pearl of Puissance                None        Varies
+    Prophet's Pectoral (Divine)            Chest        6000
+    Recondite Rod (Psychic)            Rods        Varies
+    Reservoir Tattoo                None        10000
+    Ring of Continuation                Rings        50000
+    Ring of Counterspells                Rings        4000
+    Ring of Mysticism (Psychic)            Rings        Varies
+    Ring of Psychic Mastery (Psychic)        Rings        50000
+    Ring of Spell Storing                Rings        50000
+    Ring of Sustenance                Rings        2500
+    Ring of Wizardry (Arcane)            Rings        Varies
+    Robe of the Archmagi (Arcane)        Body        75000
+    Robe of the Overmind (Psychic)        Body        75000
+    Robe of Components                Body        5000
+    Robe of Runes                Body        44000
+    Runestone of Power                None        Varies
+    Shard of Psychic Power (Psychic)        None        Varies
+    Shield of the Mage                Shields    14500
+    Spellguard Bracers                Wrists        5000
+    Spell Lattice                    None        Varies
+    Spell Storing Armor Enhancement        Armor        +1 bonus
+    Spell Storing Weapon Enhancement        Weapons    +1 bonus
+    Talons of Leng                    Hands        67000
+    Unicorn's Blackened Horn (Divine)        None        50000
+    Wizard Hook                    Weapons    4310
+
+Cavalier (+Anything Mount-Related)
+    Caparison of Resistance            Shoulders    Varies
+    Cavalryman's Bow                Weapons    10330
+    Challening Shield                Shields    5170
+    Champion Armor Enhancement        Armor        +1 bonus
+    Champion's Banner                None        8000
+    Clandestine Horseshoes            Feet        6000
+    Cloak of the Crusader                Shoulders    2700
+    Commander's Banner                None        10000
+    Crown of Challenge                Head        21000
+    Dastard Armor Enhancement            Armor        +1 bonus
+    Emissary's Breastplate            Armor        11350
+    Equestrian Belt                Belts        3200
+    Equestrian Plate                Armor        10650
+    Heroic Saddle                    Belts        Varies
+    Horsemaster's Saddle                None        12000
+    Horseshoes of a Zephyr            Feet        6000
+    Horseshoes of Crushing Blows        Feet        Varies
+    Horseshoes of Glory                Feet        39600
+    Horseshoes of Sacred Silver            Feet        20000
+    Imperial Army Greathelm            Head        29000
+    Jousting Armor Enhancement        Armor        3750
+    Knight-Captain's Lance            Weapons    22710
+    Knight-Inheritor's Ring            Rings        3000
+    Mammoth Lance                Weapons    32310
+    Rallying Armor Enhancement            Armor        5000
+    Resplendent Uniform Coat            Chest        7000
+    Shield of Countless Causes            Shields    11157
+    Valiant Weapon Enhancement        Weapons    +1 bonus
+    Valor's Minion                    Weapons    41335
+    Vambraces of the Tactician            Wrists        8000
+    War Lance                    Weapons    10310
+    War Saddle                    Belts        5000
+
+Cleric (+Anything Channel-Related)
+    Blessed Keepsake                Neck        8000
+    Candle of Invocation                None        8400
+    Channeler's Aspergillum            Weapons    36305
+    Channeling Shield Enhancement        Shields    18000
+    Conductive Weapon Enhancement        Weapons    +1 bonus
+    Construct Channel Brick            None        10000
+    Daylight Diadem                Head        20000
+    Death Warden's Bandolier            Chest        15000
+    Ghostvision Gloves                Hands        4000
+    Glory Medallion                None        5000
+    Gloves of Stolen Unlife            Hands        3040
+    Grayflame Weapon Enhancement        Weapons    +1 bonus
+    Guided Weapon Enhancement        Weapons    +1 bonus
+    Guiding Vellum                None        Varies
+    Icon of Aspects                None        5500
+    Inheritor's Gauntlet                Hands        2700
+    Key of the Second Vault            Neck        3000
+    Malleable Symbol                None        10000
+    Mantle of the Faithful Vessel            Chest        10000
+    Pallid Crystal                    Neck        3300
+    Phylactery of Faithfulness            Headband    1000
+    Phylactery of [Pos/Neg] Channeling        Headband    11000
+    Pyxes of Redirected Focus            None        1000
+    Regalia of Heaven                Several    Varies
+    Righteous Fist Amulet                Neck        4000
+    Ring of Curing                    Rings        10000
+    Ring of Protected Life                Rings        9000
+    Ring of the Trickster                Rings        Varies
+    Sacrosanct Weapon Enhancement        Weapons    5000
+    Scepter of Divine Providence            None        17312
+    Symbol of Luck                None        6000
+    Uplifting Boots                    Feet        11000
+
+Critical builds
+    Gloves of Marking                Hands        7200
+    Keen Weapon Enhancement            Weapons    +1 bonus
+    Pendant of the Blood Scarab            Neck        1000
+    Thirsting Blade                Weapons    Varies
+
+Druid
+    Animal Totem Tattoo                None        12000
+    Beast Talisman                Neck        18900
+    Druid's Vestments                Body        3750
+    Evergreen Seed Pouch            None        16000
+    Guided Weapon Enhancement        Weapons    +1 bonus
+    Goreclaw of Thercerrod            Hands        23305
+    Hollywreath Band                Headband    5700
+    Mask of Giants                Head        Varies
+    Midsummer Sickle                Weapons    7806
+    Polymorphic Pouch                None        5000
+    Ring of Natural Attunement            Rings        Varies
+    Ring of Sacred Mistletoe            Rings        6000
+    Rod of Giant Summoning            Rods        Varies
+    Scarab Breastplate                Armor        32350
+    Vermin Mask                    Head        10080
+    Wild Armor Enhancement            Armor        +3 bonus
+    Zenj Totem Staff                Staves        24800
+
+Fighter (+Armor and Weapon Training)
+    Band of the Stalwart Warrior            Headband    14000
+    Gloves of Dueling                Hands        15000
+    Manual of War                    None        7500
+    Sash of the War Champion            Chest        4000
+
+Feint builds (Note: Things that boost Bluff are not listed; only items specifically beneficial to Feinting)
+    Deceptive Weapon Enhancement        Weapons    +1 bonus
+    Eyes of the Liar                Eyes        16000
+    Headband of Ninjitsu                Headband    15000
+    Mask of Stony Demeanor            Head        8000
+
+Grapple builds
+    Anaconda’s Coils Belt                Belts        18500
+Beast Wrestler's Gloves            Hands        7500
+    Demonspike Pauldrons            Shoulders    14350
+    Form-Fixing Gauntlets            Hands        8000
+    Mantis Embrace                Hands        50000
+    Quicksand Cloak                Shoulders    15000
+    Ratcheting Gauntlets                Hands        12000
+
+Gunslinger (+Anything Gun-related)
+    Beneficial Bandolier                Belt        1000
+    Burrowing Bullet                Weapons    Varies
+    Deadshot Vest                    Chest        6000
+    Driving Weapon Enhancement        Weapons    +1 bonus
+    Dry Load Powder Horn            None        2000
+    Endless Bandolier                Chest        1500
+    Far-Reaching Sight                None        4000
+    Gunman's Duster                Body        36000
+    Guns of the Twin Drakes            Weapons    18600
+    Holdout Ring                    Rings        11000
+    Lucky Weapon Enhancement            Weapons    Varies
+    Oil of Silence                    None        250
+    Penetrating Ammunition Enhancement    Weapons    +2 bonus
+    Phantom Ammunition Enhancement        Weapons    2000
+    Pistol of the Infinite Sky            Weapons    73300
+    Reliable Weapon Enhancement        Weapons    Varies
+    Reporting/Scouting Cartridge            Weapons    566
+    Ring of Grit Mastery                Rings        6840
+    Ring of Resilience                Rings        15000
+    Sea Banshee's Coat                Armor        3605
+    See Invisibility Sight                None        12000
+    Seraphic Pistol                Weapons    37550
+    Sharpshooter's Blade                Weapons    7305
+    Shieldmarshal's Pistol                Weapons    20050
+    Slate Spider Figurine                None        10000
+    Sonic Boom Weapon Enhancement        Weapons    +3 bonus
+
+Hunter (See Also: Pet builds)
+    Guided Weapon Enhancement        Weapons    +1 bonus
+    Menacing Weapon Enhancement        Weapons    +1 bonus
+    Headband of the Wolf                Headband    5000
+
+Inquisitor (May also benefit from items under Casters)
+    Bane Baldric                    Chest        10000
+    Death Mask                    Head        16000
+    Deceiving Armor Enhancement        Armor        5000
+    Exorcist's Aspergillum                None        8000
+    Guided Weapon Enhancement        Weapons    +1 bonus
+    Inquisitor's Bastion Vambraces        Wrist        4000
+    Jurist Weapon Enhancement            Weapons    +1 bonus
+    Righteous Fist Amulet                Neck        4000
+    Stole of Justice                Shoulders    18000
+    Torc of Enmity                    Neck        9500
+
+Intimidate Builds
+    Diplomat's Traveling Stick            Weapons    9345
+    Glorious Gorget                Neck        Varies
+    Gory Weapon Enhancement            Weapons    +3 bonus
+    Mark of the Grinning Skull            Headband    Varies
+    Ominous Weapon Enhancement        Weapons    +1 bonus
+
+Investigator (See Alchemist for Extract-based equipment)
+    Inspired Weapon Enhancement        Weapons    +1 bonus
+    Investigator's Pipe                None        9000
+    Lepidstadt Investigator's Hat            Head        7000
+    Scoundrel's Sword Cane            Weapons    20925
+
+Kineticist
+    Hollow Rod                    Rods        121500
+    Kineticist's Diadem                Headband    Varies
+    Overflowing Rod                Rods        25000
+    Skyspirit Stone                None        2000
+    Vril Staff                    Staves        200000
+
+Leadership Builds
+    Breastplate of Command            Armor        25400
+    Crown of Conquest                Head        24600
+    Diadem of Inspiring Rule            Head        4500
+    Imperial Army Greathelm            Head        29000
+    Ring of the Ecclesiarch            Rings        28500
+    Suzerain Scepter                None        20000
+
+Magus (+Arcane Strike-related items)
+    Gloves of Arcane Striking            Hands        5000
+    Ring of Arcane Mastery            Rings        20000
+    Signifer's Fist                    Weapons    10305
+    Spell Hurling Weapon Enhancement        Weapons    +1 bonus
+    Spellstrike Gloves                Hands        8000
+
+Medium
+
+Melee Builds (In General; Reach and Two-Weapon builds are here too)
+    Amulet of Quaking Strikes            Neck        28000
+    Belt of Thunderous Charging            Belts        10000
+    Bonebreaker Gauntlets            Wrists        6000
+    Duelist's Vambraces                Wrists        8000
+    Effortless Lace                Weapons    2500
+    Growing Weapon Enhancement        Weapons    +1 bonus
+    Impact Weapon Enhancement        Weapons    +2 bonus
+    Irongrip Gauntlets                Hands        4000
+    Juggernaut's Pauldrons            Shoulders    40000
+    Multimetal Mace                Weapons    Varies
+    Rod of Razors                    Weapons    65000
+    Rust Monster Antenna Whip            Hands        56000
+    Shield Cloak                    Shoulders    1000
+
+Mesmerist
+    Mask of the Mesmerist            Head        25000
+
+Monk (+Anything Unarmed Strike-related)
+    Amulet of Hidden Strength            Neck        9000
+    Amulet of Mighty Fists            Neck        Varies
+    Blade of the Sword-Saint            Weapons    75350
+    Deliquescent Gloves                Hands        8000
+    Extractor's Gloves                Hands        5000
+    Guided Weapon Enhancement        Weapons    +1 bonus
+    Hamatalatsu Robe                Body        14000
+    Hand Wraps of Blinding Ki            Hands        10000
+    Headband of Ki Focus            Headband    5400
+    Hurricane Quarterstaff            Weapons    7840
+    Husk Dart                    Weapons    19301
+    Ki Focus Weapon Enhancement        Weapons    +1 bonus
+    Ki Intensifying Weapon Enhancement    Weapons    +2 bonus
+    Ki Mat                        None        10000
+    Monk's Robe                    Body        13000
+    Necklace of Ki Serenity            Neck        16000
+    Necklace of Spectral Strikes            Neck        35500
+    Prayer Wheel of Ethical Strength        None        10000
+    Quarterstaff of Contemplation        Weapons    34800
+    Ring of Adept Maneuvers            Rings        15000
+    Ring of Ki Mastery                Rings        10000
+    Sandals of the Lightest Step            Feet        5000
+    Sandstorm Sandals                Feet        15000
+    Sash of Flowing Water            Belt        25000
+    Serpentine Tattoo                None        2000
+    The Master's Name                None        25000
+
+Natural Weapon Builds
+    Belt of the Snake King            Belts        2600
+    Cloak of Fangs                Shoulders    2800
+    Fleshwarped Scorpion's Tail            Weapons    18505
+    Pelt of the Beast                Shoulders    15600
+    Rending Claw Blade                Weapons    10305
+
+Ninja (Anything Ki-Related is also under Monk)
+    Amulet of Hidden Strength            Neck        9000
+    Armor of the Shadow Lord            Armor        117160
+    Cloak of Daggers                Shoulders    18000
+    Headband of Ki Focus            Headband    5400
+    Headband of Ninjitsu                Headband    15000
+    Hurricane Quarterstaff            Weapons    7840
+    Husk Dart                    Weapons    19301
+    Menacing Weapon Enhancement        Weapons    +1 bonus
+    Neckless of Ki Serenity            Neck        16000
+    Ring of Ki Mastery                Rings        10000
+    Ring of Swarming Stabs            Rings        6000
+    Shozoku of the Night Wind            Body        12000
+    Sniper Goggles                Eyes        20000
+    Stag's Helm                    Head        3500
+    Sword of Subtlety                Weapons    22310
+    The Master's Name                None        25000
+    Tsuruhashi, the Silent Crane            None        16101
+
+Occultist
+    Eye of the Overwatched            Neck        Varies
+    Meldrel's Underwater Orb            None        32000
+    Spidersilk Medallion                Neck        3240
+    Refocusing Rod                Rods        5000
+    Wing of the Shorn Harpy            None        48000
+
+Oracle
+    Cassock of the Black Monk            Body        34000
+    Incense of Transcendence            None        1000
+    Ring of Revelation                Rings        Varies
+    Soothsayer's Raiment                Armor        10,300
+
+Paladin
+    Armor of the Pious                 Armor        23300
+    Bracelet of Mercy                Wrists        15000
+    Bracers of Celestial Intervention        Wrists        16000
+    Bracers of the Avenging Knight        Wrists        11500
+    Bracers of the Merciful Knight        Wrists        15600
+    Champion Armor Enhancement        Armor        +1 bonus
+    Conductive Weapon Enhancement        Weapons    +1 bonus
+    Crusader's Longsword            Weapons    47315
+    Crusading Armor Enhancement        Armor        +1 bonus
+    Grayflame Weapon Enhancement        Weapons    +1 bonus
+    Holy Avenger                    Weapons    120630
+    Insignia of Valor                None        8000
+    Mantle of the Crusader Host            Chest        95000
+    Merciful Baldric                Chest        60000
+    Merciful Vambraces                Wrists        8000
+    Ornament of Healing Light            None        10000
+    Rallying Armor Enhancement            Armor        5000
+    Righteous Fist Amulet                Neck        4000
+    Sacred Avenger                Weapons    Varies
+    Silver Smite Bracelet                Wrists        16000
+    Uplifting Boots                    Feet        11000
+    Valor's Minion                    Weapons    41335
+    Vestments of War                Body        14000
+
+Psychic
+    Ring of Phrenic Prowess            Rings        20000
+
+Pet Builds
+    Bridle of Tricks                Head        Varies
+    Dire Collar                    Neck        1000
+    Familiar's Soulstone                None        10500
+    Hosteling Armor Enhancement        Armor        7500
+    Stone of Alliance                None        5000
+    Whistle of Calling                None        6300
+
+Poison Builds
+    Amazing Tools of Manufacture        None        12000
+    Arachnid's Fang                Weapons    18302
+    Band of Efficacious Death            Ring        9250
+    Beaker of Plentiful Poisons            None        Varies
+    Blight Kickers                    Feet        13500
+    Calistrian Kiss                    Weapons    26380
+    Choker of the Siphoning Scorpion        Neck        8000
+    Dark Green Rhomboid Ioun Stone        Ioun Stones    8000
+    Deadly Kiss                    Weapons    10302
+    Injecting Weapon Enhancement        Weapons    +1 bonus
+    Poison Vial of Distance            None        3000
+    Poisoner's Gloves                Hands        5000
+    Poisoner's Jacket                Chest        Varies
+    Poisoning Armor Enhancement        Armor        +1 bonus
+    Snakebite Dagger                Weapons    9760
+    Toxic Weapon Enhancement            Weapons    +2 bonus
+    Virulent Weapon Enhancement        Weapons    +1 bonus
+    Vulnerability Bolt                Weapons     496
+
+Prestige Classes
+    Anaphexis Robe (Assassin)            Body        16000
+    Assassin’s Dagger (Assassin)        Weapons    10302
+    Bastion Boots (Stalwart Defender)        Feet        10500
+    Daring Dancers (Shadowdancer)        Feet        16000
+    Fortifying Leeches (Bloatmage)        None        6000
+    Scabbard of True Death (Assassin)        None        32000
+    Shadow Jumper's Tunic (Shadowdancer)    Chest        16200
+    Shieldmarshal’s Ward     (Shieldmarshal)    Shield        17155
+    Swordlord’s Cloak (Aldori Swordlord)        Shoulders    Varies
+    Tsuruhashi, the Silent Crane (Assassin)    Weapons    16101
+
+Ranger
+    Boots of Friendly Terrain            Feet        2400
+    Enmity Fetish                    None        40000
+    Guerrilla Bandanna                Headband    18000
+    Horn of Antagonism                None        20000
+    Horn of the Huntsmaster            None        5000
+    Hunter's Band                    Headband    11000
+    Hunter's Cloak                    Shoulders    7500
+    Shifter's Sorrow                Weapons    12780
+    Spear of the Huntmaster            Weapons    Varies
+    Trapmaker's Sack                None        20000
+    Windreader's Bow                Weapons    54400
+
+Rogue (Stealthing, Sneak Attacking, Thieving, and Trap Disarming are all here)
+    Amulet of Uncanny Defense            Neck        5000
+    Armor of the Shadow Lord            Armor        117160
+    Assassin's Sight                None        Varies
+    Brass Spider                    None        2500
+    Burglar's Buckler                Shields    4655
+    Clicking Blade                    Weapons    10310
+    Cloak of Daggers                Shoulders    18000
+    Clustershot Ammunition Enhancement    Weapons    +1 bonus
+    Daggermark Blade                Weapons    8302
+    Daredevil Softpaws                Feet        1400
+    Debilitating Weapon Enhancement        Weapons    +1 bonus
+    Engineer's Workgloves            Hands        3000
+    Headband of Ninjitsu                Headband    15000
+    Lacerating Rapier                Weapons    10302
+    Manteau of the Mouse            Chest        12500
+    Menacing Weapon Enhancement        Weapons    +1 bonus
+    Mistmail                    Armor        2250
+    Murderer's Blackcloth                Armor        12405
+    Pickpocket's Bandolier            Chest        12500
+    Phantom Ammunition Enhancement        Weapons    2000
+    Quick Action Slippers                Feet        10000
+    Restless Lockpicks                None        8000
+    Ring of Swarming Stabs            Rings        6000
+    Scabbard of True Death            None        32000
+    Shadow Armor Enhancement            Armor        Varies
+    Shadow Fletching                Head        8000
+    Sneaky Weapon Enhancement        Weapons    +1 bonus
+    Sniper Goggles                Eyes        Varies
+    Stag's Helm                    Head        3500
+    Sword of Subtlety                Weapons    22310
+    Ring of Invisibility                Rings        20000
+    Ring of the Trickster                Rings        Varies
+    Trap Stealer's Rod                Rods        13500
+    Trapspringer's Gloves                Hands        4000
+    Traveler's Any-Tool                None        250
+    Vest of the Cockroach                Chest        16000
+    Whispering Gloves                Hands        15400
+
+Samurai
+    Challenging Shield                Shields    5170
+    Champion's Banner                None        8000
+    Champion Armor Enhancement        Armor        +1 bonus
+    Dastard Armor Enhancement            Armor        +1 bonus
+    Headband of Deathless  Devotion        Headband    6400
+    Tunic of Deadly Might                Chest        6000
+    Valiant Weapon Enhancement        Weapons    +1 bonus
+
+Shaman (Hex-Based Items are also under Witch)
+    Amulet of the Spirits                Neck        Varies
+    Guided Weapon Enhancement        Weapons    +1 bonus
+    Rod of Abrupt Hexes                Rods        75500
+    Rod of Grasping Hexes            Rods        11000
+    Rod of Interminable Hexes            Rods        11000
+    Rod of Potent Hexes                Rods        54000
+    Rod of Voracious Hexes            Rods        32500
+    Zenj Totem Staff                Staves        24800
+
+Skald (Some of this stuff is also Bardy)
+    Bloodsong Weapon Enhancement        Weapons    +1 bonus
+    Flame of Bakrakhan                Head        10000
+    Harmonizing Armor Enhancement        Armor        15000
+    Howling Bracers                Wrists        7000
+    Poet's Cloak                    Shoulders    9750    
+    Ring of Spell Knowledge            Rings        Varies
+    Runes of the Crone's Coven            None        16000
+    Runes of the Old Faith            None        16000
+    Torc of the Primal Song            Neck        6000
+
+Slayer (Some of this stuff is under Rogue, Ninja, or Ranger as well)
+    Armor of the Shadow Lord            Armor        117160
+    Assassin's Dagger                Weapons    10302
+    Bloodstained Gloves                Hands        8000
+    Cutthroat's Apprentice            Weapons    33910
+    Daggermark Blade                Weapons    8302
+    Headsman's Blade                Weapons    13850
+    Lenses of the Predator's Gaze        Eyes        8000
+    Ring of Swarming Stabs            Rings        6000
+    Slayer's Robe                    Body        15000
+    Sniper’s Goggles                None        Varies
+    Spear of the Huntmaster            Weapons    Varies
+    Stalking Weapon Enhancement        Weapons    +2 bonus
+    Sword of Subtelty                Weapons    22310
+    Windreader's Bow                Weapons    54400
+
+Sling Builds
+    Alchemist's Bullet                Weapons    330
+    Avalanche Sling Staff                Weapons    36320
+    Boulder Bullet                    Weapons    Varies
+    Clever Sling Staff                Weapons    60320
+    Staff of Stoneweaving                Staves        63180
+
+Sorcerer (Bloodline Items here may also appear under Bloodrager)
+    Ampoule of False Blood            Neck        20000
+    Amulet of the Blooded            Neck        Varies
+    Crown of the Kobold King            Head        15000
+    Ring of Spell Knowledge            Rings        Varies
+    Robes of Arcane Heritage            Body        16000
+    Sorcerer's Robes                Body        5000
+
+Spiritualist 
+    Channeler’s Scarf                Weapons    14012
+    Guided Weapon Enhancement        Weapons    +1 bonus
+    Shawl of the Lingering Phantom        Head        3200
+
+Summoner (Summoning-focused Druids and Wizards may appreciate some of these)
+    Eidolon Anchoring Harness            Body        6000
+    Life Link Badge                None        6000
+    Ring of Ectoplasmic Invigoration        Rings        12000
+    Ring of Spell Knowledge            Rings        Varies
+    Ring of Summoning                Rings        Varies
+    Robe of Gates                    Rods        64000
+    Rod of Giant Summoning            Rods        Varies
+    Staff of Eidolons                Staves        14400
+    Visage of the Bound                Head        22900
+
+Swashbuckler
+    Answering Weapon Enhancement        Weapons    +1 bonus
+    Blouse of the Boastful Bastard        Chest        8000
+    Cape of Daring Deeds            Shoulders    9000
+    Cape of Feinting                Shoulders    14000
+    Cloak of the Sneaky Scoundrel        Shoulders    6400
+    Corsair Armor Enhancement            Armor        5000
+    Flamboyant Weapon Enhancement        Weapons    Varies
+    Plume of Panache                Head        1000
+    Prehensile Weapon Enhancement        Weapons    2500
+    Rapier of Battlefield Movement        Weapons    30320
+    Ring of Resilience                Rings        15000
+    Spiteful Armor Enhancement            Armor        7000
+    Skewering Weapon Enhancement        Weapons    +1 bonus
+    Swashbuckler's Rapier            Weapons    7320
+    Swordmaster's Flair                None        2500
+
+Tank builds (Anything to do with Heavy Armor, really)
+    Armiger’s Armor                Armor        22500
+    Armiger's Panoply                Wrists        7200
+    Folding Plate                    Armor        12650
+    Force Tower                     Shields    46030
+    Steelbone Frame                None        6000
+
+Thrown Weapon Builds
+    Agile Weapon Enhancement            Weapons    +1 bonus
+    Belt of Mighty Hurling                Belts        Varies
+    Blinkback Belt                    Belts        5000
+    Dagger of Doubling                Weapons    10302
+    Deck of the Hellwasp's Sting            None        10380
+
+Vigilante (See also: Melee builds, Rogue)
+    Mask of Anonymous Mein            Head        25000
+
+Warpriest (Items under here often specifically mention Fervor)
+    Conductive Weapon Enhancement        Weapons    +1 bonus
+    Crusader's Longsword            Weapons    47315
+    Crusading Armor Enhancement        Armor        +1 bonus
+    Guided Weapon Enhancement        Weapons    +1 bonus
+    Sacred Weapon Enhancement        Weapons    +1 bonus
+    Signifer's Fist                    Weapons    10305
+    Uplifting Boots                    Feet        11000
+    Vestments of War                Body        14000
+
+Witch
+    Cackling Hag's Blouse            Body        6000
+    Corset of Dire Witchcraft            Body        22000
+    Hexing Doll                    None        2500
+    Hexing Runes                    Neck        10000
+    Rod of Abrupt Hexes                Rods        75500
+    Rod of Grasping Hexes            Rods        11000
+    Rod of Interminable Hexes            Rods        11000
+    Rod of Potent Hexes                Rods        54000
+    Rod of Voracious Hexes            Rods        32500
+    Stone Familiar                    None        6000
+    Witching Gown                Body        35000
+
+Wizard (+Items that benefit Familiars. See also: Casters)
+    Amulet of Magecraft                Neck        20000
+    Amulet of Spell Cunning            Neck        10000
+    Amulet of Spell Mastery            Neck        22000
+    Annihlation Spectacules            Eyes        25000
+    Bell of Returning Spirits            None        3000
+    Blessed Book                    None        12500
+    Bookplate of Recall                None        1000
+    Glove of Familiar's Touch            Hands        23000
+    Necromancer's Athame            None        20000
+    Replenishing Aquarium Ball            None        Varies
+
+Cool, Random Shit
+    Alabaster Trapping                Body        3500
+    Armguards of Waning Hope            Hands        25000
+Armor of the Celestial Host            Armor        Varies
+    Azata's Whimsey                Neck        8000
+    Blood Reservoir of Physical Prowess        None        2000
+    Bonedancer Bodhran                None        6700
+    Caylean Fighting Tankard            None        10301
+    Clockwork Prosthesis                None        6400
+    Cyclops Helm                    Head        5600
+    Deck of Slivering Fate                None        13000
+    Elven Still                    None        7500
+    Emerald-Eyed Blade                Weapons    24315
+    Explorer's Pith Helmet            Head        3200
+    Field Scrivener’s Desk            None        5400
+    Flask of Reconcoction            None        Varies
+    Gnome Scrap Armor                Armor        11175
+    Grim Gloom Mail                Armor        2380
+    Golem Gauntlet                Weapons    18505
+    Halo of Inner Calm                Head        16000
+    Helmet of the Golden General        Head        62000
+    Hollis' Lucky Rock                None        35000
+    Iron Road                    Neck        50000
+    Ivory Baton                    Rods        40000
+    Karyukai Tea Set                None        38160
+    Lightning Gun                    None        95000
+    Lyre of Building                None        13000
+    Maintenance Overseer's Ring        Rings        8000
+    Maxim of Suppressive Fire            Weapons    33800
+    Mnemonic Repository                None        3000
+    Monocle of the Investigator             Eyes        66000
+    Nacreous Gray Sphere Ioun Stone        Ioun Stones    10000
+    Necklace of Lovelies                Neck        36000
+    Null Spike                    Weapons    45000
+    Oaken Staff                    Weapons    31800
+    Opalescent White Pyramid Ioun Stone    Ioun Stones    10000
+    Pallid Crystal                    Neck        3300
+    Pelt of the Beast                Shoulders    15600
+    Rat-Tread Boots                Feet        8500
+    Salve of the Second Chance            None        1600
+    Sapling Rod                    Rods        16650
+    Scaled Sash                    Chest        73000
+    Sepia Ellipsoid Ioun Stone            Ioun Stones    68000
+    Shifter's Headband                Headband    Varies
+    Star of Vision                    Eyes        Varies
+    Stunstone                    None        350
+    Summoner's Robe                Body        50000
+    Swarmbane Clasp                Neck        3000
+    Thunderstrap                    None        60000
+    Trailwalker                    Weapons    40372
+    True Warrior's Blade                Weapons    50350
+    Verdant Boots                    Feet        12000
