@@ -7,9 +7,9 @@
 1 rabbits foot from those bunnies that looted us, wearing it as a necklace
 
 crystals from that one cave on the island south of port drake:
-    - 6.9 inch wide blue enhancement crystal from the caves (divination)
-    - 6 inch wide red enhancement crystal from the caves (evocation)
-    - 9.8 inch wide green enhancement crystal from the caves (transmutation)
+    - 6.7 inch wide blue enhancement crystal from the caves (divination)
+    - 5.9 inch wide red enhancement crystal from the caves (evocation)
+    - 9.6 inch wide green enhancement crystal from the caves (transmutation)
 
 2 pounds of unworked crystal (looks like from the cave, worth ???)
 2 pounds of "good enough" cheese
@@ -23,7 +23,8 @@ crystals from that one cave on the island south of port drake:
 
 from the island ruins underground
 -------------------------------------------
-* masterwork bastard sword (335g)
+* masterwork bastard sword (335g) (killian borrowed it to open a coffin, killian bent it)
 * small red shell (abjuration magic on it, it's soft, it has a calming effect that reminds me of home and like there's nothing going wrong)
     - as a standard action it creates an aroma that removes fear
+* transmutation ring, changes what creates are, must be within 30 ft
 

@@ -16,3 +16,9 @@ buy "4 horse rental for 2 days" 12g
 get 1g
 
 buy "vials" 10x1g
+
+# jobs at port drake
+lose 10g
+
+# wages
+lose 8g

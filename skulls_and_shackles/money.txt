@@ -77,3 +77,5 @@ sell "trident" 2x7g5s
 sell "crossbow" 17g5s
 sell "crssbow bolts" 15x1g
 
+# caterpilar job and barley job
+get 580g

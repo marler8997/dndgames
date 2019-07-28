@@ -17,6 +17,7 @@ Magic Weapon? Buf one of our fighters.
 Obscuring Mist
 Disguise Self
 Air Bubble (help party breathe underwater for a few minutes)
+Identify
 
 Level 2 Spells of Interest
 --------------------------
@@ -37,6 +38,7 @@ Stone Call (Combine with Dazing Spell)
 Mirror Image
 Blur
 Burning Arc
+Knock
 
 
 
