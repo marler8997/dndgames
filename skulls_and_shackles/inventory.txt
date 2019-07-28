@@ -7,9 +7,9 @@
 1 rabbits foot from those bunnies that looted us, wearing it as a necklace
 
 crystals from that one cave on the island south of port drake:
-    - 7 inch wide blue enhancement crystal from the caves (divination)
+    - 6.9 inch wide blue enhancement crystal from the caves (divination)
     - 6 inch wide red enhancement crystal from the caves (evocation)
-    - 10 inch wide green enhancement crystal from the caves (transmutation)
+    - 9.8 inch wide green enhancement crystal from the caves (transmutation)
 
 2 pounds of unworked crystal (looks like from the cave, worth ???)
 2 pounds of "good enough" cheese
@@ -17,10 +17,13 @@ crystals from that one cave on the island south of port drake:
 1 Translucent Scale Palm Size (when looking for jeweled dragon)
 
 # from the sunken ship
-1 x tiara (likely the family heirloom we were looking for, 2 to 3 hundred gold?)
-2 x trident (15g @ 24 appraise)
-1 x crossbow (35g)
-15 x crossbow bolts (2g per 20 bolts)
 1 x oddly shaped shell, producing some kind of energy, about size of palm, large and round almost circular with a small hole
     - detect magic, evocation, seems to have some type of "lighting effect", produces the "light" spell
 25 x tentamort eggs (cultivate poison, try to raise them, since they are abjouration they are more)
+
+from the island ruins underground
+-------------------------------------------
+* masterwork bastard sword (335g)
+* small red shell (abjuration magic on it, it's soft, it has a calming effect that reminds me of home and like there's nothing going wrong)
+    - as a standard action it creates an aroma that removes fear
+

@@ -14,3 +14,5 @@ buy "4 horse rental for 2 days" 12g
 
 # from bandits
 get 1g
+
+buy "vials" 10x1g

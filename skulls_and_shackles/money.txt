@@ -72,3 +72,8 @@ get 150g
 
 # heirloom job
 get 500g
+
+sell "trident" 2x7g5s
+sell "crossbow" 17g5s
+sell "crssbow bolts" 15x1g
+

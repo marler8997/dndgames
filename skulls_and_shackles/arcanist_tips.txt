@@ -5,6 +5,15 @@ Arcanist Guide:
 https://rpgbot.net/pathfinder/characters/classes/arcanist/
 https://rpgbot.net/pathfinder/characters/classes/arcanist/exploits.html
 
+Exploits
+-------------------
+* CounterSpell or Spell Disruption?
+* Potent Magic (increase DC/Level by 2 instead of 1 when using arcanist point)
+* Item Crafting (get an extra feat for crafting items)
+* Metamagic Knowledge, get an extra metamagic feat
+* Spell Tinkerer
+
+
 [–]NimrodOfNumphDetect Fire, Range Touch 2 points 4 years ago
 Arcanse casters have always been my favourite. Lately I've been playing an Arcanist and honestly, you don't need that high of a charisma. I went with Human because the Extra feat is really hard to pass up. I think my charisma is a 14 and I think I probably could have gone with a 12 to start instead. For me Intelligence is first with Constitution as another important attribute.
 For Exploits I find the two most important are Dimensional Slide and Quick Study. Quick Study is really one of the most powerful abilities of the Arcanist because for a full round action you can instantly swap out any spell memorized for any other spell in your spell book. The potential for versatility is limitless.
