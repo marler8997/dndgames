@@ -79,3 +79,24 @@ sell "crssbow bolts" 15x1g
 
 # caterpilar job and barley job
 get 580g
+
+# sold the dining set
+get 175g
+
+buy "identify scroll" 25g
+buy "copied knock scroll" 40g
+buy "scorching ray scroll" 25g
+buy "scroll of blur" 25g
+
+# gambling (dietie's 10)
+lose 66g
+
+get 75p
+
+sell "crappy chairs" 45g
+buy "spellbook" 15g
+
+buy "furniture material" 20s
+
+sell "masterwork bastard sword" 168g
+

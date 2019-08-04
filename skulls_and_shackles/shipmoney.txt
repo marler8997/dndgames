@@ -18,7 +18,18 @@ get 1g
 buy "vials" 10x1g
 
 # jobs at port drake
-lose 10g
+get 10g
 
 # wages
 lose 8g
+
+# sold loot
+get 159g
+get 87g5s
+get 1g5s
+
+# kasaki wages
+get 350g
+
+buy "anchor upgrade" 575g
+

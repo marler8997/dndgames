@@ -1,5 +1,4 @@
 
-
 ### October, 2137 (Real Life Date: April 2019)\
 
 Port Drake - A good sized refuged for pirates/thieves/etc.  People not very welcome in "the colletive" the surrounding provinces.
@@ -162,11 +161,58 @@ Port Drake
 * meet kashank at the feathered inn
 * sell dining set
 * Job board
-   - 250g - Elderly Wizard named chirranirr dunen, seeking passage to coghlan
-   - 500g - Salted fish to graaf (coastal city of Zionar)
+  !- 250g - Elderly Wizard named chirranirr dunen, seeking passage to coghlan
+  !- 500g - Salted fish to Graaf nar (coastal city of Zionar)
    - 750g - Textiles job to Malajna (coastal city of Dalaria)
    - 1250g - Dead Coral product (Genesis Tower, in Azeria)
-   - 3000g - Capture Dire Bear Alive
-   - 2000g - Corpse of Arboreal Toirtiose
+  !- 3000g - Capture Dire Bear Alive
+  !- 2000g - Corpse of Arboreal Toirtiose
    - 250g per - Youthful Cloud Creatures (alive)
-   - 750g for 4 of them - Kanto Kats Alive (nickname "KleptoKats")
+  !- 750g for 4 of them - Kanto Kats Alive (nickname "KleptoKats")
+### October, 2137 (Real Life Date: August 4, 2019)
+* crafted a new anchor system for the ship to hold the new magical anchor
+* sold the dining set, he said he'd refer his friends and they'd look me up at the feathered inn
+    - rolls of chairs sold: 38, 30, 28, 26, 19, 18
+    - it included a scroll with a note:
+    - A symbol with a "G" and an "R" and a cockroach
+      "We've been wathcing you and you're efficient, let me know if you'd like to make more money."
+      "Meet me at the 'Giddy Griffin' inn, in the Coastal city of Graaf nar. Ask the bartender for the 'Dirty Turtle'"
+* went to carvin, got my magically waterproof bag
+    - got a scroll of identify
+    - copied the knock spell
+* heard that ships are being destroyed east of port drake, the Shensari ship was the biggest one to get destroyed
+    - entered the bar "Shensari Ship" triggered my memory for some reason
+* got 350g from our secondary ship we hired from Kasaki
+    - got a ship enchantment, a shell that protects us from sea creature attack so long as someone has it equipped and we don't attack the creatures.  If we do attack a creature with it equipped, it will shatter and become useless.
+    - Kasaki is heading south towards Dalaria transporting the noble Eisenfelt family
+* the white crystals are "soul stones" (or "soul gems").  every 3 inches is 1000g, and you need 1000g per HitDie to capture a soul
+* re-inforced ship hull
+   - wood (5,000 for us, 10,000 for someone else, lasts 5 trips)
+   - steel (12,500 for us, 25,000 for someone else, lasts forever)
+   - mithryl (72,500 for us, 125,000 for someone else, indestructible)
+-----------------------------------------------------------
+* took Tamica back
+   - Mr. Greylock is talking about Traxel (my childhood griend who is big in the trade businesss)
+        - His ship got destoryed, he's near Zionar collecting a fleet for a job
+          he's spread very thin, he needs someone to protect a royal transport
+* went back to the fallen star temple, we sunk our ship down to it with the magic anchor
+   - eel has some runes on it's head that we're there before
+   - temple seems more sleek than before
+   - use 2 charges to turn the eel to an egg (failed)
+   - anyone who touches the stone becomes stone, except for one "very bright small man with a beard" that was able to touch the temple without turning to stone.  He left quickly though.
+   - Mal's start box glowed bright red when it met the temple
+   - Mal's shell from her backstory fit into the star box and glowed red
+   - Mal's shell has a whisper, but got louder when we got to the temple, the sound of the shell sounded very similar to the sound when I tried to chip a pience off the pillar
+   - Found a clockwork ball near the temple
+   - I've read stories about clockwork beings but never knew they were real
+   - Casted knock on the box (opened it)
+   - Inside the box, there are 6 small figures laying on a red silky pillow, made from "star" material, about the size of chest pieces
+       - a bear (transmutation)
+       - a boar (transmutation)
+       - a fox (transmutation)
+       - a gorrila (transmutation)
+       - a cat (transmutation)
+       - a dog (transmutation)
+       - these items have an activation word, which I know from casting "identify", I don't know the language, but I know the word
+          - you throw the chess piece and say the activation word and it turns into the creature for 2d6 rounds
+   - when we surfaced, a small man with hair came down and said "I can't believe Graaf Mil did this", then he saw us and said "oh shit" and snapped his fingers and turned invisible.

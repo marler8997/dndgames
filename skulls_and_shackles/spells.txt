@@ -17,11 +17,9 @@ Magic Weapon? Buf one of our fighters.
 Obscuring Mist
 Disguise Self
 Air Bubble (help party breathe underwater for a few minutes)
-Identify
 
 Level 2 Spells of Interest
 --------------------------
-Hideous Laughter
 https://www.reddit.com/r/Pathfinder_RPG/comments/7alofg/what_are_your_favorite_level_2_arcane_spells_and/
 [Create Pit] Great in conjunction with wand of silent image. Effective on all land based creatures, including ones with Spell Resistance. Can be used creatively to hide the party briefly, or potentially to give total cover in trench warfare (if you have something to stand on)
 [Web] Effective if a) you have a ranged party b) You're engaging multiple groups of enemies and want to immobilize all but one group to fight at a time c) you'd like to immobilize creatures and circumvent them (*Key point: Don't let your melee fighters go into the web to fight enemies. They'll want to, but its stupid)
@@ -36,16 +34,11 @@ https://www.reddit.com/r/Pathfinder_RPG/comments/7alofg/what_are_your_favorite_l
 
 Stone Call (Combine with Dazing Spell)
 Mirror Image
-Blur
 Burning Arc
-Knock
 
-
-
-
-
-
-* How to get spells
+============================================================================================
+How to get spells
+============================================================================================
   - copy from scrolls (1 hour per spell level)
   - copy from another spellbook (1 hour per spell level)
   - rip a page from another spellbook to use as a scroll

@@ -2,17 +2,10 @@
 Crew/Passengers
 ==========================================================
 
-3 x NPC at 1s/day
+5 x NPC at 1s/day
 
 Dungarth Bilgur (Dung)
 -------------------------
-
-Nikolai Havoc
--------------------------
-5s a day
-+1 sailing
-+1 seige engine
-+1 bluff for smuggling
 
 Manafor
 -------------------------
@@ -20,17 +13,15 @@ Manafor
 +1 sailing
 -5 diplomacy
 
-Tamica
--------------------------
-?
-
-
-Also transporting 6 crew members to pick up our ship
+Port Drake: Tilsa Riada: 2g/day (+2 sailing, +3 intimidate)
+Port Drake: One Eyed Tony: 7g/day (+4 sailing)
 
 
 Special Abilities
 ==========================================================
 * It can magically hoist rowboats up
+* We have a special anchor that allows us to sink to the bottom of the sea using a command word.  The ship gets surrounded with a bubble of air.
+* We have a shell called the "nuetrality of the sea". It protects us from large sea creature attacks so long as someone has it equipped and we don't attack the creatures.  If we do attack a creature with it equipped, it will break and become useless.
 
 Canons
 ==========================================================
@@ -44,18 +35,30 @@ Row Boats
 Cargo
 ==========================================================
 * 5 chests of clear crystal from the cave where we found greylock
-
 * 2 Capture Cages (1 medium and 1 small)
+
+
+Potential Crew
+==========================================================
+Port Drake: Edaam Moughal: 4g/day
+Port Drake: Bella Rosley: 2g/day
+Port Drake: Billy Coyle: 1g/day
+Port Drake: Vincent Cuddlescarf: 1g/day
 
 Past Crew
 ==========================================================
-Bella Rosley: ?
-Billy Coyle: 1g/day
-Vincent Cuddlescarf: 1g/day
 Kasaki Shanks: 3g/day
+Tamica
 
 Jerrica Firewitch
 -------------------------
-8g a day
+10g a day
 -1 sailing
 +5 carpentry (repairing)
+
+Nikolai Havoc
+-------------------------
+5s a day
++1 sailing
++1 seige engine
++1 bluff for smuggling

@@ -17,14 +17,23 @@ crystals from that one cave on the island south of port drake:
 1 Translucent Scale Palm Size (when looking for jeweled dragon)
 
 # from the sunken ship
-1 x oddly shaped shell, producing some kind of energy, about size of palm, large and round almost circular with a small hole
-    - detect magic, evocation, seems to have some type of "lighting effect", produces the "light" spell
-25 x tentamort eggs (cultivate poison, try to raise them, since they are abjouration they are more)
+1 x "Shell of Light" produces the "light" spell
+25 x tentamort eggs (Mal has them, cultivate poison, try to raise them, since they are abjouration they are more)
 
 from the island ruins underground
 -------------------------------------------
-* masterwork bastard sword (335g) (killian borrowed it to open a coffin, killian bent it)
-* small red shell (abjuration magic on it, it's soft, it has a calming effect that reminds me of home and like there's nothing going wrong)
+* Shell of Calming (abjuration magic on it, it's soft, it has a calming effect that reminds me of home and like there's nothing going wrong)
     - as a standard action it creates an aroma that removes fear
-* transmutation ring, changes what creates are, must be within 30 ft
 
+* Magically "Water Sealed Bag"
+   waterproof backpack, with an enchantment that lets me open the bag underwater without getting water in it
+
+* Ring of Naming (? worth)
+  3 charges per day.  As a standard action you can change one letter in any object or creatures name to change it's function. You can use multiple charges per action to change multiple letters.
+  1 charge -> standard action (DC 17)
+  2 charges -> standard + swift (DC 19)
+  3 charges -> full round action (DC 21)
+  elf > elk
+  sheep > sleep > sheer > sheet
+
+* masterwork's artisans tools
