@@ -1,6 +1,7 @@
 
 
 28 x furniture material (on the ship)
+- chair rolled at 25
 
 
 --------------------------------------------------------------
@@ -11,6 +12,8 @@ Furniture Building Rules
 
 use "Perform" table for bards to determine value, except add 1 silver to each entry (price of material).
 if natural 1, lose the material
+
+Different kinds of wood?
 
 --------------------------------------------------------------
 Bard Perform Table

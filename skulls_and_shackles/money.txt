@@ -100,3 +100,7 @@ buy "furniture material" 20s
 
 sell "masterwork bastard sword" 168g
 
+buy "Copy Numerological Evocation" 90g
+buy "Cloak of Secrets" 10g
+buy "Paranoia" 40g
+
