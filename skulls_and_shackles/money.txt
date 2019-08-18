@@ -91,6 +91,7 @@ buy "scroll of blur" 25g
 # gambling (dietie's 10)
 lose 66g
 
+# from Mr Greylock
 get 75p
 
 sell "crappy chairs" 45g

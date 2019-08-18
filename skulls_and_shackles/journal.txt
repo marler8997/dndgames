@@ -161,7 +161,7 @@ Port Drake
 * meet kashank at the feathered inn
 * sell dining set
 * Job board
-  !- 250g - Elderly Wizard named chirranirr dunen, seeking passage to coghlan
+  !- 250g - Elderly Wizard named Chirranrir Dunen, seeking passage to coghlan
   !- 500g - Salted fish to Graaf nar (coastal city of Zionar)
    - 750g - Textiles job to Malajna (coastal city of Dalaria)
    - 1250g - Dead Coral product (Genesis Tower, in Azeria)
@@ -237,9 +237,15 @@ Port Drake
 * Snuck into the old Wizards Room
    - Reports on the Dwellers of the Grave: Call of the Wild (info on Undead creatures) (in Gnomish)
    - Something about escape artistry
-
 -------------------------------------------
 * found a rock with a face painted on it.  Mal had found one on the Bandits who attacked us with the Jeweled Dragon.  Our rocks look very similar.
    - Cloak of Secrets
    - Paranoia
    - Numererological Evocation
+-------------------------------------------
+### October, 2137 (Real Life Date: August 18, 2019)
+* Killian saw a small metal bird
+* some big fish (probably metal) hit our ship, we patched it up but it's not permanent
+* got a book from Chirranrir Dunen "understanding scrolls and wands" and a pearl to communicate with him
+* read 6 hours from "scribe scrolls" section
+* found a walking tree house with a teleportation circle

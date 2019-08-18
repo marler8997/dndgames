@@ -1,7 +1,14 @@
 
-
+* buy another masterwork artisan's tools for Craft Carpentry
+* make a store to sell scrolls/wands
+* I could make scrolls, and "trade" them for other scrolls with spells that I don't know
+* read the "understanding wands and scrolls"
+    - large book, 2 sections, 48 hours per section to learn "scribe scroll" or "craft wand"
+    - scribe scrolls
+       - 6 hours (at sea)
+       - 2 hour (on island)
+* repair the hole in our ship
 * ring of naming!
-* check out the fallen start temple again
 * look for the "fire whale" east of port drake
 * cloak of the hedgewizard: acid-splash, mage armor, prestidigitation, unseen servant
 * "sign of discovery" tatoo, activate 3x a day, +2 to knowledge or perception or sense motive on next roll
@@ -41,4 +48,5 @@
 
 Teleportation Circles
 --------------------------
-- uncharted jungle island with underground ruins (2 days sail North East of Russet City)
+1. uncharted jungle island with underground ruins (2 days sail North East of Russet City)
+2. small island south of port drake, west of the Wreath, walking tree house teleportation circle

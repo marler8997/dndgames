@@ -1,8 +1,9 @@
 
 
-28 x furniture material (on the ship)
+26 x furniture material (on the ship)
 - chair rolled at 25
-
+- chair rolled at 22
+- half finished chair
 
 --------------------------------------------------------------
 Furniture Building Rules

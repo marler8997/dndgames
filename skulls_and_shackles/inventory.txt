@@ -1,3 +1,6 @@
+
+* neutrality of the sea" EQUIPPED=1
+
 1 x potion of sactuary (50g @ 21 appraise)
 3 x potion of cure minor wounds
 1 x potion of Disguise Self
@@ -7,7 +10,7 @@
 1 rabbits foot from those bunnies that looted us, wearing it as a necklace
 
 crystals from that one cave on the island south of port drake:
-    - 29.7 pounds wide BLUE crystal from the caves (divination)
+    - 29.5 pounds wide BLUE crystal from the caves (divination)
     - 23.8 pounds wide RED crystal from the caves (evocation)
     - 26.9 pounds wide GREEN crystal from the caves (transmutation)
     -  3.0 pounds YELLOW
@@ -31,7 +34,7 @@ from the island ruins underground
    waterproof backpack, with an enchantment that lets me open the bag underwater without getting water in it
 
 * Ring of Naming (? worth)
-  3 charges per day.  As a standard action you can change one letter in any object or creatures name to change it's function. You can use multiple charges per action to change multiple letters.
+  3 charges per day.  As a standard action you can change one letter in any object or creatures name to change it's function for 24 hours. You can use multiple charges per action to change multiple letters.
   1 charge -> standard action (DC 17)
   2 charges -> standard + swift (DC 19)
   3 charges -> full round action (DC 21)
@@ -45,3 +48,6 @@ from the island ruins underground
 * Got a box from the sea while sailing, inside was a rock with eyes and a mouth painted on it, kinda goofy looking, fits in my palm
 
 * Some wet clothes, gonna wait till they dry before I appraise (worth about 15gold)
+
+* book "understanding wands and scrolls"\
+* small silver pearl, allows me to communicate with Chirranrir Dunen
