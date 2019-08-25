@@ -7,9 +7,11 @@
     - scribe scrolls
        - 6 hours (at sea)
        - 2 hour (on island)
-* repair the hole in our ship
+       - 10 hours (on island)
 * ring of naming!
+    - 2/3 uses
 * look for the "fire whale" east of port drake
+* mold to gold, and trick a one off vendor
 * cloak of the hedgewizard: acid-splash, mage armor, prestidigitation, unseen servant
 * "sign of discovery" tatoo, activate 3x a day, +2 to knowledge or perception or sense motive on next roll
 * buy a spellbook for higher level spells
@@ -17,6 +19,8 @@
 * Metamixing means I can use a metamagic without increased casting time
 * "Mask of Eyes" advantage on perception check, second check if someone is sneaking up behind me
 * waterproof spellbook (7 coats out of 7)
+* remind Killian to get more killing darts
+
 
 * "Blessed Book" (a spellbook with 1000 pages)
 

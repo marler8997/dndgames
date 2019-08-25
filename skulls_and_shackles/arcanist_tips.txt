@@ -10,7 +10,7 @@ Exploits
 * CounterSpell or Spell Disruption?
 * Potent Magic (increase DC/Level by 2 instead of 1 when using arcanist point)
 * Item Crafting (get an extra feat for crafting items)
-* Metamagic Knowledge, get an extra metamagic feateg33e4
+* Metamagic Knowledge, get an extra metamagic feat
 * Spell Tinkerer
 
 

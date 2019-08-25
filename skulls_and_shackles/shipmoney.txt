@@ -33,3 +33,5 @@ get 350g
 
 buy "anchor upgrade" 575g
 
+# gold from toy wizard water cave
+get 272g
