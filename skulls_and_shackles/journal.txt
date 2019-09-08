@@ -256,7 +256,7 @@ Port Drake
 * found an old elf Wizard
     - 3 potions (cure mod wounds, 2 x pass without trace)
     - 4 scrolls (cat's grace, pyrotechnics, 1 conjuration scroll, web)
-    - 1 spellbook (see spells.txt)
+    - 1 spellbook (I put it in hero lab "Old Elf Toy Animator")
     - 1 amulet of natural +1 (Mal got it)
 * found a bunch of gold at the bottom of the waterfall
     - 2449g in the first hour
@@ -271,3 +271,11 @@ Port Drake
 * the stand was 2 wands propped up
     - wand of permanency (3 charges)
     - wand of animate construct 3 (7 chages)
+### October, 2137 (Real Life Date: September 8, 2019)
+* Met some of Traxel's ships, said we were heading to Graf Naar, they said they would send word
+-------------------------------------------
+* got ambushed by a ship, we killed them
+  - the captain was munavri, pale humanoid
+  - Mal skinned him and inked a map on his skin to find a treasure
+  - The crew would "port" at manases and Andalor
+* we sailed to a close island, where Mal said there was a treasure, we managed to get both ships to it

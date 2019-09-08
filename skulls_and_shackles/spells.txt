@@ -1,34 +1,15 @@
 # TODO:
 
-SpellBook
---------------------------
-- asid splash
-- arcane mark
-- bleed
-- dancing lights
-- disrupt undead
-- flare
-- ghost sound
-- light
-- mage hand
-- mending
-- message
-- open/close
-- prestidigitation
-- ray of frost
-- resistance
-- touch of fatigue
-- burning hands
-- feather fall
-- grease
-- mage armor
-- obscuring mist
-- invisibility
-- spider climb
-- summini swarm
-- web
-- beast shape 1
-- displacement
+Current Sacred Geometry Feats:
+Persistent Spell | 2 | Enemy rolls DC at disadvantage
+Reach Spell      | * | Increase range (1 category per spell slot increase)
+Quicken Spell    | 3 | Turns 2 Feat Geometry from full-round action to standard
+Heigthen Spell   | * | Treat the spell a N levels higher
+
+Feat Ideas:
+Intensified Spell| Increase max dammage dice up to 5
+Extend Spell     | Extend duration
+
 
 I need a way to enter spells into a document, then sort/filter them by spell resistance, dammage, school, etc
 

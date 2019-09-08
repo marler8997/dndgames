@@ -106,3 +106,5 @@ buy "Cloak of Secrets" 10g
 buy "Paranoia" 40g
 
 get "from toy wizard water temple" 1100g
+
+get "gold from bandit ship" 107g

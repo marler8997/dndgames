@@ -8,6 +8,8 @@
        - 6 hours (at sea)
        - 2 hour (on island)
        - 10 hours (on island)
+       - 8 hours (on ship)
+       - 8 hours (on ship)
 * ring of naming!
     - 2/3 uses
 * look for the "fire whale" east of port drake

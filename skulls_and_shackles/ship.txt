@@ -2,7 +2,11 @@
 Crew/Passengers
 ==========================================================
 
-5 x NPC at 1s/day
+HP: 1620
+AC: 2
+Hardness: 5
+
+6 x NPC at 1s/day
 
 Dungarth Bilgur (Dung)
 -------------------------

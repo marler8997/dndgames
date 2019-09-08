@@ -35,3 +35,6 @@ buy "anchor upgrade" 575g
 
 # gold from toy wizard water cave
 get 272g
+
+# gold from bandit ship
+get 53g1s
