@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html><head>
+<script type="text/javascript">
+
+CHARCODE_A = "a".charCodeAt(0)
+CHARCODE_Z = "z".charCodeAt(0)
+
+function GenerateNames() {
+    nameDom = document.getElementById('NameTextBox');
+    name = nameDom.value;
+    options = ''
+    for (var charIndex = 0; charIndex < name.length; charIndex++) {
+        options += "------" + charIndex + "-------\n";
+        //options += ('*' * charIndex) + '!' + ('*'* (name.length-charIndex)) + '\n';
+        for (c = CHARCODE_A; c <= CHARCODE_Z; c++) {
+            str = name.substring(0, charIndex) + String.fromCharCode(c) + name.substring(charIndex + 1)
+            console.log(str);
+            options += str + "\n";
+        }
+    }
+    document.getElementById('OutputPre').innerHTML = options;
+}
+</script>
+</head><body>
+<form onsubmit="GenerateNames(); return false">
+<input type="text" id="NameTextBox" name="Name"></input>
+<button onclick="GenerateNames()">Generate</button>
+</form>
+<pre id="OutputPre"></pre>
+</body></html>

@@ -9,6 +9,7 @@ Heigthen Spell   | * | Treat the spell a N levels higher
 Feat Ideas:
 Intensified Spell| Increase max dammage dice up to 5
 Extend Spell     | Extend duration
+Quick Draw
 
 
 I need a way to enter spells into a document, then sort/filter them by spell resistance, dammage, school, etc

@@ -1,3 +1,8 @@
 Invisibility
 -----------------------
 An object is invisible on every line of sight where there is an invisible object surrounding it.
+
+
+Marked Teleporation
+-----------------------
+A level 6 Spell, works just like Greater Teloport with no mis-chance and only to a a "Teleportation Circle" which is created with 1d4 hours of work. You can memorize a existing circle by analyzing it for 1d4 hours.

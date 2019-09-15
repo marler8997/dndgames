@@ -36,10 +36,8 @@ from the island ruins underground
 -------------------------------------------
 * Shell of Calming (abjuration magic on it, it's soft, it has a calming effect that reminds me of home and like there's nothing going wrong)
     - as a standard action it creates an aroma that removes fear
-
 * Magically "Water Sealed Bag"
    waterproof backpack, with an enchantment that lets me open the bag underwater without getting water in it
-
 * Ring of Naming (? worth)
   3 charges per day.  As a standard action you can change one letter in any object or creatures name to change it's function for 24 hours. You can use multiple charges per action to change multiple letters.
   1 charge -> standard action (DC 17)
@@ -47,14 +45,28 @@ from the island ruins underground
   3 charges -> full round action (DC 21)
   elf > elk
   sheep > sleep > sheer > sheet
-
 * masterwork's artisans tools
-
 * small crescent moon clockwork piece
-
 * Got a box from the sea while sailing, inside was a rock with eyes and a mouth painted on it, kinda goofy looking, fits in my palm
-
 * Some wet clothes, gonna wait till they dry before I appraise (worth about 15gold)
+
+
+
+
 
 * book "understanding wands and scrolls"\
 * small silver pearl, allows me to communicate with Chirranrir Dunen
+* book "Runes and its Applications" (list of runes, see runes.txt)
+    - runes require blacksmithing and enchanting
+    - one rune per item
+
+Death Web Spider Loot
+------------------------
+1 x potions of sanctify corpse potion
+1 x potion of cure light wounds potion
+1 x potion of bull's strenght
+1 x potion of strength
+1 x +1 "champion" studded leather armor (champion gains +2 sacred bonus to attacks to certain opponents)
+1 x +1 rapier that "sheds light"
+1 x quick change cloak
+1 x small circular golden piece of clockwork, looks broken
