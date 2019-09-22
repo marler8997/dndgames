@@ -38,7 +38,7 @@ from the island ruins underground
     - as a standard action it creates an aroma that removes fear
 * Magically "Water Sealed Bag"
    waterproof backpack, with an enchantment that lets me open the bag underwater without getting water in it
-* Ring of Naming (? worth)
+* Ring of Naming (? worth) (0/3 charges)
   3 charges per day.  As a standard action you can change one letter in any object or creatures name to change it's function for 24 hours. You can use multiple charges per action to change multiple letters.
   1 charge -> standard action (DC 17)
   2 charges -> standard + swift (DC 19)

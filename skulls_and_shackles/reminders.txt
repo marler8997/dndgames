@@ -1,5 +1,7 @@
 
-* we gave tony the perl to protect the ship
+* Potent Magic (increase DC/Level by 2 instead of 1 when using arcanist point)
+* put ring of naming into Hero Lab somehow so I can track the uses
+* I have the nuetrality of the sea equipped
 * buy another masterwork artisan's tools for Craft Carpentry
 * make a store to sell scrolls/wands
 * I could make scrolls, and "trade" them for other scrolls with spells that I don't know
@@ -12,7 +14,6 @@
        - 8 hours (on ship)
        - 8 hours (on ship)
 * ring of naming!
-    - 2/3 uses
 * find someone who can craft runes?  find out if we can learn how
 * look for the "fire whale" east of port drake
 * mold to gold, and trick a one off vendor
@@ -24,6 +25,7 @@
 * "Mask of Eyes" advantage on perception check, second check if someone is sneaking up behind me
 * waterproof spellbook (7 coats out of 7)
 * remind Killian to get more killing darts
+* look into rings and aeoun stones for spell storing
 
 * buy effecient quiver - store wands/staves/scrolls?  Effecient quiver always weighs 2 pounds no matter what's inside
 
