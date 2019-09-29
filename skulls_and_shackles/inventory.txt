@@ -1,5 +1,7 @@
 
-* neutrality of the sea" EQUIPPED=1
+neutrality of the sea" EQUIPPED=1
+
+sky scroll case, materials about 500g worth, historic value not sure
 
 1 x potion of sactuary (50g @ 21 appraise)
 3 x potion of cure minor wounds
@@ -12,6 +14,8 @@
 1 x scroll of pyrotechnics
 1 x scroll of stinking cloud
 1 x scroll of web
+1 x scroll of phantom chariot
+1 x scroll see invisibility
 
 1 x Black Mask (sock mask)
 1 rabbits foot from those bunnies that looted us, wearing it as a necklace

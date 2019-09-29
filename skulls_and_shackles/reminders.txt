@@ -1,4 +1,7 @@
 
+* Open my sky-people-looking scroll case
+* Amulet of the Spirit, Waves (Chill Touch and Blur)
+* Killian and I have CON dammage
 * Potent Magic (increase DC/Level by 2 instead of 1 when using arcanist point)
 * put ring of naming into Hero Lab somehow so I can track the uses
 * I have the nuetrality of the sea equipped
@@ -7,12 +10,9 @@
 * I could make scrolls, and "trade" them for other scrolls with spells that I don't know
 * read the "understanding wands and scrolls"
     - large book, 2 sections, 48 hours per section to learn "scribe scroll" or "craft wand"
-    - scribe scrolls
-       - 6 hours (at sea)
-       - 2 hour (on island)
-       - 10 hours (on island)
-       - 8 hours (on ship)
-       - 8 hours (on ship)
+    - Learned "Scribe Scrolls" after reading for 48 hours
+    - Learning Craft Wand
+        - 6 hours (ship)
 * ring of naming!
 * find someone who can craft runes?  find out if we can learn how
 * look for the "fire whale" east of port drake
@@ -26,6 +26,8 @@
 * waterproof spellbook (7 coats out of 7)
 * remind Killian to get more killing darts
 * look into rings and aeoun stones for spell storing
+
+* go back to that deep hole portal near the sunken ship?
 
 * buy effecient quiver - store wands/staves/scrolls?  Effecient quiver always weighs 2 pounds no matter what's inside
 
