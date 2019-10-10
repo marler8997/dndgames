@@ -1,110 +1,117 @@
-# starting cash
-get 70g
++70g    starting cash
 
-# gambling
-get 85g
-get 7s
++85g    gambling
++7s     ...
 
-# exploring the ship
-get 40s
-get 27c
++40s    exploring the ship
++27c    ...
 
-# gold from the box job
-get 20g
++20g    gold from the box job
 
-# gambling
-lose 1g1s
-get 1g9s
-get 2g1s3c
+-1g1s   gambling
++1g9s   ...
++2g1s3c ...
 
-buy "buy and scribe jolt overlook rope spells" 45g
-buy "3 cure minor wounds" 3x12g
+-45g    buy and scribe jolt overlook rope spells
+-3x12g  buy 3 cure minor wounds
 
-buy "material for 7 charis" 7s
-buy "sleep scroll" 25g
+-7s     buy material for 7 charis
+-25g    buy sleep scroll
 
-# from the numan crystal miner I tied up under the ocean
-get 95gold
++95g    from the numan crystal miner I tied up under the ocean
 
-# paid Norris to help mine the crystal
-lose 3g
+-3g     paid Norris to help mine the crystal
 
-# payment for saving Ben Greylock
-get 18platinum
++18p    payment for saving Ben Greylock
 
-sell "potiion of jump" 20g
-sell "potion of sanctuary" 20g
++20g    sell potiion of jump
++20g    sell potion of sanctuary
 
-buy "furniture material" 8s
-sell "made furniture" 3g1s
-sell "wide brimed hat" 1s
-sell "composite long bow" 50g
-sell "sap" 5s
-sell "buckler" 2g5s
-sell "arrows" 19x5c
+-8s     buy furniture material
++3g1s   sell made furniture
++1s     sell wide brimed hat
++50g    sell composite long bow
++5s     sell sap
++2g5s   sell buckler
++19x5c  sell arrows
+-25g    buy false life"
+-50g    buy cure light wounds potiion
+-5s     buy waterproof oil for spellbook
+-5s     buy 2 lbs of good enough cheese
 
-buy "false life" 25g
-buy "cure light wounds potiion" 50g
-buy "waterproof oil for spellbook" 5s
-buy "2 lbs of good enough cheese" 5s
+-30g    pay for ship repair
 
-# pay for ship repair
-lose 30g
+-40g    buy copy false life
 
-buy "copy false life" 40g
++175g   sugar/fish deliveries
 
-# sugar/fish deliveries
-get 175g
+# bought scrolls in Russet City from Loray Elseone (Elseone's Shop)
+-25g    buy silent image
+-25g    buy air bubble
+-12g5s  buy trip line
+-25g    buy ventriloquism
+-25g    buy unseen servant
+-12g5s  buy hoarfrost
 
-# bought scroll in Russet City from Loray Elseone (Elseone's Shop)
-buy "silent image" 25g
-buy "air bubble" 25g
-buy "trip line" 12g5s
-buy "ventriloquism" 25g
-buy "unseen servant" 25g
-buy "hoarfrost" 12g5s
++20g201s from bandits
 
-# from bandits
-get 20g201s
++150g   light snake job
 
-# light snake job
-get 150g
++500g   heirloom job
 
-# heirloom job
-get 500g
++2x7g5s sell trident
++17g5s  sell crossbow
++15x1g  sell crossbow bolts
 
-sell "trident" 2x7g5s
-sell "crossbow" 17g5s
-sell "crssbow bolts" 15x1g
++580g   caterpilar job and barley job
 
-# caterpilar job and barley job
-get 580g
++175g   sold the dining set
 
-# sold the dining set
-get 175g
+-25g    buy identify scroll
+-40g    buy copied knock scroll
+-25g    buy scorching ray scroll
+-25g    buy scroll of blur
 
-buy "identify scroll" 25g
-buy "copied knock scroll" 40g
-buy "scorching ray scroll" 25g
-buy "scroll of blur" 25g
+-66g    gambling (dietie's 10)
 
-# gambling (dietie's 10)
-lose 66g
++75p    from Mr Greylock
 
-# from Mr Greylock
-get 75p
++45g    sell crappy chairs
+-15g    buy spellbook
 
-sell "crappy chairs" 45g
-buy "spellbook" 15g
+-20s    buy furniture material
 
-buy "furniture material" 20s
++168g   sell masterwork bastard sword
 
-sell "masterwork bastard sword" 168g
+-90g    buy Copy Numerological Evocation
+-10g    buy Cloak of Secrets
+-40g    buy Paranoia
 
-buy "Copy Numerological Evocation" 90g
-buy "Cloak of Secrets" 10g
-buy "Paranoia" 40g
++1100g  from toy wizard water temple
 
-get "from toy wizard water temple" 1100g
++107g   gold from bandit ship
 
-get "gold from bandit ship" 107g
+#
+# Copied shipmoney.txt to here, so these dates don't correspond to anything before
+#
+#
+ship +3p
+ship +50g   from deliveries
+ship -1s    entrance to Russet City
+ship -2g1s  crew wages
+ship -12g   4 horse rental for 2 days
+ship +1g    bandit loot
+ship -10x1g buy vials
+ship +10g   jobs at port drake
+ship -8g    crew wages
+ship +159g  sold loot
+ship +87g5s sold loot
+ship +1g5s  sold loot
+ship +350g  money from Kasaki
+ship -575g  anchor upgrade
+ship +272g  gold from toy wizard water cave
+ship +53g1s gold from bandit ship
+
+#
+# Now both ship and my transactions should be interleaved
+#
