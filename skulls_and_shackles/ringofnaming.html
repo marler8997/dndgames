@@ -10,15 +10,20 @@ function GenerateNames() {
     name = nameDom.value;
     options = ''
     for (var charIndex = 0; charIndex < name.length; charIndex++) {
+        var currentChar = name.charCodeAt(charIndex);
         options += "------" + charIndex + "-------\n";
         //options += ('*' * charIndex) + '!' + ('*'* (name.length-charIndex)) + '\n';
         for (c = CHARCODE_A; c <= CHARCODE_Z; c++) {
+            if (c == currentChar)
+                continue;
             str = name.substring(0, charIndex) + String.fromCharCode(c) + name.substring(charIndex + 1)
             console.log(str);
             options += str + "\n";
         }
     }
-    document.getElementById('OutputPre').innerHTML = options;
+    var outputArea = document.getElementById('OutputArea')
+    outputArea.innerHTML = options;
+    outputArea.style.height = outputArea.scrollHeight + 'px';
 }
 </script>
 </head><body>
@@ -26,5 +31,6 @@ function GenerateNames() {
 <input type="text" id="NameTextBox" name="Name"></input>
 <button onclick="GenerateNames()">Generate</button>
 </form>
-<pre id="OutputPre"></pre>
+<!-- Use textarea so the browser does spell-check -->
+<textarea id="OutputArea"></textarea>
 </body></html>

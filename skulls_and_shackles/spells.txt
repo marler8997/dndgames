@@ -60,12 +60,12 @@ Level 4 Spells of Interest
 --------------------------
 https://www.reddit.com/r/Pathfinder_RPG/comments/7bffc2/what_are_your_favorite_level_4_arcane_spells_and/
 
-Black Tentacles
+Black Tentacles - A long ranged huge writhing growth of grapple checks.
 Ball Lightning - great vehicle for dazing spell, round after round of multi-target blasting and armored foes take a penalty.
 Black Tentacles - goes without saying, careful that you don't abuse this one so much that your other party members get bored with waiting for enemies to claw their way out of the area.
 Confusion - absolutely devastating, if you get lucky you can just sit back and high five as you let your enemies beat each other to death.
 Dimension Door - incredibly useful, one among a few amazing defensive tools you get at this level that help make you incredibly hard to touch
-Dimensional Anchor - becomes increasingly necessary if you want to actually finish off your foes. Even if they don't come back for revenge, you'll lose out on a lot of loot over time if you don't use this
+Dimensional Anchor - Keep your enemy from teleporting away. Becomes increasingly necessary if you want to actually finish off your foes. Even if they don't come back for revenge, you'll lose out on a lot of loot over time if you don't use this
 Emergency Force Sphere - the infamous, frequently banned and I can't blame anybody who does
 Enervation - so good, this really sucks to get hit with no matter who you are
 Fear - fantastic for breaking up crowds, they'll even be nice enough to leave their weapons behind for you before they go
@@ -82,12 +82,66 @@ Boneshatter - is gnarly and underused.
 
 Shadow Conjuration - 
 
+Absorb Rune lets you say "oops" with your placement of some of your trap spells, or even pick up a few of them for a special visitor without revealing what the password is. Kinda neat.
+
+Age Resistance, Lesser is the start of hax when it comes to getting the benefits of higher mental ability scores from aging but not be decrepit.
+
+Agonize is a very thematic spell for those who like Planar Binding and don't care about the outsiders really hating you, possibly due to planning on killing the outsider anyway.
+
+Akashic Communion is your first spell for gathering information that no one (around) really knows nor should you have a way to know without having to inform extraplanar entities about your intentions and interests. Plus it makes use of Knowledge skill rolls, which can be buffed a fair bit.
+
+Amnesia is a way to lock off someone's class abilities entirely, which is amazingly powerful. Not only can you really mess with someone's ability to escape if you've taken them captive, you can also do some real crazy social manipulation stuff too.
+
+Animate Dead is so great. Beheaded and Necrocraft as the final product for otherwise useless human bodies, Bloody Skeletons and Fast Zobmbies for bruiser minions, Isitoqs for flying eyeballs you can see through, and plague zombies to put into a hole somewhere they can't climb out of so you can lower people down there with ropes so that they get converted into zombies that you can then convert into necrocraft without having to pay for the basic 1 HD skeletons even if you don't have False Focus. Good times indeed.
+
+Beanstalk gets you a nice lookout tower and then it turns into a whole bunch of fertilizer. Kinda interesting, but mostly in a geomodding sense.
+
+Calcific Touch is a nice way to make someone a statue and is a good Dex-damaging attack too, especially combined with something like Spectral Hand.
+
+Contagion is the first way to directly infect people with a selection of diseases, which opens up some possibilities.
+
+Create Armaments lets you get the party fighter a weapon from a special material in a pinch where it would be required or where the actual material is rare enough you can only acquire a small amount of it. Has a loophole with making things like Chainmail out of solid gold and then selling it off for more as gold by weight.
+
+Curse Terrain gets you even more area compared to the lesser version and potentially nastier effects too.
+
+Dream Dalliance is a great villain spell for getting people to end up comatose.
+
+Enervation is always fun as a source of negative levels to allow for effects to work on people or just to kill them. I'd swear at one point wights formed from killing people with negative levels, but that seems to have changed at some point or another.
+
+Geas, Lesser allows for some nice things, although you need to add negative levels to creatures with more HD before it'll work on them. One thing that could be done is work out how long it would take someone to craft X number of items for you in order to keep them prisoner for a long time and make some level of profit off of them in the process.
+
+Illusory Wall is a nice decorating spell and also can help you hide traps in a base or lair or dungeon you've made or taken over.
+
+Lost Passage is an amazing spell for hiding a location in a natural environment.
+
+Mindwipe is a way to nonlethally check how many negative levels you can put on someone.
+
+Minor Creation is a way to get all the plant-based poison you need, so that's nice while poison is still relevant.
+
+Obsidian Flow is a dual-purpose blast and control spell. Also leaves a bunch of permanent obsidian that may or may not be a target for Stone Shape or be of use for making obsidian weapons or basic jewelry.
+
+Shadow Conjuration is a great spell for covering a number of potential contingencies and as a sneaky use lets you make permanent semi-real stuff with Expeditious Construction, which I believe can then be manipulated and with Stone Shape can let you have a floor where as people will Looney Tunes fall through once they realize it's an illusion.
+
+Skeleton Crew does what it says on the tin, and is pretty neat even if it is limited in what they can do.
+
+Solid Fog is a pretty nice control spell.
+
+Stone Shape is the next step up in construction magic from Expeditious Construction, and can even cause the walls formed by that spell to fused together into solid stone. It also can be used to get a nice little tunnel through other people's stone walls or to make a secret chamber inside stone that's only accessible if you know where it is and cast Stone Shape or break the wall, or are just earthgliding around.
+
+Summon Accuser gets you a Zebub or Accuser Devil, which is a very good spy with Greater Teleport at-will that can transmit what it sees to you via a mental connection once it comes back.
+
+Wall of Fire makes for an interesting bit of industrial or climate-altering magic when combined with Permanency. It's not the greatest battlefield control, but it's not the worst, either.
+
+
+
+
 ============================================================================================
 How to get spells
 ============================================================================================
   - copy from scrolls (1 hour per spell level)
   - copy from another spellbook (1 hour per spell level)
   - rip a page from another spellbook to use as a scroll
+  - make a scroll of a spell that I know, trade it for a scroll that I don't know
   cost:
     level 0 - 5g
     level 1 - 10g
