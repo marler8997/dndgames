@@ -52,8 +52,6 @@ Burning Arc
 Level 3 Spells of Interest
 --------------------------
 https://www.reddit.com/r/Pathfinder_RPG/comments/7b7v68/what_are_your_favorite_level_3_arcane_spells/
-* Slow
-* Dispell Magic
 * Fly?
 
 Level 4 Spells of Interest
@@ -63,13 +61,11 @@ https://www.reddit.com/r/Pathfinder_RPG/comments/7bffc2/what_are_your_favorite_l
 Black Tentacles - A long ranged huge writhing growth of grapple checks.
 Ball Lightning - great vehicle for dazing spell, round after round of multi-target blasting and armored foes take a penalty.
 Black Tentacles - goes without saying, careful that you don't abuse this one so much that your other party members get bored with waiting for enemies to claw their way out of the area.
-Confusion - absolutely devastating, if you get lucky you can just sit back and high five as you let your enemies beat each other to death.
 Dimension Door - incredibly useful, one among a few amazing defensive tools you get at this level that help make you incredibly hard to touch
 Dimensional Anchor - Keep your enemy from teleporting away. Becomes increasingly necessary if you want to actually finish off your foes. Even if they don't come back for revenge, you'll lose out on a lot of loot over time if you don't use this
 Emergency Force Sphere - the infamous, frequently banned and I can't blame anybody who does
 Enervation - so good, this really sucks to get hit with no matter who you are
 Fear - fantastic for breaking up crowds, they'll even be nice enough to leave their weapons behind for you before they go
-Greater Invisibility - great on you, great on the rogue, who doesn't love being invisible?
 Scrying - knowledge is power!
 Stoneskin - keeps your frontliners alive and standing between you and the enemy
 Summon Monster IV - bison, elementals, hound archon, and lion are all solid choices. Also you can summon a small herd of aurochs, hopefully enough for a stampede!
@@ -132,6 +128,10 @@ Summon Accuser gets you a Zebub or Accuser Devil, which is a very good spy with 
 
 Wall of Fire makes for an interesting bit of industrial or climate-altering magic when combined with Permanency. It's not the greatest battlefield control, but it's not the worst, either.
 
+Animal Mind
+Coward's Lament
+Foozle (useful in the same situations as Confusion)
+Nixie's Lure
 
 
 
@@ -150,3 +150,30 @@ How to get spells
     level 4 - 160g
     level 5 - 250g
     level 6 - 360g
+
+
+
+
+Magical Item Cost Formulas
+In all cases, level 0 counts as 0.5
+--------------------------------------------------
+Scroll Craft Cost:   12.5 * SpellLevel * CasterLevel
+Scroll Buy Cost  :   25   * SpellLevel * CasterLevel
+Wand Craft Cost  :  375   * SpellLevel * CasterLevel
+Wand Buy Cost    :  750   * SpellLevel * CasterLevel
+
+Craft Time: 8 hours per 1000g (2 hours if <= 250g)
+
+      |          Scrolls                  |
+Level | Cstr Lvl |  Cost    | Craft       | Time
+------------------------------------------------------
+0th   |    1     |    12g5s |     6g2s5c  | 2 hours
+1st   |    1     |    25g   |    12g5s    | 2 hours
+2nd   |    3     |   150g   |    75g      | 2 hours
+3rd   |    5     |   375g   |   187g5s    | 2 hours
+4th   |    7     |   700g   |   350g      | 8 hours
+5th   |    9     | 1,125g   |   562g5s    | 8 hours
+6th   |          | 1,650g   |   825g      | 8 hours
+7th   |          | 2,275g   | 1,137g5s    | 16 hours
+8th   |          | 3,000g   | 1,500g      | 16 hours
+9th   |          | 3,825g   | 1,912g5s    | 16 hours

@@ -33,12 +33,12 @@ Canons
 
 Row Boats
 ==========================================================
-* 2 x 3-man row boat
+* 1 x 3-man row boat
 * 1 x 6-man row boat
 
 Cargo
 ==========================================================
-* 5 chests of clear crystal from the cave where we found greylock
+* 5 chests of empty sould stones (clear crystal from the cave where we found greylock)
 * 2 Capture Cages (1 medium and 1 small)
 
 

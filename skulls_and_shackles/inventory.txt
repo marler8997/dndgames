@@ -1,5 +1,5 @@
 
-neutrality of the sea" EQUIPPED=1
+neutrality of the sea" EQUIPPED=0
 
 sky scroll case, materials about 500g worth, historic value not sure
 
@@ -10,22 +10,23 @@ sky scroll case, materials about 500g worth, historic value not sure
 1 x potion of Disguise Self
 1 x potion of Hide from undead
 
-1 x scroll of cat's grace
-1 x scroll of pyrotechnics
+1 x scroll of pyrotechnics (level 2 spell)
 1 x scroll of stinking cloud
 1 x scroll of web
 1 x scroll of phantom chariot
 1 x scroll see invisibility
+1 x scroll of slow
+1 x scroll of dispel magic
 
 1 x Black Mask (sock mask)
 1 rabbits foot from those bunnies that looted us, wearing it as a necklace
 
 crystals from that one cave on the island south of port drake:
-    - 29.3 pounds wide BLUE crystal from the caves (divination)
-    - 23.8 pounds wide RED crystal from the caves (evocation)
-    - 26.9 pounds wide GREEN crystal from the caves (transmutation)
-    -  2.8 pounds YELLOW (enchantment)
-    -  0.2 pounds DARK PURPLE (necromancy)
+   - 29.3 pounds wide BLUE crystal from the caves (divination)
+   - 23.8 pounds wide RED crystal from the caves (evocation)
+   - 26.9 pounds wide GREEN crystal from the caves (transmutation)
+   -  2.8 pounds YELLOW (enchantment)
+   -  0.2 pounds DARK PURPLE (necromancy)
 
 2 pounds of unworked crystal (looks like from the cave, worth ???)
 1 pounds of "good enough" cheese
@@ -53,9 +54,6 @@ from the island ruins underground
 * small crescent moon clockwork piece
 * Got a box from the sea while sailing, inside was a rock with eyes and a mouth painted on it, kinda goofy looking, fits in my palm
 * Some wet clothes, gonna wait till they dry before I appraise (worth about 15gold)
-
-
-
 
 
 * book "understanding wands and scrolls"\

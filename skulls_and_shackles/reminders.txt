@@ -1,7 +1,14 @@
 
+* Make Teleporation Circle on our ship
+* Make a teleporation circle underwater in Sondal
+* See Invisibility and Permanency
+* Buy masterwork carpentry tools
+* Go back to scroll shop tomorrow to get fly scroll, already paid half
+* Copy scroll of slow to spellbook
+* Copy scroll of dispel magic to spellbook
+* Copy scroll of scrying to spellbook
 * Open my sky-people-looking scroll case
 * Amulet of the Spirit, Waves (Chill Touch and Blur)
-* Killian and I have CON dammage
 * Potent Magic (increase DC/Level by 2 instead of 1 when using arcanist point)
 * put ring of naming into Hero Lab somehow so I can track the uses
 * I have the nuetrality of the sea equipped
@@ -15,6 +22,9 @@
         - 6 hours (ship)
         - 8 hours (ship)
         - 6 hours (ship)
+        - 7 hours (ship)
+        - 8 hours (ship)
+        - 4 hours (ship)
 * ring of naming!
 * find someone who can craft runes?  find out if we can learn how
 * look for the "fire whale" east of port drake
@@ -58,8 +68,6 @@
 * A Wyroot quarterstaff is a fantastic way to recharge your Arcane Pool. Use it to deal nonlethal damage to unconscious enemies and you can quickly recharge your arcane pool for free.
 * Elven Magic - +2 to Spell Resistance and +2 Spellcraft to identify properties on magic items
 * Aquatic Mastery - +1 DC on any spell with "water" descriptor
-
-
 
 Teleportation Circles
 --------------------------

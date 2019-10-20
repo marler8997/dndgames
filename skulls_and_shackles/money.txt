@@ -116,3 +116,15 @@ ship +53g1s gold from bandit ship
 # Now both ship and my transactions should be interleaved
 #
 ship +900g  from the cave Mal made from that dude's skin
+
+-375g made 2 scrolls of haste
+ship -126g84s crew wages
+-11g gambling
++22g gambling
++48g gambling
+
+-50g to trade scroll of slow
+-75g to trade scroll of dispel magic
++75g sold scroll of cat's grace
+-187g5s half of scroll of fly
+-700g buy scroll of scrying
