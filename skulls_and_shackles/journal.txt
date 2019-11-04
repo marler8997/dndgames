@@ -335,3 +335,28 @@ Port Drake
 * 5,500g to repair, 2,500g
 * Scroll shop
    - bought/traded and sold scrolls
+* Crocidilians - good guard creatures (guard our store?)
+* Plop - A common royal family pet (2,5000g)
+* Kakapo Griffin - 
+* Rock Pecker - Helps find minerals to mine, Mal is interested in it
+* Mystic Frog - Covered in Illusion Magic, ability to cast a 5x5x5 square illusionary object, usually used to lure predators - I've named him "Ted".
+* Job board
+  !- GOLD - Description
+  !-  ?     - Search for a list item that disapeared in the Wreath (Interests Mal)
+   -  2500g - Recover captured Daughter from Bandits (they think she was captured for slave trade), heading towards Dalaria, her name is Madriel Lyrice
+  !-  1250g - Find 25 pounds of Blackstone in the Chaos Lands
+  !-  7500g - Kill the "Sleepy Eyed Bandit", messing up trading ships, last seen south of Sondal heading north and wrapping around the wreath towards Port Drake, base is south of Dalaria in a place called Nemetsk
+  !-  ?Choice from Family Treasure? - Kill "Thaylar the quick", last seen heading to Zionar, Killed a noble in Sondal
+   -  2500g - Kill "Kjell Roto", half orc captain, been pludering many trade ships
+   - 10000g - Deliver Fire powder for "Evenwood", capital of Lyria
+   -  1750g - Ship Wheat to Dalaria
+  !-  1250g - Iron Ore to Graafnar
+   -  1500g - Deliver Chemical Reagent to Genesis Tower in Azeria
+  !-   750g - 4 Slaves Transported to Chaos Lands
+  !-  4000g - Capture Greathorn Alive, in Zionar in the Plains
+  !-  1000g - 2 Lava Wolfs, medium, Male and Female, Alive, in Chaos Lands
+  !-  2250g - 3 Pilas, Alive, from Anlethis
+* met Danrik by the docks with their family celebrating, runs a small trading company with a few ships
+* Kaylax saw someone following us
+* ambushed by Blackbeards crew, we killed them except for a cleric that we questioned
+   - Blackbeard's trying to take out the all-knowing through the sky people

@@ -1,5 +1,7 @@
 
-neutrality of the sea" EQUIPPED=0
+Fred the illusionary Frog
+
+"neutrality of the sea" EQUIPPED=0
 
 sky scroll case, materials about 500g worth, historic value not sure
 
@@ -17,6 +19,7 @@ sky scroll case, materials about 500g worth, historic value not sure
 1 x scroll see invisibility
 1 x scroll of slow
 1 x scroll of dispel magic
+25 pounds of amphibian food
 
 1 x Black Mask (sock mask)
 1 rabbits foot from those bunnies that looted us, wearing it as a necklace
@@ -72,3 +75,35 @@ Death Web Spider Loot
 1 x +1 rapier that "sheds light"
 1 x quick change cloak
 1 x small circular golden piece of clockwork, looks broken
+
+Blackbeard crew loot
+------------------------
+ 5 x masterwork daggers
+ 5 x masterwork hand crossbows
+55 x crossbow bolts
+ 5 x leather armor
+10 x doses of "blood root"
+ 5 x disguise kits
+10 x oils of Taggit
+10 x striped toadstools
+ 5 x sets of theives tools
+ 1 x longsword +1
+ 1 x light crossbow
+ 1 x dagger
+ 1 x brestplate +1
+ 1 x masterwork heavy steel shield
+ 1 x cloak of resistance +1
+ 1 x potion of bull's strength
+ 1 x potion of cure serious wounds
+ 1 x small magical flag (Commander's Tent: when a create plants the flag in the ground and speaks the word, it creates a tent)
+ 1 x orc double axe +1
+ 1 x masterwork composite longbow
+20 x arrows
+ 1 x +1 chain shirt
+ 1 x belt of giant strength +2
+ 1 x cloak of resistance +2
+ 1 x potion of fly
+ 2 x potion of blur
+2100silver
+792gold
+

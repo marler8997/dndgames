@@ -39,8 +39,15 @@ Row Boats
 Cargo
 ==========================================================
 * 5 chests of empty sould stones (clear crystal from the cave where we found greylock)
-* 2 Capture Cages (1 medium and 1 small)
-
+* 4 Magical Capture Cages
+    1 huge - empty
+    1 large - empty
+    1 medium - empty
+    1 small - empty
+    1 tiny - empty
+* Textiles to Sana-Losi in Anlethis
+* Iron Ore to Graafnar
+* 4 Slaves
 
 Potential Crew
 ==========================================================

@@ -2,7 +2,18 @@ Invisibility
 -----------------------
 An object is invisible on every line of sight where there is an invisible object surrounding it.
 
-
 Marked Teleporation
 -----------------------
 A level 6 Spell, works just like Greater Teloport with no mis-chance and only to a a "Teleportation Circle" which is created with 1d4 hours of work. You can memorize a existing circle by analyzing it for 1d4 hours.
+
+Blood Choke
+-----------------------
+Once Pinned, Use CMB to start a blood choke.  Does Strengh modifier in Dammage each round, Unconscious after 3 successful rounds, if CMB is 10 or higher then it only needs 2 rounds.
+
+Magical Animal Cages
+-----------------------
+  250g tiny
+  425g small
+  675g medium
+  925g large
+1,350g huge

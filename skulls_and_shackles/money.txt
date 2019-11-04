@@ -128,3 +128,9 @@ ship -126g84s crew wages
 +75g sold scroll of cat's grace
 -187g5s half of scroll of fly
 -700g buy scroll of scrying
+-1c buy 25 pounds of amphibian food
+-25g buy scroll of enlarge person
+-300g buy part of a huge cage
+ship -400g rest of the huge cage
+-200g buy part or a large cage
+ship -300g buy rest of large cage
