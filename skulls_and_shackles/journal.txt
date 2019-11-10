@@ -342,7 +342,8 @@ Port Drake
 * Mystic Frog - Covered in Illusion Magic, ability to cast a 5x5x5 square illusionary object, usually used to lure predators - I've named him "Ted".
 * Job board
   !- GOLD - Description
-  !-  ?     - Search for a list item that disapeared in the Wreath (Interests Mal)
+  !- 75000g - Staff was stolen by a light and dark Catfolk, sailing a ship called the "Thunder Chaser"
+              Search for a lost staff (staff of waves) that disapeared in the Wreath (Interests Mal)
    -  2500g - Recover captured Daughter from Bandits (they think she was captured for slave trade), heading towards Dalaria, her name is Madriel Lyrice
   !-  1250g - Find 25 pounds of Blackstone in the Chaos Lands
   !-  7500g - Kill the "Sleepy Eyed Bandit", messing up trading ships, last seen south of Sondal heading north and wrapping around the wreath towards Port Drake, base is south of Dalaria in a place called Nemetsk
@@ -360,3 +361,11 @@ Port Drake
 * Kaylax saw someone following us
 * ambushed by Blackbeards crew, we killed them except for a cleric that we questioned
    - Blackbeard's trying to take out the all-knowing through the sky people
+* Killian recruited the Cleric Named Llyrbele Balyn
+### October, 2137 (Real Life Date: November 10, 2019)
+* copied scroll of scrying
+-------------------------------------------
+* copied scroll of scrying
+* copied a bunch of other scrolls
+* while sailing away, we see a dragon
+* attacked by harpies

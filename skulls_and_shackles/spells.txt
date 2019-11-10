@@ -5,10 +5,11 @@ Persistent Spell | 2 | Enemy rolls DC at disadvantage
 Reach Spell      | * | Increase range (1 category per spell slot increase)
 Quicken Spell    | 3 | Turns 2 Feat Geometry from full-round action to standard
 Heigthen Spell   | * | Treat the spell a N levels higher
+Extend Spell     | 1 | Double spell duration
+Vast Spell       | 1 | Increase no more than 30 feet apart to 60 feet apart
 
 Feat Ideas:
 Intensified Spell| Increase max dammage dice up to 5
-Extend Spell     | Extend duration
 Quick Draw
 
 
@@ -52,7 +53,6 @@ Burning Arc
 Level 3 Spells of Interest
 --------------------------
 https://www.reddit.com/r/Pathfinder_RPG/comments/7b7v68/what_are_your_favorite_level_3_arcane_spells/
-* Fly?
 
 Level 4 Spells of Interest
 --------------------------

@@ -2,11 +2,6 @@
 * Take care of Ted
 * Make Teleporation Circle on our ship
 * Make a teleporation circle underwater in Sondal
-* Go back to scroll shop tomorrow to get fly scroll, already paid half
-* Copy scroll of enlarge person to spellbook
-* Copy scroll of slow to spellbook
-* Copy scroll of dispel magic to spellbook
-* Copy scroll of scrying to spellbook
 * Amulet of the Spirit, Waves (Chill Touch and Blur)
 * Potent Magic (increase DC/Level by 2 instead of 1 when using arcanist point)
 * put ring of naming into Hero Lab somehow so I can track the uses

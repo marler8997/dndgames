@@ -1,7 +1,7 @@
 
 Fred the illusionary Frog
 
-"neutrality of the sea" EQUIPPED=0
+"neutrality of the sea" EQUIPPED=1
 
 sky scroll case, materials about 500g worth, historic value not sure
 
@@ -14,11 +14,6 @@ sky scroll case, materials about 500g worth, historic value not sure
 
 1 x scroll of pyrotechnics (level 2 spell)
 1 x scroll of stinking cloud
-1 x scroll of web
-1 x scroll of phantom chariot
-1 x scroll see invisibility
-1 x scroll of slow
-1 x scroll of dispel magic
 25 pounds of amphibian food
 
 1 x Black Mask (sock mask)
@@ -82,28 +77,39 @@ Blackbeard crew loot
  5 x masterwork hand crossbows
 55 x crossbow bolts
  5 x leather armor
-10 x doses of "blood root"
- 5 x disguise kits
-10 x oils of Taggit
-10 x striped toadstools
+ 2 x disguise kits
  5 x sets of theives tools
  1 x longsword +1
  1 x light crossbow
  1 x dagger
  1 x brestplate +1
  1 x masterwork heavy steel shield
- 1 x cloak of resistance +1
- 1 x potion of bull's strength
- 1 x potion of cure serious wounds
- 1 x small magical flag (Commander's Tent: when a create plants the flag in the ground and speaks the word, it creates a tent)
  1 x orc double axe +1
  1 x masterwork composite longbow
 20 x arrows
  1 x +1 chain shirt
  1 x belt of giant strength +2
- 1 x cloak of resistance +2
  1 x potion of fly
- 2 x potion of blur
-2100silver
-792gold
 
+Harpy Battle Loot
+------------------------
+ 1 x +1 frost longbow
+ 1 x masterwork morning star
+ 1 x amulet of Natural Armor +1
+ 1 x belt of incredible dexterity +2
+ 1 x ring of protection +1
+ 1707g
+ 352s
+ 725c
+-- harpies
+ 4 x morning starts
+ 4 x leather armor sets
+ 32s
+-- owl harpy
+ 1 x masterwork short spear
+ 1 x leather armor set
+ 21g
+-- sorcerer
+ 1 x +1 dagger
+ 1 x wand of lightning bolt 16 charges CL5
+ 98g

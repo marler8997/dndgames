@@ -134,3 +134,6 @@ ship -126g84s crew wages
 ship -400g rest of the huge cage
 -200g buy part or a large cage
 ship -300g buy rest of large cage
++300g loot from bandits
+ship +2g loot from bandits
+-350g made scroll of "Remove Curse"
