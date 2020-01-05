@@ -12,13 +12,7 @@
 * read the "understanding wands and scrolls"
     - large book, 2 sections, 48 hours per section to learn "scribe scroll" or "craft wand"
     - Learned "Scribe Scrolls" after reading for 48 hours
-    - Learning Craft Wand
-        - 6 hours (ship)
-        - 8 hours (ship)
-        - 6 hours (ship)
-        - 7 hours (ship)
-        - 8 hours (ship)
-        - 4 hours (ship)
+    - Learned "Craft Wand" after reading for 48 hours
 * ring of naming!
 * find someone who can craft runes?  find out if we can learn how
 * look for the "fire whale" east of port drake

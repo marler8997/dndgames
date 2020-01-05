@@ -137,3 +137,7 @@ ship -300g buy rest of large cage
 +300g loot from bandits
 ship +2g loot from bandits
 -350g made scroll of "Remove Curse"
++451g harpy loot
+ship +1g352s725c harpy loot
++250g Teranrir Dunen for transport
+ship -19g2s crew wages 2 days

@@ -25,6 +25,7 @@ crystals from that one cave on the island south of port drake:
    - 26.9 pounds wide GREEN crystal from the caves (transmutation)
    -  2.8 pounds YELLOW (enchantment)
    -  0.2 pounds DARK PURPLE (necromancy)
+   - 15.0 pounds ORANGE (illusion)
 
 2 pounds of unworked crystal (looks like from the cave, worth ???)
 1 pounds of "good enough" cheese
@@ -60,6 +61,9 @@ from the island ruins underground
     - runes require blacksmithing and enchanting
     - one rune per item
 
+* 1 foot diameter clockwork sphere from "Teranrir Dunen", lives in Coughlin
+   - is there an activation word?
+
 Death Web Spider Loot
 ------------------------
 1 x potions of sanctify corpse potion
@@ -92,24 +96,12 @@ Blackbeard crew loot
  1 x potion of fly
 
 Harpy Battle Loot
-------------------------
- 1 x +1 frost longbow
+-----------------------
  1 x masterwork morning star
- 1 x amulet of Natural Armor +1
- 1 x belt of incredible dexterity +2
- 1 x ring of protection +1
- 1707g
- 352s
- 725c
--- harpies
- 4 x morning starts
- 4 x leather armor sets
- 32s
--- owl harpy
+ 4 x morning stars
+ 5 x leather armor sets
  1 x masterwork short spear
- 1 x leather armor set
- 21g
--- sorcerer
- 1 x +1 dagger
- 1 x wand of lightning bolt 16 charges CL5
- 98g
+
+From Kaylax
+-----------------------
+ 1 x +1 composite longbow
