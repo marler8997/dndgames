@@ -141,3 +141,7 @@ ship +2g loot from bandits
 ship +1g352s725c harpy loot
 +250g Teranrir Dunen for transport
 ship -19g2s crew wages 2 days
+
+-40g copy scroll of scorching ray
+-40g copy scroll of blur
+-160g copy scroll of summon monster 4

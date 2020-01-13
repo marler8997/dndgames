@@ -32,3 +32,9 @@ Profession gambler        |         |       |            | trix |
 
 Sailing bonus:
 Two sailor slots must be filled.  Sailors with modifiers take precedence.
+
+Teleportation Circles
+--------------------------
+1. uncharted jungle island with underground ruins (2 days sail North East of Russet City)
+2. small island south of port drake, west of the Wreath, walking tree house teleportation circle
+3. our ship, on the deck where the canons are

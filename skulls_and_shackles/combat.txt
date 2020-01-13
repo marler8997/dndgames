@@ -1,0 +1,3 @@
+1: Greater Invisibility
+2: Daze
+3: Blindness Deafness

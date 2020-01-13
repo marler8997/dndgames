@@ -1,24 +1,22 @@
 * Team Pickpocketing??
-* Take care of Ted
-* Make Teleporation Circle on our ship
+* Figure out the Clockwork Sphere from Terranrir
+* Take care of Ted the Toad
+* counter spell (DC 11 + caster level of caster) (dispell check 1D20 + my caster level)
+* We have 3 Manta Rays that we might be able to sell alive for 1000g each to the right buyer
 * Make a teleporation circle underwater in Sondal
 * Amulet of the Spirit, Waves (Chill Touch and Blur)
 * Potent Magic (increase DC/Level by 2 instead of 1 when using arcanist point)
 * put ring of naming into Hero Lab somehow so I can track the uses
-* I have the nuetrality of the sea equipped
 * buy another masterwork artisan's tools for Craft Carpentry
 * make a store to sell scrolls/wands
 * I could make scrolls, and "trade" them for other scrolls with spells that I don't know
-* read the "understanding wands and scrolls"
-    - large book, 2 sections, 48 hours per section to learn "scribe scroll" or "craft wand"
-    - Learned "Scribe Scrolls" after reading for 48 hours
-    - Learned "Craft Wand" after reading for 48 hours
 * ring of naming!
 * find someone who can craft runes?  find out if we can learn how
 * look for the "fire whale" east of port drake
 * mold to gold, and trick a one off vendor
 * cloak of the hedgewizard: acid-splash, mage armor, prestidigitation, unseen servant
-* "sign of discovery" tatoo, activate 3x a day, +2 to knowledge or perception or sense motive on next roll
+* "sky swim" skark tatoo, transumutation, 1x a day, 1min/level (lasts 5 minutes) lets me fly by swimming through the air
+* "sign of discovery" whale tatoo, activate 3x a day, +2 to knowledge or perception or sense motive on next roll
 * buy a spellbook for higher level spells
 * We got shell phones
 * Metamixing means I can use a metamagic without increased casting time
@@ -36,13 +34,6 @@
 * Current jobs
     - ...
 
-* scrolls to copy
-    * scroll of scorching ray
-    * scroll of blur
-    * scroll of fire wall
-    * scroll of fire trap
-    * scroll of summon monster 4
-
 * need waterproof container for spell book
     * commisioned waterproof bag from carvin puddle for 20g, get when you come back to Port Drake
 * buy handy haversack or pathfinders patch
@@ -56,8 +47,3 @@
 * A Wyroot quarterstaff is a fantastic way to recharge your Arcane Pool. Use it to deal nonlethal damage to unconscious enemies and you can quickly recharge your arcane pool for free.
 * Elven Magic - +2 to Spell Resistance and +2 Spellcraft to identify properties on magic items
 * Aquatic Mastery - +1 DC on any spell with "water" descriptor
-
-Teleportation Circles
---------------------------
-1. uncharted jungle island with underground ruins (2 days sail North East of Russet City)
-2. small island south of port drake, west of the Wreath, walking tree house teleportation circle
