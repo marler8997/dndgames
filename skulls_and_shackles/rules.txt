@@ -17,3 +17,7 @@ Magical Animal Cages
   675g medium
   925g large
 1,350g huge
+
+Ring of Sustenance
+-----------------------
+Can only use it ever other long rest.  With it, you can regain your spells after a 2 hour short rest, and then you can re-prepare your spells (or re-use the same spells without taking an hour to prepare).

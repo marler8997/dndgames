@@ -145,3 +145,7 @@ ship -19g2s crew wages 2 days
 -40g copy scroll of scorching ray
 -40g copy scroll of blur
 -160g copy scroll of summon monster 4
+
+# devil cave
++150g dusty pile of coins
+ship +17g dusty pile of coins

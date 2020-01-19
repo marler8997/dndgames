@@ -1,6 +1,8 @@
 * Team Pickpocketing??
 * Figure out the Clockwork Sphere from Terranrir
 * Take care of Ted the Toad
+* Robe of bones
+* maybe knock would be a good spell for a wand?
 * counter spell (DC 11 + caster level of caster) (dispell check 1D20 + my caster level)
 * We have 3 Manta Rays that we might be able to sell alive for 1000g each to the right buyer
 * Make a teleporation circle underwater in Sondal
