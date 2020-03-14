@@ -12,10 +12,14 @@ sky scroll case, materials about 500g worth, historic value not sure
 2 x potion of cure moderate wounds
 1 x potion of Disguise Self
 1 x potion of Hide from undead
+1 x potion of sanctify corpse potion
 
 1 x scroll of pyrotechnics (level 2 spell)
 1 x scroll of stinking cloud
 1 x scroll of fire trap
+1 x scroll gascious form
+1 x scroll of dispell magic
+1 x scroll of resist energy
 25 pounds of amphibian food
 
 1 x Black Mask (sock mask)
@@ -68,50 +72,5 @@ from the island ruins underground
 
 Death Web Spider Loot
 ------------------------
-1 x potions of sanctify corpse potion
-1 x potion of cure light wounds potion
-1 x potion of bull's strenght
-1 x potion of strength
-1 x +1 "champion" studded leather armor (champion gains +2 sacred bonus to attacks to certain opponents)
-1 x +1 rapier that "sheds light"
-1 x quick change cloak
 1 x small circular golden piece of clockwork, looks broken
 
-Blackbeard crew loot
-------------------------
- 5 x masterwork daggers
- 5 x masterwork hand crossbows
-55 x crossbow bolts
- 5 x leather armor
- 2 x disguise kits
- 5 x sets of theives tools
- 1 x longsword +1
- 1 x light crossbow
- 1 x dagger
- 1 x brestplate +1
- 1 x masterwork heavy steel shield
- 1 x orc double axe +1
- 1 x masterwork composite longbow
-20 x arrows
- 1 x +1 chain shirt
- 1 x belt of giant strength +2
- 1 x potion of fly
-
-Harpy Battle Loot
------------------------
- 1 x masterwork morning star
- 4 x morning stars
- 5 x leather armor sets
- 1 x masterwork short spear
-
-From Kaylax
------------------------
- 1 x +1 composite longbow
-
-Devil Cave
------------------------
- 1 x Robe of Bones
- 1 x Glave from Bearded Devil
- 1 x Masterwork Scimitar
- 1 x Large Masterwork Trident
- 1 x Net

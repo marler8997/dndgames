@@ -1,12 +1,8 @@
 
 
 23 x furniture material (on the ship)
-- chair rolled at 25
-- chair rolled at 22
 - half finished chair
-- chair rolled at 22
-- chair rolled at 32
-- chair rolled at 35
+- built chair, rolled 71
 
 
 --------------------------------------------------------------

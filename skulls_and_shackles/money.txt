@@ -149,3 +149,86 @@ ship -19g2s crew wages 2 days
 # devil cave
 +150g dusty pile of coins
 ship +17g dusty pile of coins
+
+group +25g artisans tools
+group +580g +1 chain shirt
+group +1100g +1 rapier
+group +44g 4 daggers
+group +75g wand of chill touch
+group +160g masterwork rapier
+group +170g very well-made masterwork crossbow
+group +615g +1 breastplate
+group +25g healer's kit
+group +2g cleric's vestments
+group +2g holy symbol looks like a mug of beer
+group +25g powdered silver
+group +24g 2 x vials fo holy water
+group +175g heavy crossbow
+group +156g masterwork warhammer
+group +556g heavy steel shield
+group +175g splint mail well-built
+group +175g 3 x composite long bows and arrows
+group +6g 6 x daggers
+group +21g 3 x scimitars
+group +260g 3 x well-built studded leather armor•
+
+# Death Web Spider Loot
+group +1500g +1 rapier with light spell
+group +2060g +1 champion studded leather armor
+group +750g quick-change cloak
+group +2000g belt of incredible dexterity
+
+# Blackbeard Crew loot
+group +755g 5 x masterwork daggers
+group +1000g 5 x masterwork hand crossbows
+group +2g 55 x crossbow bolts
+group +25g  5 x leather armor
+group +50g  2 x disguise kits
+group +75g  5 x sets of theives tools
+group +1170g  1 x longsword +1
+group +17g  1 x light crossbow
+group +1g  1 x dagger
+group +680g  1 x brestplate +1
+group +85g  1 x masterwork heavy steel shield
+group +2330g  1 x orc double axe +1
+group +200g  1 x masterwork composite longbow
+group +2g 20 x arrows
+group +625g  1 x +1 chain shirt
+group +2000g  1 x belt of giant strength +2
+
+# Harpy Battle
+group +16g 4 x morning stars
+group +25g 5 x leather armor
+group +150g masterwork short spear
+group +153g masterwork morning star
+
+# ?
+group +1150g +1 dagger
+group +7g pitchfork
+group +4150g +2 waraxe
+group +175g masterwork heavy crossbow
+group +1325g +1 full-plate armor
+group +1000g +1 natural armor amulet
+group +1250g cloak of the hedgewizard
+group +1000g +1 ring of protectioin
+group +1172g 7 x masterwork light crossbow
+group +1050g 7 x masterwork light hammers
+group +1225g 7 x masterwork breastplate
+group +175g 7 x oil of magic weapon
+
+# Devil Cage
+group +4g glave (from Bearded Devil)
+group +157g masterwork scimitar
+group +12g chain shirt
+group +165g masterwork long trident
+group +10g net
+
+# from Kaylax
+group +1200g +1 composite longbow
+
+group -24000g 3 headbands and boots of speed
+
++275g sold 5 chairs
+group -1000g teleporation circle on the turtle
+
++2p from Kaylax's sack
