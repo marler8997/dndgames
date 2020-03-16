@@ -1,0 +1,74 @@
+HP: 10 (dwarf)
+Speed: 20 ft (dwarf)
+
+Constitution: +2 (dwarf)
+Wisdom: +2 (dwarf)
+Charisma: +2 (dwarf, free ability)
+Charisma: -2 (dwarf)
+
+Language: Common (dwarf)
+Language: Dwarven (dwarf)
+Language: Goblin (dwarf because of +1 INT)
+
+
+Trait: Dwarf (dwarf)
+Trait: Humanoid (dwarf)
+
+DarkVision (dwarf)
+
+Heritage: Ancient-Blooded Dwarf: Call on Ancient Blood Reaction
+
+1st level feat: Dwarven Lore
+    trained in Crafting, Religion and Dwarven Lore
+
+Background: Entertainer
+Charisma: +2 (entertainer background)
+
+Bard:
+---------------------------------
+Charisma: +2 (bard)
+HP: +10 (bard)
+
+Perception: expert (bard)
+
+Fortitude Save: trained (bard)
+Reflex Save: trained (bard)
+Will Save: trained (bard)
+
+Occultism: trained (bard)
+Performance: trained (bard)
+Diplomacy: trained (bard free 1)
+Deception: trained (bard free 2)
+Stealth: trained (bard free 3)
+Acrobatics: trained (bard free 4)
+Society: trained (bard free +1 INT)
+
+Light Armor: trained (bard)
+Unarmored Defense: trained (bard)
+
+Occult Spell Atacks: trained (bard)
+Occult Spell DCs: trained (bard)
+
+Simple Weapons: trained (bard)
+Longsword: trained (bard)
+Rapier: trained (bard)
+Sap: trained (bard)
+Shortbow: trained (bard)
+Shortsword: trained (bard)
+Whip: trained (bard)
+Unarmed Attacks: trained (bard)
+
+Charisma: +2 (initial boost)
+Dexterity: +2 (initial boost)
+Constitution: +2 (initial boost)
+Intelligence: +2 (initial boost)
+
+HP: +2 (CON modifier +2)
+
+I have a pool of 1 focus point.  I can regain 1 focus point by spending 10 minutes using the "Refocus Activity" to perform, write a composition or engage in my "muse".
+
+Muse: Maestro
+    Lingering Performance and Soothe spell
+
+Class Feat: Versatile Performance (bard, choice)
+
