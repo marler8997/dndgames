@@ -1,0 +1,14 @@
+{
+"system":"Pathfinder2e",
+"name":"Tiddle",
+"ops":[
+
+{"type":"hp","mod":10,"reason":"Ancestry: Dwarf"},
+{"type":"speed","value":20,"reason":"Ancestry: Dwarf"},
+{"type":"constitution","mod":2,"reason":"Ancestry: Dwarf"},
+{"type":"charisma","mod":-2,"reason":"Ancestry: Dwarf"},
+{"type":"charisma","mod":2,"reason":"Ancestry: Dwarf (free ability)"}
+
+
+
+]}
