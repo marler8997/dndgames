@@ -1,5 +1,5 @@
 
-Cantrips of Interest
+Cantrips
 ---------------------------------------
 Message
 Telekenenetic Projectile
@@ -8,6 +8,17 @@ Guidance
 Mage Hand
 Shield
 
+Level 1 Spells
+---------------------------------------
+Magic Missile
+Sleep
+
+
+
+
+Cantrips of Interest
+---------------------------------------
+
 Dancing Lights (Anthony has something)
 Detect Magic
 Ghost Sound?
@@ -15,11 +26,8 @@ Prestidigitation
 Ray of Frost (better than Produce Flame, better than Acid Splah)
 Daze (meh, only stuns if it's a critical failure)
 
-1st level spells of interest
+Level 1 Spells of Interest
 ---------------------------------------
-Magic Missile
-Sleep
-
 Magic Weapon
 Bane?
 Detect Alignment?

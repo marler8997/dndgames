@@ -17,6 +17,7 @@ Trait: Humanoid (dwarf)
 DarkVision (dwarf)
 
 Heritage: Ancient-Blooded Dwarf: Call on Ancient Blood Reaction
+Reaction: Call on Ancient Blood (heritage, Ancient blooded dwarf)
 
 1st level feat: Dwarven Lore
     trained in Crafting, Religion and Dwarven Lore
@@ -58,6 +59,7 @@ Shortsword: trained (bard)
 Whip: trained (bard)
 Unarmed Attacks: trained (bard)
 
+
 Charisma: +2 (initial boost)
 Dexterity: +2 (initial boost)
 Constitution: +2 (initial boost)
@@ -65,14 +67,20 @@ Intelligence: +2 (initial boost)
 
 HP: +2 (CON modifier +2)
 
+Reaction: Counter Performance (bard)
+
 I have a pool of 1 focus point.  I can regain 1 focus point by spending 10 minutes using the "Refocus Activity" to perform, write a composition or engage in my "muse".
 
-Muse: Maestro
-    Lingering Performance and Soothe spell
+Muse: Maestro (bard, adds Lingering Performance and Soothe spell)
+Cantrip Focus Spell: Inspire Courage (reason?)
+Level 1 Focus Spell: Counter Performance (bard)
+Level 1 Focus Spell: Lingering Composition (muse Maestro)
 
-Class Feat: Versatile Performance (bard, choice)
+Class Feat: Reach Spell (bard, choice)
+Skill Feat: Fascinating Performance (background, Entertainer)
 
-Cantrip Spell: Muse (bard, muse)
+
+Cantrip Spell: Muse (bard, muse) WHAT IS THIS?
 
 Cantrip Spell: Message (bard)
 Cantrip Spell: Telekenenetic Projectile (bard)
@@ -83,7 +91,8 @@ Cantrip Spell: Shield (bard)
 
 Level 1 Spell: Magic Missile (bard)
 Level 1 Spell: Sleep (bard)
+Level 1 Spell: Soothe (muse Maestro)
 
 Item: Rapier (-2g)
-Item: Studded Leather (?g)
-Item: Sling (?g)
+Item: Sling (0g)
+Item: Sling Bullets (2c)
