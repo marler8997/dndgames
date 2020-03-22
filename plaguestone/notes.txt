@@ -72,3 +72,18 @@ Muse: Maestro
 
 Class Feat: Versatile Performance (bard, choice)
 
+Cantrip Spell: Muse (bard, muse)
+
+Cantrip Spell: Message (bard)
+Cantrip Spell: Telekenenetic Projectile (bard)
+Cantrip Spell: Ghost Sound (bard)
+Cantrip Spell: Guidance (bard)
+Cantrip Spell: Mage Hand (bard)
+Cantrip Spell: Shield (bard)
+
+Level 1 Spell: Magic Missile (bard)
+Level 1 Spell: Sleep (bard)
+
+Item: Rapier (-2g)
+Item: Studded Leather (?g)
+Item: Sling (?g)

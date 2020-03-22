@@ -1,10 +1,30 @@
 
 Cantrips of Interest
 ---------------------------------------
+Message
+Telekenenetic Projectile
+Ghost Sound
+Guidance
+Mage Hand
+Shield
+
+Dancing Lights (Anthony has something)
 Detect Magic
 Ghost Sound?
-Message
 Prestidigitation
 Ray of Frost (better than Produce Flame, better than Acid Splah)
-Telekenenetic Projectile
 Daze (meh, only stuns if it's a critical failure)
+
+1st level spells of interest
+---------------------------------------
+Magic Missile
+Sleep
+
+Magic Weapon
+Bane?
+Detect Alignment?
+Fear?
+Bless
+Grim Tendrils?
+Illusory Disguise
+Mage Armor?
