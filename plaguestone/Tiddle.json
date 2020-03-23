@@ -1,13 +1,23 @@
 {
-"system":"Pathfinder2e",
-"name":"Tiddle",
-"ops":[
+"system":"Pathfinder2e"
+,"characterName":"Tiddle"
+,"playerName":"Jonathan"
+,"ancestry":"dwarf"
+,"ancestryAndHeritage":"ancientBloodedDwarf"
+,"background":"entertainer"
+,"class":"bard"
+,"alignment":"unspecified"
+,"deity":"unspecified"
+,"ops":[
 
-{"type":"hp","mod":10,"reason":"Ancestry: Dwarf"},
-{"type":"speed","value":20,"reason":"Ancestry: Dwarf"},
-{"type":"constitution","mod":2,"reason":"Ancestry: Dwarf"},
-{"type":"charisma","mod":-2,"reason":"Ancestry: Dwarf"},
-{"type":"charisma","mod":2,"reason":"Ancestry: Dwarf (free ability)"}
+{"type":"hp","mod":10,"reason":"ancestry: dwarf"}
+,{"type":"speed","value":20,"reason":"ancestry: dwarf"}
+,{"type":"constitution","mod":2,"reason":"ancestry: dwarf"}
+,{"type":"charisma","mod":-2,"reason":"ancestry: dwarf"}
+,{"type":"charisma","mod":2,"reason":"ancestry: dwarf (free ability)"}
+,{"type":"language","name":"Common","reason":"ancestry: dwarf"}
+,{"type":"language","name":"Dwarven","reason":"ancestry: dwarf"}
+,{"type":"language","name":"Goblin","reason":"ancestry: dwarf, choice from +1 intelligence"}
 
 
 
