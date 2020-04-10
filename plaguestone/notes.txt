@@ -1,3 +1,6 @@
+!!! How is my dex 14?
+!!! How am I trained in thievery?
+
 HP: 10 (dwarf)
 Speed: 20 ft (dwarf)
 
@@ -62,10 +65,10 @@ Unarmed Attacks: trained (bard)
 
 Charisma: +2 (initial boost)
 Dexterity: +2 (initial boost)
-Constitution: +2 (initial boost)
+Strength: +2 (initial boost)
 Intelligence: +2 (initial boost)
 
-HP: +2 (CON modifier +2)
+HP: +1 (CON modifier +2)
 
 Reaction: Counter Performance (bard)
 

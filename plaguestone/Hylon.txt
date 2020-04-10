@@ -1,0 +1,69 @@
+system pathfinder2e
+characterName "Hylon Vellius"
+playerName Anthony
+ancestry elf
+ancestryAndHeritage woodElf
+background emmisary
+class druid
+keyAbility charisma
+size medium
+alignment unspecified
+image "https://marler8997.github.io/dndpics/plaguestone/Hylon.jpg"
+traits "Humanoid, Dwarf"
+deity unspecified
+
+startOperations
+
+maxHP 6 reason="ancestry: elf"
+speed 30 reason="ancestry: elf"
+ability dexterity     2 reason="ancestry: elf"
+ability intelligence  2 reason="ancestry: elf"
+ability wisdom        2 reason="ancestry: elf, free choice 1"
+ability constitution -2 reason="ancestry: elf"
+language Common reason="ancestry: elf"
+language Elven reason="ancestry: elf"
+# TODO: add more langauges from intelligence
+
+# TODO: fix everything else copied from Tiddle.txt
+
+feat ancestry Darkvision reason="ancestry: elf"
+
+feat ancestry "Ancient Blooded elf? Adds 'Call on Ancient Blood reaction'" reason="heritage: ancientBloodedelf"
+reaction name="Call on Ancient Blood" reason="heritage"
+
+feat ancestry "Dwarven Lore" reason="ancestry: elf, 1st level choice"
+skill crafting proficiency=trained reason="feat: Dwarven Lore"
+skill dwarvenLore proficiency=trained reason="feat: Dwarven Lore"
+skill religion proficiency=trained reason="feat: Dwarven Lore"
+
+ability charisma  2 reason="background: entertainer"
+ability dexterity 2 reason="background: entertainer"
+skill theatreLore proficiency=trained reason="background: entertainer"
+skill performance proficiency=trained reason="background: entertainer"
+feat skill "Fascinating Performance" reason="background: entertainer"
+
+maxHP 10 reason="class: bard"
+ability charisma 2 reason="class: bard"
+skill perception proficiency=expert reason="class: bard"
+save fortitude proficiency=trained reason="class: bard"
+save reflex    proficiency=trained reason="class: bard"
+save will      proficiency=expert  reason="class: bard"
+skill thievery   proficiency=trained reason="class: bard, perform becomes free choice because perform is already trained from entertainer background"
+skill occultism  proficiency=trained reason="class: bard"
+skill diplomacy  proficiency=trained reason="class: bard, free choice 1"
+skill deception  proficiency=trained reason="class: bard, free choice 2"
+skill stealth    proficiency=trained reason="class: bard, free choice 3"
+skill acrobatics proficiency=trained reason="class: bard, free choice 4"
+skill society    proficiency=trained reason="class: bard, free choice from +1 INT"
+armorSkill unarmored proficiency=trained reason="class: bard"
+armorSkill light     proficiency=trained reason="class: bard"
+classDC proficiency=trained reason="class: bard"
+spellAttack proficiency=trained reason="class: bard"
+spellDC     proficiency=trained reason="class: bard"
+feat class "Lingering Composition" reason="class: bard and muse: maestro"
+feat class "Reach Spell"           reason="class: bard, free choice"
+
+ability charisma     2 reason="starting aility boost, free choice 1"
+ability dexterity    2 reason="starting aility boost, free choice 2"
+ability strength     2 reason="starting aility boost, free choice 3"
+ability intelligence 2 reason="starting aility boost, free choice 4"

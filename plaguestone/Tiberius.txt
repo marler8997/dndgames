@@ -1,0 +1,54 @@
+system pathfinder2e
+characterName Tiberius
+playerName David
+ancestry dwarf
+ancestryAndHeritage rockDwarf
+background acolyte
+class monk
+keyAbility dexterity
+size medium
+alignment unspecified
+image "https://marler8997.github.io/dndpics/plaguestone/Tiberius.jpg"
+traits "Humanoid, Dwarf"
+deity unspecified
+
+startOperations
+
+maxHP 10 reason="ancestry: dwarf"
+speed 20 reason="ancestry: dwarf"
+ability constitution 2 reason="ancestry: dwarf"
+ability wisdom    2 reason="ancestry: dwarf"
+ability charisma -2 reason="ancestry: dwarf"
+ability dexterity  2 reason="ancestry: dwarf (free ability)"
+language Common reason="ancestry: dwarf"
+language Dwarven reason="ancestry: dwarf"
+language Goblin reason="ancestry: dwarf, choice from +1 intelligence"
+feat ancestry Darkvision reason="ancestry: dwarf"
+
+feat ancestry "+2 Circumstance bonus on Fotitude/Reflex saves to being shoved or tripped" reason="heritage: rockDwarf"
+
+ability wisdom  2 reason="background: acolyte"
+ability dexterity 2 reason="background: acolyte"
+skill religion proficiency=trained reason="background: acolyte"
+skill scribingLore proficiency=trained reason="background: acolyte"
+feat skill "Student of the Canon" reason="background: acolyte"
+
+maxHP 10 reason="class: monk"
+maxHP 2 reason="+2 CON"
+ability dexterity 2 reason="class: monk"
+skill perception proficiency=trained reason="class: monk"
+save fortitude proficiency=expert reason="class: monk"
+save reflex    proficiency=expert reason="class: monk"
+save will      proficiency=expert  reason="class: monk"
+#skill diplomacy  proficiency=trained reason="class: monk, free choice 1"
+#skill deception  proficiency=trained reason="class: monk, free choice 2"
+#skill stealth    proficiency=trained reason="class: monk, free choice 3"
+#skill acrobatics proficiency=trained reason="class: monk, free choice 4"
+#skill society    proficiency=trained reason="class: monk, free choice from +1 INT"
+armorSkill unarmored proficiency=expert reason="class: monk"
+classDC proficiency=trained reason="class: monk"
+
+ability dexterity    2 reason="starting aility boost, free choice 2"
+ability wisdom       2 reason="starting aility boost, free choice 1"
+ability constitution 2 reason="starting aility boost, free choice 3"
+ability intelligence 2 reason="starting aility boost, free choice 4"

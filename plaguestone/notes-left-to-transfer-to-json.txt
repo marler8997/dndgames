@@ -1,0 +1,39 @@
+
+
+Bard:
+---------------------------------
+Simple Weapons: trained (bard)
+Longsword: trained (bard)
+Rapier: trained (bard)
+Sap: trained (bard)
+Shortbow: trained (bard)
+Shortsword: trained (bard)
+Whip: trained (bard)
+Unarmed Attacks: trained (bard)
+
+
+Reaction: Counter Performance (bard)
+
+I have a pool of 1 focus point.  I can regain 1 focus point by spending 10 minutes using the "Refocus Activity" to perform, write a composition or engage in my "muse".
+
+Muse: Maestro (bard, adds Lingering Performance and Soothe spell)
+Cantrip Focus Spell: Inspire Courage (reason?)
+Level 1 Focus Spell: Counter Performance (bard)
+Level 1 Focus Spell: Lingering Composition (muse Maestro)
+
+Cantrip Spell: Muse (bard, muse) WHAT IS THIS?
+
+Cantrip Spell: Message (bard)
+Cantrip Spell: Telekenenetic Projectile (bard)
+Cantrip Spell: Ghost Sound (bard)
+Cantrip Spell: Guidance (bard)
+Cantrip Spell: Mage Hand (bard)
+Cantrip Spell: Shield (bard)
+
+Level 1 Spell: Magic Missile (bard)
+Level 1 Spell: Sleep (bard)
+Level 1 Spell: Soothe (muse Maestro)
+
+Item: Rapier (-2g)
+Item: Sling (0g)
+Item: Sling Bullets (2c)

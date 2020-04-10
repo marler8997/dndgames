@@ -1,0 +1,27 @@
+system pathfinder2e
+characterName Brienne
+playerName Brandi
+ancestry human
+ancestryAndHeritage human
+background guard
+class fighter
+keyAbility strength
+size medium
+alignment unspecified
+image "https://marler8997.github.io/dndpics/Brienne.jpg"
+traits "Humanoid, Human"
+deity unspecified
+
+startOperations
+
+maxHP 8 reason="ancestry: human"
+speed 25 reason="ancestry: human"
+ability strength 2 reason="ancestry: human, free choice 1"
+ability wisdom   2 reason="ancestry: human, free choice 1"
+language Common reason="ancestry: human"
+language Dwarven reason="ancestry: human, from +1 INT"
+
+feat ancestry "Skilled Heritage" reason="heritage"
+skill survival proficiency=trained reason="heritage"
+
+equipArmor scaleMail

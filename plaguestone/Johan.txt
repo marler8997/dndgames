@@ -1,0 +1,52 @@
+system pathfinder2e
+characterName Johan
+playerName Mike
+ancestry human
+ancestryAndHeritage human
+background streetUrchin
+class champion
+keyAbility strength
+size medium
+alignment unspecified
+image "https://marler8997.github.io/dndpics/plaguestone/Johan.jpg"
+traits "Humanoid, Human"
+deity iomedae
+
+startOperations
+
+maxHP 8 reason="ancestry: human"
+speed 25 reason="ancestry: human"
+ability strength 2 reason="ancestry: human, free choice 1"
+ability charisma 2 reason="ancestry: human, free choice 1"
+language Common reason="ancestry: human"
+
+ability constitution 2 reason="background: streetUrchin"
+ability charisma     2 reason="background: streetUrchin"
+skill thievery proficiency=trained reason="background: streetUrchin"
+skill absalomLore proficiency=trained reason="background: streetUrchin"
+feat skill "Pickpocket" reason="background: streetUrchin"
+
+maxHP 10 reason="class: champion"
+maxHP 2 reason="+2 CON"
+ability strength 2 reason="class: champion"
+skill perception proficiency=trained reason="class: champion"
+save fortitude proficiency=expert  reason="class: champion"
+save reflex    proficiency=trained reason="class: champion"
+save will      proficiency=expert  reason="class: champion"
+skill religion  proficiency=trained reason="class: champion"
+# TODO: trained in one skill determined by deity
+# TODO: trained in 2 more skills, free choices
+#skill diplomacy  proficiency=trained reason="class: champion, free choice 1"
+#skill deception  proficiency=trained reason="class: champion, free choice 2"
+armorSkill unarmored proficiency=trained reason="class: champion"
+armorSkill light     proficiency=trained reason="class: champion"
+armorSkill medium    proficiency=trained reason="class: champion"
+armorSkill heavy     proficiency=trained reason="class: champion"
+classDC proficiency=trained reason="class: champion"
+spellAttack proficiency=trained reason="class: champion"
+spellDC     proficiency=trained reason="class: champion"
+
+ability strength     2 reason="starting aility boost, free choice 3"
+ability dexterity    2 reason="starting aility boost, free choice 2"
+ability constitution 2 reason="starting aility boost, free choice 4"
+ability charisma     2 reason="starting aility boost, free choice 1"
