@@ -1,0 +1,56 @@
+
+
+Psychic Handbook: https://rpgbot.net/pathfinder/characters/classes/psychic/
+CTP's psychic guide: https://docs.google.com/document/d/19ucZQWoJVw02H_7uyEeGrex4A-MgVRzfz1f-yUjG9uQ/edit
+
+
+Rolls
+----------------------------------
+16 14 13 12 11 9 
+Add 4 points and adjust:
+INT 20
+CHA 18
+CON 12
+WIS 12
+DEX 9
+STR 8 
+
+
+Race: Half-Elf, Half-Orc, Human, Elf, Samsaran (Animate Dead)
+
+
+Psychic
+
+Disciplines:
+* GOOD?    Rebirth (Mnemonic Esoterica! One free spell per day from any class!!!)
+* MAYBE    Self-Perfection
+* MAYBE    Faith
+* MAYBE    Rapport (Good team player)
+* MAYBE    Hag-Called
+* MAYBE    Haunted BAD??
+* RESEARCH Bleaching
+* RESEARCH Sorrow
+* RESEARCH Voidborn
+* MEH      Superiority
+* MEH      Symbiosis
+* MEH      Enlightenment
+* MEH      Ferocity
+* MEH      Spirit Channeler
+* BAD      Mindtech
+* BAD      Dream
+* BAD      Lore
+* BAD      Tranquility
+* BAD      Abomination
+* BAD      Pain
+* BAD      Psychedelia
+* Pageantry???
+* Shadow???
+
+
+Phrenic Amplifications:
+* Will of the dead (mind-affecting for undead, first or second amp)
+* Synaptic Shock? Confused for one round, even if they succeed on their save !!
+* Relentless Casting (advantage on spell resistance rolls, maybe get at level 7?)
+* Overpowering Mind (increase Will save DC)
+* Ongoing Defense (increase duration of some spells)
+* Mimic Metamagic (like sacred geometry but worse)
