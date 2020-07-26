@@ -6,14 +6,14 @@ CTP's psychic guide: https://docs.google.com/document/d/19ucZQWoJVw02H_7uyEeGrex
 
 Rolls
 ----------------------------------
-16 14 13 12 11 9 
+16 14 13 12 11 9
 Add 4 points and adjust:
 INT 20
 CHA 18
 CON 12
 WIS 12
 DEX 9
-STR 8 
+STR 8
 
 
 Race: Half-Elf, Half-Orc, Human, Elf, Samsaran (Animate Dead)
@@ -54,3 +54,74 @@ Phrenic Amplifications:
 * Overpowering Mind (increase Will save DC)
 * Ongoing Defense (increase duration of some spells)
 * Mimic Metamagic (like sacred geometry but worse)
+
+Feats:
+* great fortitude?
+* sacred geometry of course!!
+* spell perfection (higher level)
+* craft rod (late game?)
+
+Traits:
+* magical lineage (metamagic costs 1 less level for 1 spell)
+* resilient, greater fortitude save
+*
+
+
+
+Spells
+=======================================================================================
+https://paizo.com/threads/rzs2nntt?Greatest-0-level-spell
+
+1st: Prestidigitation
+    - I used it to give a poison vial to a guard. (Changed taste, color and odor of the drink).
+    - Tied guards shoes
+    - Create small form from my kiseru (smoking pipe)
+    - Clean a freshly used weapons
+    - Quickly gather coins from a torn purse
+2nd: Ghost sound
+    - Distract guards
+    - Create a false haunted house
+    - Scare commoners
+3rd: Mage Hand
+    - Just drop a contact poison drenched tissue on ennemies
+    - Take keys from a sleeping guard's belt without getting caught
+    - Steal obiviously trapped objects without getting hurt
+4th: Open/Close
+    - Open unlocked chest
+    - Open unlocked door
+    - Close door at the face of pursuing guard
+    - Open a full purse (and collect coins with prestidigitation)
+    - Open the bag full of potion (and alchemist fire) as the enemy alchemist try to flee.
+    - Close a cure light wound potion that the guard just opened
+5th: Detect Magic and Dancing Light
+    - Detect magic trap
+    - Detect magic object
+    or
+    - Create a haunted house
+    - Scare commoners
+    - Distract guards as they attack false will-o'-wisp
+6th: Ray of Frost (for combat)
+    Yes, I'm playing a Kitsune Arcane Trickster named Grey Fox.
+
+0-level Spells:
+* Lullaby
+* Stabalize
+
+1-level Spells:
+* remove fear
+* ill omen
+* enlarge person?
+* detect thoughts? Do i get it for free later?
+* charm person
+* burst of adrenaline
+
+Items:
+* Headband of vast intelligence
+* cloak of resistance
+* Hat of disguise
+* wands
+* Handy Haversack
+* Runestones of Power
+* Metamagic Rods ?  (instead of sacred geometry?)
+* Pages of Spell Knowledge / Spell Lattices ???
+* Four-Leaf Clover
