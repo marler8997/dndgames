@@ -19,6 +19,12 @@ STR 8
 Race: Half-Elf, Half-Orc, Human, Elf, Samsaran (Animate Dead)
 
 
+https://curseofthecrimsonthrone-52.obsidianportal.com/wiki_pages/languages
+---------------------------------------------------------------------------
+Language: Shoanti
+Spoken by the Shoanti people of Varisia, this language has many similarities to Varisian, Hallit, and ancient Thassilonian.
+
+
 Psychic
 
 Disciplines:
