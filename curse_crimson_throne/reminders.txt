@@ -1,4 +1,4 @@
 * psychics DO NOT USE VERBAL components!
 * burst of insight +8 to INT/CHA/WIS based roll, but dazed for 1 round
     - use this for hypnotize
-
+* Past-Life Memories: add half my psychic level (min 1) to all knowledge checks, and can attempt any knowledge that is untrained
