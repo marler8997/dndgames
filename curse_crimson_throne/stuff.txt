@@ -6,25 +6,18 @@ from Gaedren Lamm
 - Zellara's Harrow deck
 
 from Lockbox
-- narrow teak cigar box inalyed with jade appraise(19, 10g to 15g)
 - 2 pound gold ingot barring the Cheliax coat of arms (1 2lb ingot is worth 100g)
     The country south of Korvosa
     more of a dicatatorship
     Had some differences with Korvosa
-- miniature gold crown, seems like a beautiful art piece appraise(12, 100g to 200g)
-- fist-sized scrimshaw carving of a kraken with garnets in its eyes appraise(21, 100g)
 - silver ring with inscription "For Emmah, the light in my nights" appraise(10, 50g to 100g) (see whose it is first)
-- Highly realistic and scandalous figurine with 2 entwined succubi (great art piece) appraise(12, 200g to 300g)
 - shuriken, very well built, appraise(12, 100g to 200g)
-- arrowhead made out of very hard material
+- arrowhead made out of very hard material, made out of Adamntine (probably worth 60g)
 - strange 1 foot dagger (key shaped, ornate, jagged edge) possibly masterwork appraise(19, 300g to 400g)
     inscription: "For an inspiration of a father"
 - Abalone shell holy symbol to the God Shalim (God of art beauty love and music, Nirvana) appraise(37, 150g) might be able to return it to a temple of Shalim and get more money
 - Glass tube with oil spellcraft(22, faint transmutation, 1 application of keen edge oil) appraise(17, 350g to 600g)
-- Beautiful Crystaline vial with some type of liquid, transmutation, vial is probably worth some money itself,
-    - 1 use of silversheen (coats a single melee weapon for an hour, or 20 ammunition)
-    - vial part appraise(13, 20g to 30g)
-    - liguid part appraize(8, 50g to 200g)
+- vial 1 use of silversheen (coats a single melee weapon for an hour, or 20 ammunition) appraise(8, 50g to 200g)
 - Bejeweled Broche with broken clasp (looks the most valuable thing) appraise(31, 600g)
    - circular gold, depicts a house drake and an imp in a ying/yang pattern (house drakes are like poor man dragons)
    - The house drake eye is an amythis and imp eye was an emerald

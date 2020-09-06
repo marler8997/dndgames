@@ -107,7 +107,7 @@ August 23, 2020
 - We hear rioting in the morning, we hear people saying "Death to the new Queen", and "Die Dandy" (I think Dandy is a slur for the queen)
 - We run into a man named Amin Jelento
 - Got a gold ring from Amin Jelento
-    - He has a shop over in the heights, Amin's Good's
+    - He has a shop over in the heights, Amin's Goods
 - When we see Zellar's home, it looks completely different from when we saw it the day before.  It looks much more run-down
     - Inside it looks like no one has been inside for weeks
     - My wine bottle from the house is still here and looks normal
@@ -136,10 +136,53 @@ August 30, 2020
     - Can grab you from far away
     - We led him into the sewers using a cow noise with Ghost Sound
 - We can go to Volshyenek to claim a reward for dealing with the Otyugh
-- Things to do (2 PM)
+- Things to do (it's around 2 PM)
     - Eels' end (in Gaedren's ledger)
     - Amin's store
     - Visit guards for our reward
     - Visit Shalim temple for holy symbol
     - Sell stuff
     - Visit the castle
+
+=============================================================
+September 6, 2020
+=============================================================
+- While walking back to the castle, I overhear 2 older men say
+    "Most of the visiting ambassadors in Korvosa have fled the city; those few who are staying behind are doing so because of personal issues at home. I've heard that Ambassador Amprei from Cheliax is one of the latter; there's something he's hiding from that's keeping him from returning to Cheliax."
+- At Domina square we see a man, who seems like a "Doomsdayer"
+    - The eye of grotus has turned from the boneyard to look upon Korvosa.  Do not look away from the danger, it's just there to eat you.
+    - grotus is the God of end times, father of the apocolypse, chaotic, lives in "The Boneyard" which is another plane of existence.  Represented by a skull-faced moon.
+    - Farasma also lives in "The Boneyard".  Grotus is a lesser God to Farasma.
+    - Farasma followers are VERY against undead.  She wants the world to be pure by cleansing it of the undead.  "Lady of Graves" "Mother of Souls".  Very neutral.  She watches over people's passing of death.  She's like "the shepard".  She doesn't want people to go back to where they dont' belong.
+- A man grabbed me declaring that Korvosa was doomed, that Grotus is going to destroy it.
+- Amin's shop is like antique, houseware, jewlery, prevayer of Goods
+    - Ask how he came to become a shop owner, how did he get his start?  I want to know about his past.
+    - He got nervous when I asked him about Gaedren Lamm
+    - He recognized the "key-shaped Dagger", it belonged to "The Key-Locked Killer" of who there were stories of them being a serial killer. He said he'd get rid of it.  The killings were happening about 5 years ago. The current year is 4695, but the killings happened in 4690.  He killed 3 people, not sure who.
+    - His family is somewhat wealthy, he used to be a student for a local swordsman, but didn't work out.
+    - The 'Jalento' family owns a shipping company
+    - SOLD some things (look at money.txt)
+    - I performed "Prognostication on him" to get his alignment and class: Level 3 Aristocrat, Lawful Neutral
+    - As we leave,
+- LX-14 sees some shops, magic items, potions, general store, armor/weapons
+    - one window is open on the top floor of the weapon-armor store and he hears
+        "The Korvosan Guard is stretched thin and is desperate for help; they've taken to hiring common thugs and money-grubbing mercenaries to police us!"
+- We got into the weapon/armor shop owned by "Adon"
+    - He has an impressive very ornate weapons and armor
+    - Alot of the weapons/armor seem ornamental and don't look like they would hold up in battle
+    - I find a bin with the "good for fighting but less ornate" weapons
+- Ran into some imps and House Drake's fighting
+    - They are both intelligent creatures, and are both known to speak common
+- The house drakes say they must protect the city
+    - they thanked us for help and flew off
+- We heard some guards say:
+    "No one's seen Blackjack in action for years, and things are as bad now in Korvosa as they ever were. So either he's retired, or someone finally killed him!"
+    - Blackjack is a vigilante, like Robin Hood
+- Eel's end is a collection of ships that no longer sail on the east end of old Korvosa
+- Ran into 12 guards and 50 to 75 laborers dismantling the lighthose at the north end of the heights, the guards were wearing heavy steel breastplates with beautify red ornate carvings
+- at the bar we meet Grau Soldado at the Inn on 3rd street in North Point, he's in old stinky unclean Korvosan guard attire
+    - He Tells Cad he hasn't seen him since Sandpoint
+    - He is a well-known well-liked sargeant in the city
+    - He's very sad about the King dying
+- I tried to read the aura of one of the guard maiden's but failed my DC check
+- We slept at the inn at North Point
