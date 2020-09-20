@@ -152,8 +152,8 @@ September 6, 2020
 - At Domina square we see a man, who seems like a "Doomsdayer"
     - The eye of grotus has turned from the boneyard to look upon Korvosa.  Do not look away from the danger, it's just there to eat you.
     - grotus is the God of end times, father of the apocolypse, chaotic, lives in "The Boneyard" which is another plane of existence.  Represented by a skull-faced moon.
-    - Farasma also lives in "The Boneyard".  Grotus is a lesser God to Farasma.
-    - Farasma followers are VERY against undead.  She wants the world to be pure by cleansing it of the undead.  "Lady of Graves" "Mother of Souls".  Very neutral.  She watches over people's passing of death.  She's like "the shepard".  She doesn't want people to go back to where they dont' belong.
+    - Pharasma also lives in "The Boneyard".  Grotus is a lesser God to Pharasma.
+    - Pharasma followers are VERY against undead.  She wants the world to be pure by cleansing it of the undead.  "Lady of Graves" "Mother of Souls".  Very neutral.  She watches over people's passing of death.  She's like "the shepard".  She doesn't want people to go back to where they dont' belong.
 - A man grabbed me declaring that Korvosa was doomed, that Grotus is going to destroy it.
 - Amin's shop is like antique, houseware, jewlery, prevayer of Goods
     - Ask how he came to become a shop owner, how did he get his start?  I want to know about his past.
@@ -163,7 +163,6 @@ September 6, 2020
     - The 'Jalento' family owns a shipping company
     - SOLD some things (look at money.txt)
     - I performed "Prognostication on him" to get his alignment and class: Level 3 Aristocrat, Lawful Neutral
-    - As we leave,
 - LX-14 sees some shops, magic items, potions, general store, armor/weapons
     - one window is open on the top floor of the weapon-armor store and he hears
         "The Korvosan Guard is stretched thin and is desperate for help; they've taken to hiring common thugs and money-grubbing mercenaries to police us!"
@@ -182,7 +181,73 @@ September 6, 2020
 - Ran into 12 guards and 50 to 75 laborers dismantling the lighthose at the north end of the heights, the guards were wearing heavy steel breastplates with beautify red ornate carvings
 - at the bar we meet Grau Soldado at the Inn on 3rd street in North Point, he's in old stinky unclean Korvosan guard attire
     - He Tells Cad he hasn't seen him since Sandpoint
-    - He is a well-known well-liked sargeant in the city
+    - He is a well-known well-liked sergeant in the city
     - He's very sad about the King dying
 - I tried to read the aura of one of the guard maiden's but failed my DC check
 - We slept at the inn at North Point
+--------------------------------------------------
+- Nights Rest
+--------------------------------------------------
+
+=============================================================
+September 13, 2020
+=============================================================
+- I needed to do a fortitude save before going to sleep but passed, I starting getting a headache and get a stuffy nose and not feeling good but it went away
+- Grau Soldado said to stop by the Citadel in Volshyenek
+    - Grau Soldado is a well-liked sergeant
+    - Alot of people know who he is and he is well-liked
+    - He invited us to Volshyenek for a reward for helping him the night before
+- We are heading back to the tower that is being dismantled
+    - Cad hears 2 older guards and a battalion of young men saying "The Korvosan Guard is stretched thin and is desperate for help; they've taken to hiring common thugs and money-grubbing mercenaries to police us!"
+    - The Korvosan guard is helping manage the guard dismantling, no longer the same woman guards dressed in red
+    - The guard says it's no longer safe and they are ordered from the Citadel to dismantled
+    - We haven't seen any of those guards in red
+- We head back to the Citadel/Volshyenek for our reward and to see Grau
+    - Grau gives us a chest as a reward
+    - I go to the front desk to get our reward for the Otyugh
+    - Field Marshall Kroft is the head of the Korvosan guard (came in shortly before the queen), she is well liked
+        - She has been at the castle with the queen coordinating
+    - I told him to send us any messages to the "Boars head inn" if they have any work or need to contact us
+- We saw the a posting for the missing brooche on the Citadel bulliten board
+    - Information 600g, return 1200g, return the item to the Castle
+- Laborers are not only bringing stones to Jeggare's Circle, but also "Eodred's Walk" near the Citadel
+    - We asked the guards whether they are sending the stones to other squares
+- Queen
+    - The Plan
+        - Ask if she knows Gaedren Lamm
+        - See how she reacts to where we found the brooche
+        - Ask how she lost it?
+        - We wanted to bring it in personally so it wouldnt' get stolen again like time
+        - How long as it been lost?
+        - Ask if she needs help, how she's doing
+    - We go to the castle and say we have information about the brooche, and they let us in
+    - Knowledge History check - the empty throne
+        - As soon as someone attains the throne, they no longer have offspring, there has never been a King that has had offspring for the next King, someone always comes in to kill the King to take over.
+    - We met the Queen's handmaiden Sabina Merrin, who is very large for a woman
+        - She is smooth and elegant, how would you want
+        - We are introduced as the "The Korvosan Quartet"
+        - We asked her if she knew Gaedren Lamm and did a sense motive of 17 seemed like I didn't get any reaction
+        - She seems sad/drepressed/distressed/speaking the truth
+        - Sense motive on her handmaiden to Gaedren Lamm, she reacted to the name
+        - We returned the brooche and the queen says the brooche was stolen some time ago, she says the brooche is an inspiration. She seems genuinely concerned about the city.  She asked if we could serve the city more, she said the city could use our aid.
+        - She headed back to the back right corner.
+        - Sabina gives us a small silver chest
+        - Sabina is very suspicious, sense motive says she's hiding something.  She wanted to get us out of the throne quickly.
+- We head back to Citadel Volshyenek to talk with Kroft
+    - The Citadel courtyard is huge, looks like it can hold a thousand guards
+    - We cross the courtyard to meet Kroft
+    - We see a priestess casting Lesser Resoration on "Cressida Kroft", shehas not slept for 72 hours
+    - She's only been able to go between here and the castle, every little bit of aid, if we are willing she will hire us a agents
+    - Many guards have deserted their post
+    - Verik Vencaskerkin is a deserter who has convinced a group of guards that the Queen is going to ruin the city
+    - A deserter is worse than a lost person, it's an infection
+    - They have been hold up in an abandoned shop in North Gate, in a place named "Where all worlds meet", try not to kill deserters if possible, but do what you must.
+    - Would be better to get Vancaskerkin alive, but will accept dead as well.
+    - See if we can find out why Verick deserted.
+    - If there is more to why he deserted she needs to know.
+    - She says the guards in red and capes are the royal guard
+    - Sabina Merrin gives the orders to Kroft
+    - Bring the prisoner back to the Citadel
+    - She gave us a badge that says we are on a personal errand from Kroft
+- We go to the bank to open an account
+    - we deposited 2500g

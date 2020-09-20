@@ -19,3 +19,13 @@
 # buying from Adon
 -160g masterwork studded leather
 +12g studded leather
+
+# rewards
++20g for reward from dealing with Otyugh
++100g from Grau reward
++1200g in ingots
+
+
+bank +2500g bank deposit
+-2500g bank deposit
+-1g 10 checks
