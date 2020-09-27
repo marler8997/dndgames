@@ -5,3 +5,6 @@ Harrow Points:
 - you get 3 harrow points per book (they don't carry over)
 - 1st book, harrow points allow you to Re-roll Dex based rolls
     reflex save, initiative, acrobatics, stealth, ride, escape artist, fly
+
+Open Door:
+- Normally a Move Action, we treat this as a Swift Action

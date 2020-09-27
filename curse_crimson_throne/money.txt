@@ -29,3 +29,7 @@
 bank +2500g bank deposit
 -2500g bank deposit
 -1g 10 checks
+
+-1s gave to beggar outside Where all world's meat
+-4c drinks in Gryphon's Roost
+-1g tip to bartender
