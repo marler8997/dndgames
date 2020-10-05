@@ -1,3 +1,7 @@
+
+- 2 cure light wounds potions
+- 1 set of manacles
+
 from Gaedren Lamm
 - +1 dagger appraise(18, 1100g to 1250g)
 - hand crossbow possibly masterwork appraise(16, 200g to 300g)
@@ -40,7 +44,32 @@ From Kroft
 - 10 checks
 
 From Verick's base (Where the world's meat)
-- Verick's spear
+- nice silver dagger from upstairs Verick base, It has some magical ability, but was unable to identify what it was (26 spellcraft) appraise(20, 600 to 800g)
+
+Yargin
+- 3 acid flasks (splash weapons)
+- beautiful amulet with custom gems appraise(19, 80 and 120g)
+- light crossbow with bolts
+- small dagger
+
+From Looting Verick and Cowhammer Boys
+- 3 leather armor
+- longbow
 - 3 longswords
-- nice silver dagger from upstairs Verick base
-- Kelly looted stuff from Yargin
+- sap
+- 6 tanglefoot bags
+- 1 "thunderstone" appraise(17, 30g each)
+
+Giggles
+- chainmail
+- masterwork +3 composite longbow
+- flail
+
+Hookshanks
+- disguise kit
+- studded leather
+
+Verick
+- "well made" chainmail
+- masterwork +3 composite longbow
+- masterwork spear
