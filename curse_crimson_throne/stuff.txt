@@ -45,6 +45,8 @@ From Kroft
 
 From Verick's base (Where the world's meat)
 - nice silver dagger from upstairs Verick base, It has some magical ability, but was unable to identify what it was (26 spellcraft) appraise(20, 600 to 800g)
+- mythral glowing silver ring appraise(22, 450 and 550g)
+- chest with 800g worth of gemstones and jewlery (other gold/silver added to money.txt)
 
 Yargin
 - 3 acid flasks (splash weapons)
