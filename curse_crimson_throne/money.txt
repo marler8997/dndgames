@@ -47,5 +47,3 @@ bank +2500g bank deposit
 
 -200g bet on LX14 knives's
 +242g LX's winnings
-
--750g information on Ambassador Amprei from Barvasi
