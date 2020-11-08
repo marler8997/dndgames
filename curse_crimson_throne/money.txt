@@ -47,3 +47,25 @@ bank +2500g bank deposit
 
 -200g bet on LX14 knives's
 +242g LX's winnings
+
+-1550g 2 cloak of resistance +1
+bank -1900g efficient quiver
+
+-600g bank deposit
+bank +600g bank deposit
+
++800g sell chest from Verick's base with 800g worth of gemstones and jewlery
++10g sell 2 acid flasks
++50g sell Yargin's beautiful amulet with custom gems
++12g sell Yargin light crossbow with bolts
++5s sell Yargin small dagger
++15g sell 3 leather armor (from Cowhammer Boys)
++38g sell longbow (from Cowhammer boy)
++24g sell 3 longswords (from Cowhammer boy)
++5s sell sap (from Cowhammer boy)
++100g sell 2 tanglefoot bags
++75g Giggle's chainmail
++150g "well made" Verick's chainmail
++700g Giggle's And Verick's masterwork +3 composite longbows
++4g Giggle's flail
++154g Verick's masterwork spear

@@ -1,6 +1,7 @@
 
 - 2 cure light wounds potions
 - 1 set of manacles
+- 1 acid flasks (splash weapons)
 
 from Gaedren Lamm
 - +1 dagger appraise(18, 1100g to 1250g)
@@ -40,38 +41,19 @@ From Queen
 
 From Kroft
 - 4 sets of Manacles
-
 - 10 checks
 
 From Verick's base (Where the world's meat)
 - nice silver dagger from upstairs Verick base, It has some magical ability, but was unable to identify what it was (26 spellcraft) appraise(20, 600 to 800g)
+    - Dejola a shop keeper from the bank recommended bringing it to Acadamae
+    - Dejola also mentioned a college on the East Shore that specializes in generalists magic (Theunanexus College)
 - mythral glowing silver-colored ring appraise(22, 450 and 550g)
-- chest with 800g worth of gemstones and jewlery (other gold/silver added to money.txt)
 
 Yargin
-- 3 acid flasks (splash weapons)
-- beautiful amulet with custom gems appraise(19, 80 and 120g)
-- light crossbow with bolts
-- small dagger
 
 From Looting Verick and Cowhammer Boys
-- 3 leather armor
-- longbow
-- 3 longswords
-- sap
-- 6 tanglefoot bags
 - 1 "thunderstone" appraise(17, 30g each)
-
-Giggles
-- chainmail
-- masterwork +3 composite longbow
-- flail
 
 Hookshanks
 - disguise kit
-- studded leather
-
-Verick
-- "well made" chainmail
-- masterwork +3 composite longbow
-- masterwork spear
+- studded leather (keep for Fennet)

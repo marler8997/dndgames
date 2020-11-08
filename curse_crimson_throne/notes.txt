@@ -54,7 +54,6 @@ Disciplines:
 
 
 Phrenic Amplifications:
-* Will of the dead (mind-affecting for undead, first or second amp)
 * Synaptic Shock? Confused for one round, even if they succeed on their save !!
 * Relentless Casting (advantage on spell resistance rolls, maybe get at level 7?)
 * Overpowering Mind (increase Will save DC)
