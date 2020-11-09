@@ -2,7 +2,7 @@
 -2s tavern lodging
 
 +100g Gaedren Lamm cabinets and cophers
-+750g reward from guards for Gaedren Lamm and Shiver Drugs and the Gadrenn's ledger
++750g reward from guards for Gaedren Lamm and Shiver Drugs and the Gaedren's ledger
 
 +100g from Renarra
 +60g from LX-14
@@ -69,3 +69,8 @@ bank +600g bank deposit
 +700g Giggle's And Verick's masterwork +3 composite longbows
 +4g Giggle's flail
 +154g Verick's masterwork spear
++600g Gaedren Lamm's +1 padded armor
++200g Gaedren Lamm's hand crossbow
++100g exchange 2lb gold ingot bearing the Cheliax coat of arms
++155g Gaedren Lamm's shuriken
++400g oil of keen edge

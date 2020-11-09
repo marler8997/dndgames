@@ -1,33 +1,16 @@
-
 - 2 cure light wounds potions
 - 1 set of manacles
 - 1 acid flasks (splash weapons)
+- 10 checks
 
 from Gaedren Lamm
-- +1 dagger appraise(18, 1100g to 1250g)
-- hand crossbow possibly masterwork appraise(16, 200g to 300g)
-- 7 crossbow bolts
-- +1 padded armor (seem pretty nice, 200g to 800g)
 - Zellara's Harrow deck
 
 from Lockbox
-- 2 pound gold ingot barring the Cheliax coat of arms (1 2lb ingot is worth 100g)
-    The country south of Korvosa
-    more of a dicatatorship
-    Had some differences with Korvosa
 - silver ring with inscription "For Emmah, the light in my nights" appraise(10, 50g to 100g) (see whose it is first)
-- shuriken, very well built, appraise(12, 100g to 200g)
-- arrowhead made out of very hard material, made out of Adamntine (probably worth 60g)
 - strange 1 foot dagger (key shaped, ornate, jagged edge) possibly masterwork appraise(19, 300g to 400g)
     inscription: "For an inspiration of a father"
 - Abalone shell holy symbol to the God Shalim (God of art beauty love and music, Nirvana) appraise(37, 150g) might be able to return it to a temple of Shalim and get more money
-- Glass tube with oil spellcraft(22, faint transmutation, 1 application of keen edge oil) appraise(17, 350g to 600g)
-- vial 1 use of silversheen (coats a single melee weapon for an hour, or 20 ammunition) appraise(8, 50g to 200g)
-- Bejeweled Broche with broken clasp (looks the most valuable thing) appraise(31, 600g)
-   - circular gold, depicts a house drake and an imp in a ying/yang pattern (house drakes are like poor man dragons)
-   - The house drake eye is an amythis and imp eye was an emerald
-   - house drakes and imps are enemies
-   - Based on my knowledge check, this is owned Queen Ileosa (of Korvosa)
 
 From Amin
 - Gold ring from Amin Jelento appraise(15, 100g to 200g)
@@ -39,17 +22,11 @@ From Smainkart's shop
 From Queen
 - well-made silver chest
 
-From Kroft
-- 4 sets of Manacles
-- 10 checks
-
 From Verick's base (Where the world's meat)
 - nice silver dagger from upstairs Verick base, It has some magical ability, but was unable to identify what it was (26 spellcraft) appraise(20, 600 to 800g)
     - Dejola a shop keeper from the bank recommended bringing it to Acadamae
     - Dejola also mentioned a college on the East Shore that specializes in generalists magic (Theunanexus College)
-- mythral glowing silver-colored ring appraise(22, 450 and 550g)
-
-Yargin
+- mythral glowing silver-colored ring from sewer under Butcher shop appraise(22, 450 and 550g)
 
 From Looting Verick and Cowhammer Boys
 - 1 "thunderstone" appraise(17, 30g each)

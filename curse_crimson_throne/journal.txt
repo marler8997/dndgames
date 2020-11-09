@@ -74,6 +74,10 @@ August 23, 2020
 - we found Zellara's head (she's been dead for multiple weeks, even though we saw hear earlier today)
   King Eodred, he's been in power for a long time, he has no heir, that's why Queen Ileosa came in.  The king has been ill, he is getting on in years.
 - We found Queen Ileosa's broche, she comes from a far land, she got married to the king within the last year. Some say she is just marrying the king for his gold and position, hoping to become the next leader of Korvosa.
+    - Bejeweled Broche with broken clasp appraise(31, 600g)
+   - circular gold, depicts a house drake and an imp in a ying/yang pattern (house drakes are like poor man dragons)
+   - The house drake eye is an amythis and imp eye was an emerald
+   - house drakes and imps are enemies
 - Poverty in Korvosa is pretty rampant and outside the city (in the places they want it to be)
 - in the ledger, it mentions a place called "Eel's End" quite a bit
 - we should take the ledger to the authorities, we might be able to get some money for it
@@ -379,3 +383,13 @@ October 18, 2020
 - I think we walked by an inn named "The Traveling Man" just south of "The Reef Claw Run Market"
 - We headed to the bank to check out the shops
     - tried to identify the dagger from Verick's base
+=============================================================
+November 8, 2020
+=============================================================
+- Renarra takes Gaedren Lamm's +1 dagger appraise(18, 1100g to 1250g)
+- Renarra takes Adamantine arrowhead (from Gaedren Lamm) (probably worth 60g)
+- Cadogan takes vial silversheen (from Gaedren Lamm) (coats a single melee weapon for an hour, or 20 ammunition) appraise(8, 50g to 200g)
+- They let us into Old Korvosa using Field Marshall Kroft's credentials
+- We head towards the drop off point
+    - Cadogan throws a thunderstone
+- When we come back, Mike said I could case "Detect Thoughts" before Cadogan threw the thunderstone
