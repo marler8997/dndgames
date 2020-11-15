@@ -8,3 +8,9 @@ Harrow Points:
 
 Open Door:
 - Normally a Move Action, we treat this as a Swift Action
+
+Message Spell:
+- duration is an open line of communication
+- you have to send a sound through the spell for it to activate
+- the way reply works, is the person receiving the message must intentionally be replying to whatever heard
+- each time you cast, it replaces any existing connections
