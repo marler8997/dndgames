@@ -391,5 +391,9 @@ November 8, 2020
 - Cadogan takes vial silversheen (from Gaedren Lamm) (coats a single melee weapon for an hour, or 20 ammunition) appraise(8, 50g to 200g)
 - They let us into Old Korvosa using Field Marshall Kroft's credentials
 - We head towards the drop off point
+    - I casted detect thoughts
+        - The guy on the left is very frantic, "where are they coming from", I don't see them, I'm scared
+            - these guys are gonna kill me, I made a mistake, I hope I don't Die
+            - he's scattered, fearful
     - Cadogan throws a thunderstone
-- When we come back, Mike said I could case "Detect Thoughts" before Cadogan threw the thunderstone
+- We left off, there are 4 people still asleep that we need to manacle
