@@ -1,0 +1,66 @@
+Name: Urchin
+Occupation: ?
+Title: ?
+Alignment: Neutral
+Speed: 30
+Level: 2
+XP: 55
+
+-----------------------
+AC: ? (11)
+HP: ?/8
+
+Combat Basics
+-----------------------
+Initiative : +1
+Action dice: 1d20
+Attack     : +1
+Crit die   : 1d6
+Crit table : 1
+
+-------------------------------------------------------------------------------------------------
+Strength     +0 (12)  0 spellburn  |                   | Melee Attack   +1 | Melee Damage    +0 |
+Agility      +1 (14)  1 spellburn  |  Reflex Save   2  | Missile Attack +2 | Missile Dammage +0 |
+Stamina      +0 ( 9)  0 spellburn  |  Fort   Save   0  |                                        |
+Personality  +0 (12)               |  Will Save     1  |                                        |
+Luck         +0 (11)               |  Lucky Roll: The Broken Star (Fumbles) +0                  |
+Intelligence +2 (16)               |  Languages: Common and 4 additional languages              |
+-------------------------------------------------------------------------------------------------
+
+Weapons
+-----------------------
+Club melee +1 (dmg 1d4)
+Dagger melee +1 (dmg 1d4)
+Staff melee +1 (dmg 1d4)
+
+Treasure
+-----------------------
+Funds: 45cp + 621 gp
+
+Equipment
+-----------------------
+Begging bowl
+Sack (small) (8cp)
+
+Armor
+-----------------------
+Unarmored (+0)
+Check penalty (0)
+Fumble die (d4)
+
+Wizard Spells & Abilities
+-----------------------
+Base spell check: d20+4
+Familiar:
+Patron(s):
+Corruption:
+Other Notes:
+
+Spells
+-----------------------
+Animal Summoning (need material remnant like hair, fur, paw, tooth, skull)
+Magic Missile
+Mending
+Sleep
+Spider Climb
+Ward Portal

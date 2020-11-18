@@ -1,0 +1,7 @@
+d3: d6 / 2
+d5: roll d6, reroll on 6
+d7: d8 reroll if it lands on 8
+d14: d20, reroll on > 14
+d16: d20, reroll on > 16
+d24: d12 + d2
+d30: d10 + d3

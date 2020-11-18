@@ -1,0 +1,52 @@
+
+Demo with Brendan LaSalle
+
+Facebook: DCC RPG Rocks
+Some Discord Servers
+Games: goodman-games website calendar, people are constantly running online events!
+
+Coupon Code: DCCDemo2020 (good for 15% off anything in the store, can use it up to 3 times and expires on November 31, 2020)
+
+Brenden been playing for 8 years!
+His favorite system for alot of things.
+
+Differences:
+- Luck stat (how fortunate the character is, vaguly tied into alignment)
+- Crits/Fumbles: roll on a table
+- DCC is very quest based, if you have a problem, usually you need to go on a quest to fix it
+- less focused on realism than other systems like pathfinder to enhance speed/gameplay/immersion
+
+Question: Is there a mathematical probability difference between a modifier and a die modifier?
+
+Luck roll:
+- you can burn "luck points" to increase a roll, it's permanent tradeoff for luck points
+- luck points can be modified in game from cool/bad things (increase/decrease)
+- gain luck points through quests
+- halflings are "luck batteries", They regenerate 2 luck points every night they reset.  They get 2 for 1 on their rolls when trading in luck points. They are also the only character that can use luck points for allies.
+- Minimum luck is 3 points?
+- Halfling, 1 handed attack d20, or 2 attacks with both hands at d16
+
+
+Magic:
+unatural chaotic force that humans are not meant to meddle with
+
+you have to bargian with dark forces to make magic occur
+
+- Minimum Spell Check for level 1 spells is typically 12
+- You can cast a spell as many times as you want until you fail it, then it's gone for the day (unless you use spellburn?)
+Spellburn:
+    - You can burn points from Strength, Agility and Stamina to add to any spell check!
+    - You recover 1 spell burn point per day.
+    - It takes 1 spell burn point to cast a failed spell.
+    - unlike burning luck points, spell burn has to be done before rolling!
+
+Clerics do not lose a spell for the day if it fails.
+
+- Patrons
+All arcane spell casters can bond with a "patron", which is a powerful magical being that you make a bargain with.  It takes a week to cast, and once you're done, you have a relationship with that patron that you can call upon for aid (usually only once or twice per day). If he helps you, he usually wants something in return, he might send you on a mission or and errand.
+
+Wizards can use luck points to avoid corruption wheras elves cannot.
+
+Dwarf:
+- only class with a variable attack die
+- dwarf gets a free shield bash every round
