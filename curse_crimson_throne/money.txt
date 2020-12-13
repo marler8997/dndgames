@@ -74,3 +74,7 @@ bank +600g bank deposit
 +100g exchange 2lb gold ingot bearing the Cheliax coat of arms
 +155g Gaedren Lamm's shuriken
 +400g oil of keen edge
+
++282g loot from the beach encounter
++95g more loot from beach encounter
+-1g 2 rooms at the Laughing Wave Inn
