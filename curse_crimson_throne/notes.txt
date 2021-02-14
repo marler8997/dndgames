@@ -120,6 +120,14 @@ https://paizo.com/threads/rzs2nntt?Greatest-0-level-spell
 * charm person
 * burst of adrenaline
 
+2-level Spells:
+* invisibility
+* placebo effect
+* see invisibility
+* silence
+* spectral hand
+
+
 Items:
 * Headband of vast intelligence
 * cloak of resistance

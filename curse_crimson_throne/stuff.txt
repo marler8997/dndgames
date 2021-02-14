@@ -1,4 +1,5 @@
 - 2 cure light wounds potions
+- 2 cure moderate wounds potions
 - 1 set of manacles
 - 1 acid flasks (splash weapons)
 - 10 checks
@@ -49,3 +50,7 @@ The Beach Encounter:
 
 Amprei's "fake" room:
 - silver spider statue that was weighing down the Amprei love letters appraise(14, 26 silver)
+
+Crypt:
+- dice from the rat maze room
+- pliers from the rat maze room

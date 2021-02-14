@@ -82,3 +82,9 @@ bank +600g bank deposit
 +500g Payment from Kroft for getting dirt on Amprei
 -1g bribe to doorman in Midland
 -1g to the old lady in the building in Midland
+
+-1600g reward for trinia to the Hellknights
++1000g reward for bringing trinia to the Volshyenek
+
+-15g Renarra buy's inquisitors kit
++3g found by LX in the crypt

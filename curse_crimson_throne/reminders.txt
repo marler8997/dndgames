@@ -1,15 +1,16 @@
 
-
+* False Life
+* Drake's Mark - +2 Diplomacy with Korvosan Citizens
 * ON SAVES!!!!!
     - Burst Of Adrenaline/Burst of Insigt to add +4 to save roll!!!
 * 3 dex-based harrow points (used 1 on the chase scene)
 * psychics DO NOT USE VERBAL components!
-* burst of insight +8 to INT/CHA/WIS based roll, but dazed for 1 round
+* burst of insight +8 to INT/CHA/WIS (+4 to roll) based roll, but dazed for 1 round
     - use this for hypnotize
+* Psychic Defense: +4 bonus to Bluff, Diplomacy, Intimidate, or Sense Motive
 * Past-Life Memories: add half my psychic level (min 1) to all knowledge checks, and can attempt any knowledge that is untrained
 * Buy Bag of Holding
 * Get Mage Armor (spell or wand)
-
 
 
 * Ways to accomodate my low AC
