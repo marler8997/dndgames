@@ -54,3 +54,13 @@ Amprei's "fake" room:
 Crypt:
 - dice from the rat maze room
 - pliers from the rat maze room
+- studded leather
+
+From the level 8 dude in the crypt
+- wand of goul touch (22 charges)
+- dagger
+- 3 small vials (not magical)
+- robe of bones minus the 2 human skeletons
+- ring of protection +1
+- a spellbook
+    - (get spell list from Mike)
