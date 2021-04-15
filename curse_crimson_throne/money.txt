@@ -88,3 +88,5 @@ bank +600g bank deposit
 
 -15g Renarra buy's inquisitors kit
 +3g found by LX in the crypt
+
+-449g scroll of make whole and scroll of sending

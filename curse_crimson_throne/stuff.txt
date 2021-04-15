@@ -63,4 +63,44 @@ From the level 8 dude in the crypt
 - robe of bones minus the 2 human skeletons
 - ring of protection +1
 - a spellbook
-    - (get spell list from Mike)
+    - Acid Splash
+    - Arcane Mark
+    - Bleed
+    - Dancing Lights
+    - Daze
+    - Detect Magic
+    - Detect Poison
+    - Disrupt Undead
+    - Flare
+    - Ghost Sound
+    - Light
+    - Mage Hand
+    - Mending (used to heal LX)
+    - Message
+    - Open/Close
+    - Prestidigitation
+    - Ray of Frost
+    - Read Magic
+    - Resistance
+    - Touch of Fatigue
+    - Cause Fear
+    - Chill Touch
+    - Feather Fall
+    - Magic Missile
+    - Ray of Enfeeblement
+    - Shield
+    - Sleep
+    - Blindness/Deafness
+    - Command Undead
+    - Darkness
+    - False Life
+    - Scare
+    - Scorching Ray
+    - Spectral Hand
+    - Fly
+    - Gentle Repose
+    - Vampiric Touch
+    - Water Breathing
+
+- scroll of sending
+- scroll of make whole

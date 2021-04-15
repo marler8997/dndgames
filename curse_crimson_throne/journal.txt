@@ -509,3 +509,10 @@ March 28, 2020
     - there were 6 people we led out of the crypt
 - We killed a zombie Gaedren Lamm
 - We fought and killed this level 8 enemy summoner
+=============================================================
+April 14, 2020
+=============================================================
+- It looks like we found Gaedren's head, torso and 1 arm.
+- We need to cast "sending" to contact Trinia
+    - what message should we send? 25 words
+    - We know you are innocent.  We're trying to find you.  Where are you?  Where is Orasini?
