@@ -101,6 +101,3 @@ From the level 8 dude in the crypt
     - Gentle Repose
     - Vampiric Touch
     - Water Breathing
-
-- scroll of sending
-- scroll of make whole

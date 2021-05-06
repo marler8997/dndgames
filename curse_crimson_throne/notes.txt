@@ -77,6 +77,8 @@ Spells
 =======================================================================================
 https://paizo.com/threads/rzs2nntt?Greatest-0-level-spell
 
+0th:
+    - Mending to heal LX!!!!!!!!!!!!!!!!!!!!!
 1st: Prestidigitation
     - I used it to give a poison vial to a guard. (Changed taste, color and odor of the drink).
     - Tied guards shoes

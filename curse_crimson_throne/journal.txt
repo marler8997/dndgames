@@ -514,5 +514,12 @@ April 14, 2020
 =============================================================
 - It looks like we found Gaedren's head, torso and 1 arm.
 - We need to cast "sending" to contact Trinia
-    - what message should we send? 25 words
-    - We know you are innocent.  We're trying to find you.  Where are you?  Where is Orasini?
+    - I casted "sending" using the scroll
+    Message: "We are trying to find you. Where are you?  Where is Orasini? We're you captured? Respond with twenty-five words."
+    Response: "I am outside the city, Orasini left earlier, I was not captured, again at least, I don't know what else to say"
+    - So it sounds like whoever is doing this, is willing to kill someone else just to bring fear into people
+- Used "scroll of make whole" on LX, healed 12 points
+- Looking for "Make Whole"
+- bought a wand of mending for LX
+- We relayed what Trinia told us to Cressida before going back to the crypt
+- We go to the entrace of the dead warrent and we heard scream "Why did you leave me? Get me out of here."
