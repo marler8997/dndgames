@@ -51,10 +51,16 @@ The Beach Encounter:
 Amprei's "fake" room:
 - silver spider statue that was weighing down the Amprei love letters appraise(14, 26 silver)
 
-Crypt:
+Crypt(Dead Warrens):
 - dice from the rat maze room
 - pliers from the rat maze room
 - studded leather
+from otyugh cavern
+    - elixir of vision
+    - wand of spiritual weapon (48 charges)
+    - ring of swimming (sell)
+    - well-crafted necklace, golden bronze jewel attached
+    - dagger made out of silver
 
 From the level 8 dude in the crypt
 - wand of goul touch (22 charges)
