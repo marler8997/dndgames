@@ -89,6 +89,7 @@ https://paizo.com/threads/rzs2nntt?Greatest-0-level-spell
     - Distract guards
     - Create a false haunted house
     - Scare commoners
+    - Command Undead
 3rd: Mage Hand
     - Just drop a contact poison drenched tissue on ennemies
     - Take keys from a sleeping guard's belt without getting caught

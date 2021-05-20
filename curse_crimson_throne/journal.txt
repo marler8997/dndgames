@@ -93,7 +93,7 @@ August 23, 2020
     - We hear people complain that the queen has taken over, that she's just a gold digger
     - NOTE: we don't know whether the king was sick before marrying Ileosa, I suspect she may have had something to do with his death since it happened so suddenly after he married the queen
 - Safe places
-    - the religious establishments, which God would be able to take kids in (ask Renara)
+    - the religious establishments, which God would be able to take kids in (ask Renarra)
         - To the Gray, the priests of Pharasma take care of orphans
         - There are orphanages around the city (I don't know which are good and bad), there are 2 or 3 we could take the kids too
         - Or take them to the authorities and let them handle the kids
@@ -292,7 +292,7 @@ October 4, 2020
     - Fennet took 2 thunderstones
     - Cad took 3 thunderstones
     - I took 1 thnderstone
-    Renara took
+    Renarra took
         - 20 arrows
         - 5 masterwork arrows
         - 20 arrows
@@ -411,7 +411,7 @@ December 13, 2020
     - It was Devargo Barvasi men, he was paid to pretend to be "Amprei" so we could be ambushed
     - the men have tattoos with a spider web design and different numbers of tally marks
         - probably a ranking
-    - Renara took the 17 masterwork arrows
+    - Renarra took the 17 masterwork arrows
 - Our Letter to Devargo Barvasi:
     We applaud your effort to ambush us to avoid your debt.  Your attempt to avoid honoring your word did work out this time.  We hope that you'll take this opportunity to reconsider what your word is worth.  Signed: The Korvosan Quartet
 - There was a magical spider web in our room with a message "come see me", I spellcrafted and the spell does not require close proximity
@@ -487,7 +487,7 @@ January 17, 2020
         - The "Spirits" told him his son's body is now in the Dead Warrens
 - We go to "The Gray"
     - The Gray has the cemetery and "The Temple of Pharasma"
-    - Renara takes us to a building, we see Bishop Keppira
+    - Renarra takes us to a building, we see Bishop Keppira
         - The Bishop tells Rennara "Welcome back sister" and gives her some sort of blessing
         - They gave us a chest with 6 cure moderate wounds potions inside (I took 2, Rennara took 2 and Cadagan took 2)
 =============================================================
@@ -528,3 +528,9 @@ May 12, 2020
 =============================================================
 - We engage the Otyugh, I blind it, we get the legs and some items
 - We kill a construct
+- From Renarra's Haversack
+    - Found some scrolls (Renarra took Command undead, I took 2 scrolls of False Life)
+    - Cadogan took 3 cure moderate wounds potions
+- We give Cadogan's tankard to a guy at the Korvosan College
+    - The guy says our Dagger could be the key into getting into the Acadamae
+- We are heading to the Acadamae

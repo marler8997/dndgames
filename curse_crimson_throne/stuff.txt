@@ -4,6 +4,7 @@
 - 1 acid flasks (splash weapons)
 - 10 checks
 - 2 tanglefoot bags
+- 2 scrolls of false life
 
 from Gaedren Lamm
 - Zellara's Harrow deck
@@ -61,6 +62,14 @@ from otyugh cavern
     - ring of swimming (sell)
     - well-crafted necklace, golden bronze jewel attached
     - dagger made out of silver
+from office
+    - scroll of identify
+    - 15 book collection of tomes on plagues and diseases (appraise 26, 300g)
+
+From Renarra's haversack:
+    - Scroll of Dispel Magic
+    - Potion of Lesser Restoration
+    - Potion of Invisibility
 
 From the level 8 dude in the crypt
 - wand of goul touch (22 charges)

@@ -95,3 +95,8 @@ bank +600g bank deposit
 -200g Cadogan donation to be healed
 -300g LX bought 2xsmall masterwork studded leather
 +5g sold Cadogan's old leather armor
+
++1000g from cresside
+-500g donation to enchant mug
+-3c beer
+-2g Cadagan bought a new tankard
