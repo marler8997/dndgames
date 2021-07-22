@@ -29,6 +29,7 @@ From Verick's base (Where the world's meat)
 - nice silver dagger from upstairs Verick base, It has some magical ability, but was unable to identify what it was (26 spellcraft) appraise(20, 600 to 800g)
     - Dejola a shop keeper from the bank recommended bringing it to Acadamae
     - Dejola also mentioned a college on the East Shore that specializes in generalists magic (Theunanexus College)
+    - Detect magic triggers on the dagger, but identify does not reveal anything
 - mythral glowing silver-colored ring from sewer under Butcher shop appraise(22, 450 and 550g)
 
 From Looting Verick and Cowhammer Boys

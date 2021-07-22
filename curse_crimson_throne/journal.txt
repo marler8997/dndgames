@@ -451,7 +451,7 @@ December 27, 2020
 - Kroft gave us each broches "Drake's Mark", they give us a +2 circumstance bonus to Diplomacy when talking with Korvosan Citizens
     - Trinia got away in the chase
 =============================================================
-January 17, 2020
+January 17, 2021
 =============================================================
 - Detect Thoughts on the Hellknights
     - guard behind trinia: giddy, money, not very alert because of euphoria
@@ -491,17 +491,17 @@ January 17, 2020
         - The Bishop tells Rennara "Welcome back sister" and gives her some sort of blessing
         - They gave us a chest with 6 cure moderate wounds potions inside (I took 2, Rennara took 2 and Cadagan took 2)
 =============================================================
-February 14, 2020
+February 14, 2021
 =============================================================
 - we get to the entrance of "The Dead Warrens"
     - I cast "False Life"
 - we killed some things as we explored
 =============================================================
-March 7, 2020
+March 7, 2021
 =============================================================
 - continue in the crypt
 =============================================================
-March 28, 2020
+March 28, 2021
 =============================================================
 - Found some alive people in pits, one's name is "Afford"
     - he was working building a statue at Eodred's walk
@@ -510,7 +510,7 @@ March 28, 2020
 - We killed a zombie Gaedren Lamm
 - We fought and killed this level 8 enemy summoner
 =============================================================
-April 14, 2020
+April 14, 2021
 =============================================================
 - It looks like we found Gaedren's head, torso and 1 arm.
 - We need to cast "sending" to contact Trinia
@@ -524,7 +524,7 @@ April 14, 2020
 - We relayed what Trinia told us to Cressida before going back to the crypt
 - We go to the entrace of the dead Warrens and we heard scream "Why did you leave me? Get me out of here."
 =============================================================
-May 12, 2020
+May 12, 2021
 =============================================================
 - We engage the Otyugh, I blind it, we get the legs and some items
 - We kill a construct
@@ -533,4 +533,19 @@ May 12, 2020
     - Cadogan took 3 cure moderate wounds potions
 - We give Cadogan's tankard to a guy at the Korvosan College
     - The guy says our Dagger could be the key into getting into the Acadamae
+=============================================================
+July 21, 2021
+=============================================================
 - We are heading to the Acadamae
+- We find out that the ladies in red armor come out of the castle from some kids
+- I use the "Open" spell to open an entryway into the Acadamae on the east side around A7
+    - There are burn marks inside on the flora
+    - We were chased out by Pseudodragons
+    - There's only one magical entrance I could find
+- People work with the teachers at the Acadame but no one that we know of has ever seen a student
+- Places to ask around about the Acadamae (it's around 3 PM)
+    - Jelento's shop: they have worked for the Monarchy and the Arcona Family
+    - Guilded Orrery: He tries to identify the dagger, brings a book (title is in Elven, Artifacts enhancements and arcane architectures)
+        - The dagger was not in his book of artifacts, most artifacts are in the book
+        - He says no teachers from the Acadame come to his shop (and seemed hurt by it)
+    - temple of ismodios
