@@ -11,7 +11,7 @@
 * Past-Life Memories: add half my psychic level (min 1) to all knowledge checks, and can attempt any knowledge that is untrained
 * Buy Bag of Holding
 * Get Mage Armor (spell or wand)
-
+* Ring of Spell Knowledge (put an extra spell on your spell list)
 
 * Ways to accomodate my low AC
     - alter self -- Very flexible. Troglodyte and Lizardfolk are your best two forms; roughly comparable, since Trog gives +6 NA but -2 Dex, and LF gives +5 NA with no Dex adjustment. Trog gives Multiattack, so if you plan on doing that, your decision is done. LF gives +2 Str, which is nice if you want to escape a grapple... anyway. Roughly comparable.

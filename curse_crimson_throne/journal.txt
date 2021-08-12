@@ -548,4 +548,33 @@ July 21, 2021
     - Guilded Orrery: He tries to identify the dagger, brings a book (title is in Elven, Artifacts enhancements and arcane architectures)
         - The dagger was not in his book of artifacts, most artifacts are in the book
         - He says no teachers from the Acadame come to his shop (and seemed hurt by it)
-    - temple of ismodios
+    - temple of ismodios?
+=============================================================
+August 11, 2021
+=============================================================
+- I did "Use Magic Device" on the dagger and succeeded, but the dagger didn't respond
+- We checked out the tower at H1 on the map, it's much lower (maybe 5 to 10 feet left from the 30 feet it used to be)
+- We found out the masons are building a statue of the Queen (at least in Jeggare Circle)
+--------------------------------------------------
+- We fast forward 2 nights to the day of the execution
+--------------------------------------------------
+- There's a very imposing guard beside the queen with beautiful plate mail
+    - Rennara rolled a 37 and it seems like her handmaiden Sebina (now Captain Sebina)
+    - The girl on the executioner's block looked alot of Trinia
+- I tried detect thoughts on Sebina and she saved (DC 19 Will Save)
+- Blackjack rescues the fake trinia
+    - Blackjack denounces the queen and starts a riot
+    - Knowledge Check on Blackjack (Fennet got 25)
+        - he has existed for centuries so people think new people take up the mantle
+        - Cadogan says he thinks Blackjack is VenCarlo Orasini
+- We went back to talk with Cressida about the execution
+    - The queen is aware of us and our crew's relationship with the Guard
+    - We need to be careful with how we communicate with Cressida in the future
+        - The queen may have ways of getting information
+    - She suggests we find as much information about Blackjack as we can
+        - Check old Korvossa, Barvassi, people outside the city
+    - Note that Blackjack is probably someone who knew Trinia was innocent, or that the girl on the block was not Trinia
+        - Only us, Cressida and Orasini know Trinia is innocent
+    - She warns us again to be careful who we talk to, how loud we talk, she thinks someone is listening
+- We're going to try to find Blackjack in the next session
+
