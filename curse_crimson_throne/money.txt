@@ -100,3 +100,6 @@ bank +600g bank deposit
 -500g donation to enchant mug
 -3c beer
 -2g Cadagan bought a new tankard
+
+-20s bribe for the old man for information on Blackjack
+-2c for dried fruit biscuits to bribe kids into talking about Blackjack
