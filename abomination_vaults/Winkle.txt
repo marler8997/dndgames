@@ -1,0 +1,92 @@
+system pathfinder2e
+characterName "Winkle Littlestar"
+playerName Jonathan
+ancestry gnome
+ancestryAndHeritage wellspringGnome
+background tinker
+class wizard
+keyAbility intelligence
+size small
+alignment unspecified
+image "https://marler8997.github.io/dndpics/GnomeWizard.jpg"
+traits "Humanoid, Gnome"
+deity unspecified
+
+startOperations
+
+maxHP 8 reason="ancestry: gnome"
+speed 25 reason="ancestry: gnome"
+ability constitution 2 reason="ancestry: gnome"
+ability charisma 2 reason="ancestry: gnome"
+ability intelligence 2 reason="ancestry: gnome (free ability)"
+ability strength -2 reason="ancestry: gnome"
+maxHP 1 reason="+1 CON"
+
+language Common reason="ancestry: gnome"
+language Gnomish reason="ancestry: gnome"
+language Sylvan reason="ancestry: gnome"
+#language Goblin reason="ancestry: gnome, choice from +1 intelligence"
+# TODO: is Low-Light Vision a feat?
+feat ancestry "Low-Light Vision" reason="ancestry: gnome"
+#
+# TODO: Pick a magic tradition reason="heritage: wellspringGnome"
+#       gain one cantrip to cast as an innate spell at will of my chosen tradition
+#       the cantrip is heightened to a spell level equal to half my level rounded up
+#       Whenever I gain a primal innate spell from a gnome ancestry feat, I change it's tradition
+#       from primal to my chosen tradition.
+#feat ancestry "Ancient Blooded Dwarf? Adds 'Call on Ancient Blood reaction'" reason="heritage: umbralGnome"
+#reaction name="Call on Ancient Blood" reason="heritage"
+#
+feat ancestry "Animal Accomplice" reason="ancestry: gnome, 1st level choice"
+# TODO: add my animal
+# chipmunk named "Niblet 7" (secretly, it's 7 because the first 6 Niblet's have passed)
+
+#skill arcana proficiency=trained reason="feat: Dwarven Lore"
+#skill dwarvenLore proficiency=trained reason="feat: Dwarven Lore"
+#skill religion proficiency=trained reason="feat: Dwarven Lore"
+
+
+# background
+ability intelligence  2 reason="background: tinker (choice 1)"
+ability wisdom  2 reason="background: tinker (free ability)"
+skill crafting proficiency=trained reason="background: tinker"
+skill engineeringLore proficiency=trained reason="background: tinker"
+
+#maxHP 10 reason="class: bard"
+ability intelligence 2 reason="class: wizard"
+skill perception proficiency=trained reason="class: wizard"
+save fortitude proficiency=trained reason="class: wizard"
+save reflex    proficiency=trained reason="class: wizard"
+save will      proficiency=expert  reason="class: wizard"
+skill arcana     proficiency=trained reason="class: wizard"
+skill occultism  proficiency=trained reason="class: wizard, free choice 1"
+skill society    proficiency=trained reason="class: wizard, free choice 2"
+skill nature     proficiency=trained reason="class: wizard, free choice from +1 INT"
+skill religion   proficiency=trained reason="class: wizard, free choice from +2 INT"
+skill stealth    proficiency=trained reason="class: wizard, free choice from +3 INT"
+skill acrobatics proficiency=trained reason="class: wizard, free choice from +4 INT"
+
+#skill thievery   proficiency=trained reason="class: bard, perform becomes free choice because perform is already trained from entertainer background"
+#skill stealth    proficiency=trained reason="class: bard, free choice 3"
+#skill acrobatics proficiency=trained reason="class: bard, free choice 4"
+#skill society    proficiency=trained reason="class: bard, free choice from +1 INT"
+#armorSkill unarmored proficiency=trained reason="class: bard"
+#armorSkill light     proficiency=trained reason="class: bard"
+#classDC proficiency=trained reason="class: bard"
+#spellAttack proficiency=trained reason="class: bard"
+#spellDC     proficiency=trained reason="class: bard"
+#feat class "Lingering Composition" reason="class: bard and muse: maestro"
+#feat class "Reach Spell"           reason="class: bard, free choice"
+#
+ability intelligence 2 reason="starting aility boost, free choice 1"
+ability wisdom       2 reason="starting aility boost, free choice 2"
+ability dexterity    2 reason="starting aility boost, free choice 3"
+ability constitution 2 reason="starting aility boost, free choice 4"
+#
+##addSpell
+#
+#
+## money examples:
+##money 15g
+##money -1s2c
+#
