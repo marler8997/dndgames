@@ -37,9 +37,11 @@ feat ancestry "Low-Light Vision" reason="ancestry: gnome"
 #feat ancestry "Ancient Blooded Dwarf? Adds 'Call on Ancient Blood reaction'" reason="heritage: umbralGnome"
 #reaction name="Call on Ancient Blood" reason="heritage"
 #
+# TODO: do I need to take this feat if I've already selected "Improved Familiar Attunement"?
 feat ancestry "Animal Accomplice" reason="ancestry: gnome, 1st level choice"
 # TODO: add my animal
 # chipmunk named "Niblet 7" (secretly, it's 7 because the first 6 Niblet's have passed)
+# familiarAbility Burrower?
 
 #skill arcana proficiency=trained reason="feat: Dwarven Lore"
 #skill dwarvenLore proficiency=trained reason="feat: Dwarven Lore"
@@ -83,10 +85,31 @@ ability wisdom       2 reason="starting aility boost, free choice 2"
 ability dexterity    2 reason="starting aility boost, free choice 3"
 ability constitution 2 reason="starting aility boost, free choice 4"
 #
-##addSpell
-#
+#addSpell
 #
 ## money examples:
 ##money 15g
 ##money -1s2c
 #
+# TODO: set arcane school to Universalist
+#  - for each level of wizard spell slots I have, I can use
+#    "Drain Bonded Item" once per day to recall a spell of that level
+#  - gain an extra wizard class feat
+#  - add one 1st-level spell to spellbook
+# TODO: Arcane Thesis: Improved Familair Attunement
+#  - Chipmunk named Niblet?
+#  - gain the "Familiar" wizard feat
+#  - familiar gains an extra ability, and then more extra at 6th, 12th and 18th levels
+#  - Gain the "Drain Familiar" as a free action
+#  - familiarAbility Abassador? Spellcasting?
+#
+#addSpell "Detect Magic"
+#addSpell "Telekinetic Projectile"
+#addSpell "Electric Arc"
+#addSpell "Message"
+#addSpell "Light"
+#addSpell "???" (level 1)
+#addSpell "???" (level 1)
+
+# bought a chill touch scroll
+#addSpell "Chill Touch"
