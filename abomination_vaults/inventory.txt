@@ -1,1 +1,3 @@
+- Component Pouch
+- Rapier
 - Scroll of Chill Touch

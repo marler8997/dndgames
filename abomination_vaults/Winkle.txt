@@ -25,7 +25,10 @@ maxHP 1 reason="+1 CON"
 language Common reason="ancestry: gnome"
 language Gnomish reason="ancestry: gnome"
 language Sylvan reason="ancestry: gnome"
-#language Goblin reason="ancestry: gnome, choice from +1 intelligence"
+language Goblin reason="ancestry: gnome, choice from +1 intelligence"
+language Orcish reason="ancestry: gnome, choice from +2 intelligence"
+language Undercommon reason="ancestry: gnome, choice from +3 intelligence"
+language Dwarven reason="ancestry: gnome, choice from +4 intelligence"
 # TODO: is Low-Light Vision a feat?
 feat ancestry "Low-Light Vision" reason="ancestry: gnome"
 #
@@ -34,14 +37,12 @@ feat ancestry "Low-Light Vision" reason="ancestry: gnome"
 #       the cantrip is heightened to a spell level equal to half my level rounded up
 #       Whenever I gain a primal innate spell from a gnome ancestry feat, I change it's tradition
 #       from primal to my chosen tradition.
+#addSpell "Divine Lance"
+
 #feat ancestry "Ancient Blooded Dwarf? Adds 'Call on Ancient Blood reaction'" reason="heritage: umbralGnome"
 #reaction name="Call on Ancient Blood" reason="heritage"
 #
-# TODO: do I need to take this feat if I've already selected "Improved Familiar Attunement"?
-feat ancestry "Animal Accomplice" reason="ancestry: gnome, 1st level choice"
-# TODO: add my animal
-# chipmunk named "Niblet 7" (secretly, it's 7 because the first 6 Niblet's have passed)
-# familiarAbility Burrower?
+feat ancestry "First World Magic" reason="ancestry: gnome, 1st level choice"
 
 #skill arcana proficiency=trained reason="feat: Dwarven Lore"
 #skill dwarvenLore proficiency=trained reason="feat: Dwarven Lore"
@@ -97,7 +98,10 @@ ability constitution 2 reason="starting aility boost, free choice 4"
 #  - gain an extra wizard class feat
 #  - add one 1st-level spell to spellbook
 # TODO: Arcane Thesis: Improved Familair Attunement
-#  - Chipmunk named Niblet?
+# chipmunk named "Niblet 7" (secretly, it's 7 because the first 6 Niblet's have passed)
+# familiarAbility Burrower??
+# familiarAbility SpellDelivery
+# familiarAbility ShareSenses
 #  - gain the "Familiar" wizard feat
 #  - familiar gains an extra ability, and then more extra at 6th, 12th and 18th levels
 #  - Gain the "Drain Familiar" as a free action
@@ -108,7 +112,7 @@ ability constitution 2 reason="starting aility boost, free choice 4"
 #addSpell "Electric Arc"
 #addSpell "Message"
 #addSpell "Light"
-#addSpell "???" (level 1)
+#addSpell "Magic Weapon" (level 1)
 #addSpell "???" (level 1)
 
 # bought a chill touch scroll

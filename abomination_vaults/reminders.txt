@@ -1,1 +1,11 @@
+- Pick a cantrip for Wellspring Gnome
+   - Guidance (but it has no heightened)
+   - Divine Lance?
+- Wizard Feat: Hand of the Apprentice
+    - rapier
+    - Learn Refocus mechanics
+- FIRST WORLD MAGIC FEAT 1 GNOME Get a primal innate spell. It is heightened to a spell level equal to half your level rounded up.
+    !!! TODO: Pick a spell
+    - probably Disrupt Undead?
 - Reminder: learn the "Chill Touch" cantrip from the scroll
+- I have "Share Senses" with my familair, for 1 minutes every 10 minutes

@@ -1,0 +1,8 @@
+Familiar Abilities of interest
+--------------------------------------------------------------------------------
+- Restorative Familair (can heal me once per day)
+- Share Senses (perceive from my familair once per day)
+- Flier (gets fly speed of 25 feet)
+- Darkvision (could be useful in tandem with Share Senses)
+- Cantrip Connection (prepare an additional cantrip)
+- Spellcasting (need 6 level spells first)

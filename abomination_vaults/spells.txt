@@ -23,7 +23,25 @@ TODO: check my email
 
 Level 1 Spells of Interest
 -------------------------
+* Magic Weapon (not good beyond lower levels, can I retrain?)
+* Illusionary Object
+* Grease?
+* Magic Missile? (Maybe better to buf someon else?  It is guaranteed dammage though)
 * Feather Fall
+* Mage Armor
+
+
+Level 2 Spells of Interest
+-------------------------
+* Hideous Laughter
+* Dispel Magic
+* Invisibility
+* Enlarge
+* See Invisibility
+* False Life
+* Resist Energy?
+* Knock?  (does someone have thievery?)
+
 
 Level 3 Spells of Interest
 -------------------------
