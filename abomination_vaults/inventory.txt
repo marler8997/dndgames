@@ -1,3 +1,4 @@
 - Component Pouch
 - Rapier
 - Scroll of Chill Touch
+- Comprehension Elixir
