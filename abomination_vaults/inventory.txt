@@ -2,3 +2,4 @@
 - Rapier
 - Scroll of Chill Touch
 - Comprehension Elixir
+- Focus Gem from torture device (20 to 25 gold)
