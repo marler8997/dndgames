@@ -11,3 +11,7 @@
 - I have "Share Senses" with my familair, for 1 minutes every 10 minutes
 - Get all the cantrips
     - Read Aura
+
+HouseRules:
+--------------------------------------------------------------------------------
+- If I do something related to my school for 10 minutes, it can count as a refocus

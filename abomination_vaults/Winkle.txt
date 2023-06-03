@@ -117,3 +117,7 @@ ability constitution 2 reason="starting aility boost, free choice 4"
 
 # bought a chill touch scroll
 #addSpell "Chill Touch"
+
+# Level 2
+# todo: pick class feat
+# todo: pick skill feat
