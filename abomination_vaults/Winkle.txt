@@ -99,7 +99,7 @@ ability constitution 2 reason="starting aility boost, free choice 4"
 #  - add one 1st-level spell to spellbook
 # TODO: Arcane Thesis: Improved Familair Attunement
 # chipmunk named "Niblet 7" (secretly, it's 7 because the first 6 Niblet's have passed)
-# familiarAbility Burrower??
+# familiarAbility Burrower
 # familiarAbility SpellDelivery
 # familiarAbility ShareSenses
 #  - gain the "Familiar" wizard feat
@@ -113,11 +113,16 @@ ability constitution 2 reason="starting aility boost, free choice 4"
 #addSpell "Message"
 #addSpell "Light"
 #addSpell "Magic Weapon" (level 1)
-#addSpell "???" (level 1)
+#addSpell "Illusionary Object" (level 1)
 
 # bought a chill touch scroll
 #addSpell "Chill Touch"
 
 # Level 2
-# todo: pick class feat
+feat class "Enhanced Familiar" reason="class: wizard?"
 # todo: pick skill feat
+
+# TODO: pick familiarAbility
+# TODO: pick familiarAbility
+
+#addSpell "Feather Fall" (level 1)
