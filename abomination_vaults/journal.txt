@@ -60,7 +60,7 @@ Character Names:
 
 - Runa healed me for 8 (full HP)
 - Found some potions
-    - Green potion is an elixer of life (Ashley took this one)
+    - Green potion is an elixir of life (Ashley took this one, Now Kai has it)
     - Teal blue is "skeptics elixir" +1 to Perception to certain checks (Runa takes it)
     - Dark Blue "comprehension elixir" (I took this one)
 - We found 6 keys
@@ -136,5 +136,28 @@ xs
 - We convinced the MitFlit King "Scrog" to help guide us
     - He was planning to attack Otari because there were other Otarians that came and attacked last week
     - The mushroom eyed people drove the MitFlits up
+    - He told that a little north there is a giant scorpion, but there is a way around the scorpion
+    - Amira is wearing his crown
 - We found the secret entrance to the drake cave
 - The MorningStar is worth around 30 to 40 gold
+
+### Day 1 (Real Life Date: July 9, 2023)
+
+- Nimbloth is a God, could be Belcora's deity
+    - Nimbloth is the goddess of empty death, symbol is skull dripping with blood with moth stuffed inside its mouth
+- We heal and refocus
+- Big room with white altar
+    - rotting corpose, couple months old
+        - 4 daggers (a few silver)
+        - potion of minor healing
+        - dark vision elixir potiion (gain darkvision for 10 minutes)
+        - silver ring (about 4g)
+        - rapier (+1) (about 25G)
+    - in the white altar is a:
+        - scroll of restore senses (Amira keeps it)
+        - wand of heal level 1 (Amira has it)
+    - from one of the corpses
+        - gold tooth (about 3 to 4g)
+    - from the other corpose
+        - amulet (nugget of polished tektite in a cage of braided wire) (channel protection amulet, gain resistance 5 from harm spells if you're living, or heal spells if you're undead, kai took it)
+- Kai felt like something is watching him through the Orange star at the top of the stain glass window
