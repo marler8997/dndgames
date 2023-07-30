@@ -1,3 +1,12 @@
-+15g    starting cash
--2g buy rapier
--4g buy chill touch
+Winkle +15g starting cash
+Winkle -2g buy rapier
+Winkle -4g buy chill touch
+
+Runa +4g (what she had at this time)
+Runa +10g sell fear gem
+Runa +3g sell Wolf Fang
+
+# Group
++4x1s sold daggers
++2g sell silver ring
++2g sell gold tooth

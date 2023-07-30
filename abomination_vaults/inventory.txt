@@ -1,6 +1,44 @@
 - Component Pouch
 - Rapier
-- Scroll of Chill Touch
 - Comprehension Elixir
 - Focus Gem from torture device (20 to 25 gold)
-- Bloodstone (treasure)
+- Bloodstone (treasure, found near belcora's statue)
+
+Unassigned
+--------------------------------------------------------------------------------
+- 6 keys found somewhere?
+# from tangletop building
+- large silver key (found in 10x10 foot side room)
+### from big room with white altar:
+- potion of minor healing
+- healer's tools
+- spyglass (fancy) (traded 5 copper with tangletop, appraised 15 to 20 gold)
+- spyglass (not as fancy, appraised as a couple gold)
+- dark vision elixir potiion (gain darkvision for 10 minutes)
+- rapier (+1) (about 25G)
+
+Aharu
+--------------------------------------------------------------------------------
+- bones
+- Belcora's statue's head
+- 3 books, inscribed "I will have these transcribed soon and get them back to you my love".
+- Painting of Belcora that says "I will avenge you" on the back
+
+Amira
+--------------------------------------------------------------------------------
+- the mitflit king's crown
+- wand of heal level 1
+- scroll of restore senses
+
+Kai
+--------------------------------------------------------------------------------
+- elixir of life (green potion)
+- weapon potency +1 rune
+### from mitflit king encounter:
+- morning star (appraiased 30 to 40 gold)
+- amulet (nugget of polished tektite in a cage of braided wire) (channel protection amulet, gain resistance 5 from harm spells if you're living, or heal spells if you're undead, kai took it)
+
+Runa
+--------------------------------------------------------------------------------
+- Caltrop Snare Componenets
+- skeptics elixir (blue potion)

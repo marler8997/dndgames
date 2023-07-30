@@ -1,9 +1,11 @@
 Character Names:
 - Kelly Runa
 - Ashley Amira
+    - Bear - Kali
 - Brie Aharu
 - Michael Kai
 - Johnny Winkle
+    - Chipmunk - Niblet
 
 
 ### Day 1 (Real Life Date: March 4, 2023)
@@ -47,12 +49,12 @@ Character Names:
 - Harper Diety re-roll ones for the next 10 rounds
 - Brie's character took one of the bones and put it in her backpak, that seemed to get rid of the spector at the end once the rest were taken care of
     - My religion check of 8 did not determine why
-- Kelly's character got a box
+- Runa got a box
     - 3g
     - 20s
     - box with components for a caltrop snare
     - wolf fang
-    - vile with the word "yum" written on it (identified as Black Adder Venom)
+    - vile with the word "yum" written on it (identified as Black Adder Venom, Runa used this on her weapon)
 - We finished combat, I took 4 points of dammage, I'll refocus
 - Remember to investigate the room
 
@@ -99,7 +101,7 @@ Location: Voluk Azrinae's Hut/Workshop
     - matches handwriting behind Belcora's painting (obviously Azrinae)
 - we found a tortue device used to aid in creating an undead spell
     - device drills into the restrained victims skull and the scope focuses the necromantic energy
-    - I take the focus gem from the the torture devicef
+    - I take the focus gem from the the torture device
     - Michael's character got the spyglass from the torture device, not as nice as the one we found in the workship (maybe a couple gold)
 - We ran into a room with dense clouds, a tentacle grabbed Mike and he got knocked unconsious
     - we retreated
@@ -113,7 +115,7 @@ Location: Voluk Azrinae's Hut/Workshop
     - not interested in fighting, does not want to encounter Garulgust
 - We found and activated a teleportation circle near the drake cave
 - We saw a statue/altar thingy with belcora's head
-    - Amira grabbed belcora's head off the statue
+    - Aharu grabbed belcora's head off the statue
 
 - We found:
     - bloodstone (just a treasure) (I'll take)
@@ -161,3 +163,22 @@ xs
     - from the other corpose
         - amulet (nugget of polished tektite in a cage of braided wire) (channel protection amulet, gain resistance 5 from harm spells if you're living, or heal spells if you're undead, kai took it)
 - Kai felt like something is watching him through the Orange star at the top of the stain glass window
+
+### Day 1 (Real Life Date: July 30, 2023)
+
+- Aharu suggested I turn a rock into a crown for
+- We met a Gnome Druid named "Worliwin"
+    - She tells us about Jaul's Rampage, a druid that rampaged through the city about 6 years ago
+        - They drove Jaul off a cliff and they're not sure if he died or not
+        - He was a werewolf druid and lost his mind
+        - He killed Kalino's wife "Ayla", the "Market Master" who now has a grudge against all druids
+        - She thinks he's still alive and could be roaming the forest as a werewolf
+    - Worliwin is trying to repair druid's reputation in the city since then
+    - She recommends hiding that we have a druid in our party
+    - She healed 13 points to all of us
+- Marketplace
+    - Runa sold fear gem for 10g
+- Amira entered into a "lease to own" deal with Wrin for a Bag of Holding
+    - basically, Greg stays there as collateral, we rent the bag of holding for 5g a day
+      but can pay it off at any point for 60g (discounted)
+- TODO: look for teleportation circle...
