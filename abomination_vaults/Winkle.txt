@@ -43,6 +43,7 @@ feat ancestry "Low-Light Vision" reason="ancestry: gnome"
 #reaction name="Call on Ancient Blood" reason="heritage"
 #
 feat ancestry "First World Magic" reason="ancestry: gnome, 1st level choice"
+# addSpell "Disrupt Undead"
 
 #skill arcana proficiency=trained reason="feat: Dwarven Lore"
 #skill dwarvenLore proficiency=trained reason="feat: Dwarven Lore"
@@ -120,9 +121,9 @@ ability constitution 2 reason="starting aility boost, free choice 4"
 
 # Level 2
 feat class "Enhanced Familiar" reason="class: wizard?"
-# todo: pick skill feat
+# feat skill "Recognize Spell" reason="class: wizard?"
 
-# TODO: pick familiarAbility
-# TODO: pick familiarAbility
+# familiarAbility Speech
+# familiarAbility Flier
 
 #addSpell "Feather Fall" (level 1)

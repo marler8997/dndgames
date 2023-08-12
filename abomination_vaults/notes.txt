@@ -1,10 +1,12 @@
 Quickly lookup things: https://pf2easy.com
 
+Idea: Cast "Shrink" on myself and "Enlarge" on Niblet, then I can ride him to fly
+
 Familiar Abilities of interest
 --------------------------------------------------------------------------------
 - Restorative Familiar (can heal me once per day)
-- Share Senses (perceive from my familair once per day)
 - Flier (gets fly speed of 25 feet)
 - Darkvision (could be useful in tandem with Share Senses)
 - Cantrip Connection (prepare an additional cantrip)
 - Spellcasting (need 6 level spells first)
+- Spirit Touch (touch incorporeal, can deliver touch spells with spell delivery)

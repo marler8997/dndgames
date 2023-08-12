@@ -6,16 +6,15 @@
 
 Unassigned
 --------------------------------------------------------------------------------
-- 6 keys found somewhere?
+- Key ring
+    - 4 destroyed
+    - 1 with gauntlet image (top of the lighthouse)
+    - 1 with book image (not used)
 # from tangletop building
 - large silver key (found in 10x10 foot side room)
 ### from big room with white altar:
 - potion of minor healing
 - healer's tools
-- spyglass (fancy) (traded 5 copper with tangletop, appraised 15 to 20 gold)
-- spyglass (not as fancy, appraised as a couple gold)
-- dark vision elixir potiion (gain darkvision for 10 minutes)
-- rapier (+1) (about 25G)
 
 Aharu
 --------------------------------------------------------------------------------
@@ -29,6 +28,7 @@ Amira
 - the mitflit king's crown
 - wand of heal level 1
 - scroll of restore senses
+- bag of holding
 
 Kai
 --------------------------------------------------------------------------------
