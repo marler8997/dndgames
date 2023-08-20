@@ -9,17 +9,14 @@ TODO: check my email
 * Light
 * Produce Flame (persistent fire dammage)
 * Ray of frost (120 ft range!)
-* Chill Touch
 
 
 * Acid Splash (meh, but good against swarms?)
-
 
 * Daze (meh)
 
 * Sheild?
 * Ancient Dust
-* Chill Touch for undead?  (might be bead since it's range is touch)
 
 Level 1 Spells of Interest
 -------------------------

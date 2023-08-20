@@ -1,3 +1,5 @@
+- Scroll of Produce Flame
+- Scroll of Ray of Frost
 - Component Pouch
 - Rapier
 - Comprehension Elixir
@@ -19,9 +21,9 @@ Unassigned
 Aharu
 --------------------------------------------------------------------------------
 - bones
-- Belcora's statue's head
-- 3 books, inscribed "I will have these transcribed soon and get them back to you my love".
 - Painting of Belcora that says "I will avenge you" on the back
+- A jar from a shrine in the library
+- Handwraps of mighty blows
 
 Amira
 --------------------------------------------------------------------------------
