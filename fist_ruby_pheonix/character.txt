@@ -1,0 +1,25 @@
+Ancestry: Kitsune
+Class: Witch
+Background: Fortune Teller
+
+Boosts:
+Ancestry: Int Cha
+Background: Int Dex
+Class: Int
+Free: Int Dex Con Wis
+
+Heritiage: Frozen Wind Kisune
+Ancestry Feat: ?
+
+Familiar: Spider?
+Patron: The Resentment
+
+
+
+Level 3:
+----------------------------------------
+Skill Increase:
+
+Level 5:
+----------------------------------------
+Ability Boosts: Int Dex Con Wis
