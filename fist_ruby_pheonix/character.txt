@@ -2,24 +2,46 @@ Ancestry: Kitsune
 Class: Witch
 Background: Fortune Teller
 
-Boosts:
+Level 1
+----------------------------------------
+Ability Boosts:
 Ancestry: Int Cha
 Background: Int Dex
 Class: Int
 Free: Int Dex Con Wis
 
-Heritiage: Frozen Wind Kisune
-Ancestry Feat: ?
+Skills: Acrobatics, Arcana
+        Lore (Fortune-Telling), Medicine
+        Nature, Society, Stealth, Survival,
+        Thievery
 
-Familiar: Spider?
+Heritiage: Aiuvarin
+Ancestry Feat: ?? Otherworldly Magic or Wildborn Magic ??
+Hex Spell: Patron's Puppet (or Phase Familair if they'll be in harms way)
+
+Familiar: Spider? Cat?
 Patron: The Resentment
 
-
+Level 2:
+----------------------------------------
+Class Feat: Basic Lesson / Lesson of Vengeance
+Skill Feat: Recognize Spell
 
 Level 3:
 ----------------------------------------
-Skill Increase:
+Skill Increase: Occultism
+General Feat: ?
+
+Level 4:
+----------------------------------------
+Class Feat: ReachSpell? WidenSpell?
 
 Level 5:
 ----------------------------------------
 Ability Boosts: Int Dex Con Wis
+Skill Increase: Arcana
+Ancestry Feat: ?
+
+Level 8:
+----------------------------------------
+Class Feat: Spirit Familiar
