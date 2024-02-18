@@ -22,6 +22,9 @@ Hex Spell: Patron's Puppet (or Phase Familair if they'll be in harms way)
 Familiar: Spider? Cat?
 Patron: The Resentment
 
+Pet: Gus: Fuzzy snake with a fox head (Snox)
+Familiar Ability: Flier
+
 Level 2:
 ----------------------------------------
 Class Feat: Basic Lesson / Lesson of Vengeance
@@ -45,3 +48,7 @@ Ancestry Feat: ?
 Level 8:
 ----------------------------------------
 Class Feat: Spirit Familiar
+
+Level 9:
+----------------------------------------
+Ancestry Feat: Otherworldly Acumen?
