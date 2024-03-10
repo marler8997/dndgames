@@ -1,3 +1,43 @@
-Level 6
+I should know 26 spells + all cantrips
+
+Cantrips
+--------------------------------------------------------------------------------
+Invoke True Name (Status Penalty on my spell target)
+Telekinetic Projectile (7D6 (avg 24.5) @ lvl 11)
+Needle Darts (8D4 (avg 20) @ lvl 11, crit double dmg & 6 bleed)
+    - requires metal (iron or steel?)
+Void Warp (7D4 (avg 17.5) @ lvl 11, crit enfeebled)
+Eat Fire
+Forbidding Ward
+Haunting Hymn (3D8 (avg 13.5) cone dammage @ lvl 11, crit deafened)
+
+Illumincate (light all fire-light sources, unwilling can attempt a reflex save)
+Guidance? (if no one else has it?)
+Daze?
+Detect Magic?
+Infections Enthusiasm (+1 status)
+Warp Step?
+Sheild?
+Read the Air (Diplomacy status bonus for 1 minute)
+Read Aura (help identify magical items)
+Phase Bolt (Worse version of Needle Darts)
+
+Level 1: 8
+--------------------------------------------------------------------------------
+
+
+Level 2: 4
+--------------------------------------------------------------------------------
+
+Level 3: 4
+--------------------------------------------------------------------------------
+
+Level 4: 4
+--------------------------------------------------------------------------------
+
+Level 5: 4
+--------------------------------------------------------------------------------
+
+Level 6: 2
 --------------------------------------------------------------------------------
 Spirit Blast: 
