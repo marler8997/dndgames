@@ -1,0 +1,11 @@
+
+
+Focus Spells
+- Evil Eye
+- Needle of Vengeance
+
+
+# skill intimidation
+# TODO: add skill feat reveal true name
+
+- Get the "Reveal True Name" feat

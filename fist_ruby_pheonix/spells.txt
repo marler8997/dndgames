@@ -2,7 +2,7 @@ I should know 26 spells + all cantrips
 
 Cantrips
 --------------------------------------------------------------------------------
-Invoke True Name (Status Penalty on my spell target)
+Invoke True Name (Status Penalty on my spell target, would only work on famous people)
 Telekinetic Projectile (7D6 (avg 24.5) @ lvl 11)
 Needle Darts (8D4 (avg 20) @ lvl 11, crit double dmg & 6 bleed)
     - requires metal (iron or steel?)
@@ -34,9 +34,11 @@ See Invisibility?
 
 Level 3: 4
 --------------------------------------------------------------------------------
+Haste
 
 Level 4: 4
 --------------------------------------------------------------------------------
+Fly?
 
 Level 5: 4
 --------------------------------------------------------------------------------

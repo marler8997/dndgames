@@ -52,3 +52,15 @@ Class Feat: Spirit Familiar
 Level 9:
 ----------------------------------------
 Ancestry Feat: Otherworldly Acumen?
+
+
+# Ideas for Familiar Abilityes
+# Speech
+# Cantrip Connection (add an additional permanent cantrip to?)
+# Spell Delivery
+# Spirit Touch (deliver touch spells to incorporeal creatures)
+# Spell Battery
+# Share Senses
+# Familiar Focus (if I have any nice Focus spells)
+# Fast Movement Fly
+# Tremorsense
