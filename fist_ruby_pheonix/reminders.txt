@@ -2,7 +2,9 @@
 
 Focus Spells
 - Evil Eye
-- Needle of Vengeance
+- Needle of Vengeance (requires focus point)
+
+
 
 
 # skill intimidation
