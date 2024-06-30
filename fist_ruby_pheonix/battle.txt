@@ -1,3 +1,6 @@
+Initiative:
+  me: 20
+--------------------------------------------------------------------------------
 0: I cast forbidding ward on myself and closest spider
    I cast forbidding ward on Faux and the closest spider
    I cast forbidding ward on Kyu and the closest spider

@@ -10,4 +10,4 @@ Focus Spells
 # skill intimidation
 # TODO: add skill feat reveal true name
 
-- Get the "Reveal True Name" feat
+- Get the "Reveal True Name" feat?
