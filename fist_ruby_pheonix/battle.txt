@@ -1,3 +1,17 @@
+
+Monk Statue
+---------------
+- I casted Haste on Kelly and TimeJump to retreat
+- I got hit for 72 dammage
+
+
+Sand Monsters
+---------------
+I casted Evil Eye and he becmae Sickened 1
+I casted Telekinetic Projectile did 26 dammage
+
+
+
 Initiative:
   me: 20
 --------------------------------------------------------------------------------
@@ -8,6 +22,8 @@ Initiative:
    Kyu set fire to the webs
 Initiative:
    me: 39!
+
+
 
 1: I cast Haste on Kyu
 2: Evil Eye and Telekinetic Projectile (31 dammage)
