@@ -3,6 +3,15 @@
 - Poison Extractor built by Amatar
 - Feather and "puzzles" from the sand room
 - Summon "Living Landslide" Gem (retrieved from sand room)
+- Obsidian Puzzle(Darkness)
+- Cognitive Mutagen (Greater)
+- Serene Mutagen (Greater)
+
+Found in NorthWest room (Reebus room):
+----------------------------------------
+- Greater holy prayer beeds, can be used to heal
+- Moderate Fire resistant potion
+- Decantor of endless water
 
 Found SW room of Irori base
 --------------------------------
@@ -15,11 +24,23 @@ Found SW room of Irori base
 
 
 Kyuu
+- Ghost Touch rune from Tino
 - +2 striking ghost touch Hook Sword
 - Greater Striking Rune from the sparring pit
+- Axiomatic Rune
+- Ruby Puzzle(Flame Vortex)
 
 Kei
 - Potiion of tongues
+- Feather from the North room at base
+- Feather from SouthEast room at base
+- Emerald Puzzle(Elemental Confluence)
 
 Abby
 - The feather from the "North room" of our base which gives them the wronged Monk's wrath ability
+- Opal Puzzle(Prismatic Armor)
+
+Faux
+- feather from the South sand room at the base
+- Sapphire Puzzle(Dancing Fountain)
+- Decantor of endless water

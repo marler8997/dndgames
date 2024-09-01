@@ -262,7 +262,7 @@ There are 18 teams:
 - We tell Tino we are staying at the Temple of Irori
     - We're meeting at the transport stone between our locations
     - The island is covered in undead
-    - He gives us 2 runestones and a wand
+    - He gives us 2 runestones (Ghost Touch and ?) and a wand of Death Ward
 - We can go to the blacksmith and get someone to etch some weapons with the Ghosts Touch Runes
 - The "Speakers to the Wind" team is riding in some type of magical wooden buggy
     - They are going in the same direction as us
@@ -325,9 +325,11 @@ There are 18 teams:
   - I found a "+2 striking, ghost touch, hook sword" embedded in the chair
   - We found a "potion of tonges" along the NE wall (understand all languages "audio" for 4 hours)
   - The rusted out weapons strewn about are probably worth something, especially to an irorian collector
-  - Season 1(fall): moisture comes out of the room, water level lowered in lizard lady
-    "things look sharper", pagoda looks more intact
-  - Season 2(winter):
+  - Season 1(summer): South room wall is broken
+  - Season 2(fall): moisture comes out of the room, water level lowered in lizard lady
+    "things look sharper", pagoda looks more intact, the North room is trashed, dead body at the bottom of the tree in the SouthEast room, this seems to be the earliest time, the South room wall was fixed
+  - Season 3(winter): SouthWest sleeping quarters is in better condition, Puzzle pieces from the South sand room are in better condition, they have new inlays and gemstones. No water.
+  - Season 4(spring): mood shifts, something changes with movements, spirits become nervous and run around
 - NOTE: it's like 10:30 AM
 - Kei grabs the feather from the North room and and he feels an energy enter his body
   - He gained a focus point and a new ability, "The Wrongged Monk's Wrath"
@@ -380,3 +382,39 @@ There are 18 teams:
     - 6 lacquered wooden holy symbols strung on rotted hemp
     - poutches: opals
     - 218G
+
+### Session: September 1, 2024
+
+- we switch the seasons to winter
+- Faux tries bringing the puzzle pieces outside the castle
+    - We're taking about 5 minutes each time. We took ? minutes?
+    - I finished Ruby at 1:20
+    - We dont' think they are one time use.
+    - each puzzle set has a different set of gemstones
+       - sapphire, emerald, opal, ruby, obsidian
+    - Kei completes the emerald one, it looks like a snake eating itself.
+      and it starts emanating/humming I get a 39 arcana check to
+      tell it has an evocation or conjuration and there is some way to activate it,
+      I'll probably need to do some research to know how to activate it and it's
+      not of this plane, it's also very hefty when it's put together.
+      Spell: Elemental Confluence
+    - I complete the Obsidian one, it creats a pyramid. It gets heavy and starts
+      humming like the emerald one.  Underneath it is a black smog emptying out the
+      bottom. When abby says "The only journey is the journey within" and something
+      starts happening. If you activate it you create a 20ft emanation darkness spell.
+      Spell: Darkness
+    - Abby completes the opal one. Perfectly round ball and gives the feeling of
+      euphoria.
+      Spell: Prismatic Armor
+    - I completed Ruby at 1:20.  It's long diagonally shaped pieces of wood and you
+      end up with a cluster of spikes. It gets uncomfortably warm.  Some form of dangerous
+      magic is emanating from it. 30 arcana check tells me it can bring out a "Flame Vortex"
+      spell.
+    - Abby completed sapphire at 1:20 as well.  It looks like a rod.
+      Spell: Dancing Fountain
+
+- We go back to the NorthWest room (where Reebus is) Abby says the prayer to calm Reebus and it works.
+- In the NorthEast bug room we find 2 elixirs in glass bottles:
+    - They are mutagaens, extremely powerful alchemical agents which come with a strong buf and strong drawback
+    - Cognitive Mutagen (Greater
+    - Serent Mutage (Greater)
