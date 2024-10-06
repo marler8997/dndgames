@@ -1,20 +1,16 @@
+=== Unsorted/Group ================================
 - 2 runes of "Ghost Touch"
 - 1 wand of Death Ward
 - Poison Extractor built by Amatar
 - Feather and "puzzles" from the sand room
 - Summon "Living Landslide" Gem (retrieved from sand room)
-- Obsidian Puzzle(Darkness)
-- Cognitive Mutagen (Greater)
-- Serene Mutagen (Greater)
 
-Found in NorthWest room (Reebus room):
-----------------------------------------
+=== Found in NorthWest room (Reebus room) =========
 - Greater holy prayer beeds, can be used to heal
 - Moderate Fire resistant potion
 - Decantor of endless water
 
-Found SW room of Irori base
---------------------------------
+== Found SW room of Irori base ======================
 - Axiomatic Runestone with a Zuishin Kami symbol on it
   (imbues lawful energy an does +1 dammage on attacks or causes enfeebled 1 if a chaotic creature carries it)
 - wand of Remove Curse (made out of a horn of a Bulette)
@@ -22,25 +18,29 @@ Found SW room of Irori base
 - Spell Strike Arrow Level 5 (put up to level 5 touch spell into an arrow)
 - ring of climbing
 
+=== Me ==============================================
+- Cognitive Mutagen (Greater)
+- Serene Mutagen (Greater)
+- Obsidian Puzzle(Darkness)
 
-Kyuu
+=== Kyuu ============================================
 - Ghost Touch rune from Tino
 - +2 striking ghost touch Hook Sword
 - Greater Striking Rune from the sparring pit
 - Axiomatic Rune
 - Ruby Puzzle(Flame Vortex)
 
-Kei
+=== Kei ==============================================
 - Potiion of tongues
 - Feather from the North room at base
 - Feather from SouthEast room at base
 - Emerald Puzzle(Elemental Confluence)
 
-Abby
+=== Abby =============================================
 - The feather from the "North room" of our base which gives them the wronged Monk's wrath ability
 - Opal Puzzle(Prismatic Armor)
 
-Faux
+=== Faux =============================================
 - feather from the South sand room at the base
 - Sapphire Puzzle(Dancing Fountain)
 - Decantor of endless water

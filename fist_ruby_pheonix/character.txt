@@ -54,6 +54,8 @@ Level 9:
 Ancestry Feat: Otherworldly Acumen?
 
 
+Languages: Common, Dwarven, Elven, Fey, Gnomish, Halfling, Kitsune
+
 # Ideas for Familiar Abilityes
 # Speech
 # Cantrip Connection (add an additional permanent cantrip to?)
