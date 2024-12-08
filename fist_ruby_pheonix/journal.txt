@@ -450,3 +450,38 @@ The puzzles are just activated, no need to roll !!!
     - After the fight is over the statue is gone, there is grafiti on the walls and the room
       is no longer in good condition
     - Kei is still there and now the monks can see him
+
+### Session: December 8, 2024
+
+- More people come into the room that Kei is stuck in
+- Amatar sees Kei and says that no one can just appear out of nowhere
+    - he recognizes Kei and says "you're not supposed to be here"
+- Bag of holding from the statue
+    - bag of holding type 3 (hold up to 100 items)
+    - 6 garnets and 4 perls
+    - a phylactery of faithfullness of irori, tiny box, you tie it around your head, no benefit if you don't worship irori, +2 item bonus to religous checks
+    - a ring of swimming (gives swim speed equal to half your land speed)
+    - wondrous figurine jade serpent: activate and you summon a giant viper for 10 minutes
+   - 47g30s (added to money)
+
+- The necklace has magical slots to clasp onto 10 features, the magic is related
+  to summoning the dead based on my 36 arcana check, there was something about the
+  necklace I coundn't understand. The power seems very unique/overwhelming, it doesn't
+  feel destructive but does feel powerful.
+
+- Amatar gave us a bell to summon him
+
+- Kei carved something into the tree in the past, and when we went back to the future the carving was different.
+    - The new carving is a tribal sun where the rays made out of keys, and it looks like it's also probably been aged
+    - 36 society check on the symbol
+        - there was folklore about groups that had the ability to manipulate events more than what the 8 schools of magic could change, this is my best guess as to what could have caused the symbol to change. An example group is "the dreamweavers". The whispering pines is another group around kitsune folklore. "The Starbound Sojourners" is another one.
+
+- Ingdani tells us the necklace is what keeps us safe. It is "the pheonix necklace".  It let's you battle each other without killing each other.
+    - it also has revival magic, you can use a feather to perform a level 7 raise the dead spell
+
+- TimeCheck: it's around 2ish maybe?
+
+- We reach Level 12!!
+    - Should I get the "Locate Object" spell to help find magic feathers?
+    - ClassFeat: Counterspell?
+    - SkillFeat: Aura Sight?

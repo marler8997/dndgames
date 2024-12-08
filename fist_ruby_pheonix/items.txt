@@ -5,6 +5,7 @@
 - Feather and "puzzles" from the sand room
 - Summon "Living Landslide" Gem (retrieved from sand room)
 
+
 === Found in NorthWest room (Reebus room) =========
 - Greater holy prayer beeds, can be used to heal
 - Moderate Fire resistant potion
@@ -18,11 +19,18 @@
 - Spell Strike Arrow Level 5 (put up to level 5 touch spell into an arrow)
 - ring of climbing
 
+== Bag from the statue ==============================
+- bag of holding type 3 (hold up to 100 items)
+- 6 garnets and 4 perls
+- a phylactery of faithfullness of irori, tiny box, you tie it around your head, no benefit if you don't worship irori, +2 item bonus to religous checks
+- a ring of swimming (worth alot)
+
 === Me ==============================================
 - Cognitive Mutagen (Greater)
 - Serene Mutagen (Greater)
 - Obsidian Puzzle(Darkness)
 - Wearing Lacquered Wooden Holy Symbols Strung on rotted hemp
+- wondrous figurine jade serpent: activate and you summon a giant viper for 10 minutes
 
 === Kyuu ============================================
 - Ghost Touch rune from Tino
@@ -30,12 +38,19 @@
 - Greater Striking Rune from the sparring pit
 - Axiomatic Rune
 - Ruby Puzzle(Flame Vortex)
+- The pheonix necklace
 
 === Kei ==============================================
 - Potiion of tongues
 - Feather from the North room at base
 - Feather from SouthEast room at base
 - Emerald Puzzle(Elemental Confluence)
+- Temporal Talisman (The Time Traveling device from Amatar)
+    - my 34 arcana check, this time device has two stages, it is retaining it's magic
+      can only be used once a day, it's conjuration magic, it conjures whoever uses
+      it into a different "area", it seems to attract the user to the most important
+      time of the area you're in, you get to be in that time for 1 minute, not sure
+      if you're physical in the time you're in
 
 === Abby =============================================
 - The feather from the "North room" of our base which gives them the wronged Monk's wrath ability
