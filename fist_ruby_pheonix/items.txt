@@ -4,7 +4,8 @@
 - Poison Extractor built by Amatar
 - Feather and "puzzles" from the sand room
 - Summon "Living Landslide" Gem (retrieved from sand room)
-
+- 10 emeralds found in the chest in the North beach on the island
+- a moonlit chain shirt (silver, gives you low-light vision in moonlight, once per day can prevent the dazzled condition)
 
 === Found in NorthWest room (Reebus room) =========
 - Greater holy prayer beeds, can be used to heal
@@ -25,12 +26,14 @@
 - a phylactery of faithfullness of irori, tiny box, you tie it around your head, no benefit if you don't worship irori, +2 item bonus to religous checks
 - a ring of swimming (worth alot)
 
+
 === Me ==============================================
 - Cognitive Mutagen (Greater)
 - Serene Mutagen (Greater)
 - Obsidian Puzzle(Darkness)
 - Wearing Lacquered Wooden Holy Symbols Strung on rotted hemp
 - wondrous figurine jade serpent: activate and you summon a giant viper for 10 minutes
+- 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
 
 === Kyuu ============================================
 - Ghost Touch rune from Tino
@@ -39,6 +42,8 @@
 - Axiomatic Rune
 - Ruby Puzzle(Flame Vortex)
 - The pheonix necklace
+- 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
+- a ring of greater electricity resistance (resistance 10 to electricity)
 
 === Kei ==============================================
 - Potiion of tongues
@@ -60,3 +65,4 @@
 - feather from the South sand room at the base
 - Sapphire Puzzle(Dancing Fountain)
 - Decantor of endless water
+- 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
