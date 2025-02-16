@@ -518,3 +518,4 @@ The puzzles are just activated, no need to roll !!!
     - 3 greater elixirs of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
     - a chain shirt
     - a ring of greater electricity resistance (resistance 10 to electricity) (Kyuu equipped)
+
