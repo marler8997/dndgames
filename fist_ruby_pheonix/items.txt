@@ -6,6 +6,8 @@
 - Summon "Living Landslide" Gem (retrieved from sand room)
 - 10 emeralds found in the chest in the North beach on the island
 - a moonlit chain shirt (silver, gives you low-light vision in moonlight, once per day can prevent the dazzled condition)
+- "Fade Band"
+- 2 Swan Boat Feathers
 
 === Found in NorthWest room (Reebus room) =========
 - Greater holy prayer beeds, can be used to heal
@@ -56,6 +58,7 @@
       it into a different "area", it seems to attract the user to the most important
       time of the area you're in, you get to be in that time for 1 minute, not sure
       if you're physical in the time you're in
+- Diamond with "Return Beacon" (Heightened 10th) spell
 
 === Abby =============================================
 - The feather from the "North room" of our base which gives them the wronged Monk's wrath ability

@@ -46,6 +46,7 @@ Group Name: Fangs of the Forest
 
 ### Session: February 18, 2024
 
+- The year is 4719
 - We were invited to the tournament based on our reknown in the area, our group "Fangs of the forest" was called out specifically
 - We are on an airship on our way to Bonmu
 - They have not introduced the rules yet
@@ -475,6 +476,7 @@ The puzzles are just activated, no need to roll !!!
     - The new carving is a tribal sun where the rays made out of keys, and it looks like it's also probably been aged
     - 36 society check on the symbol
         - there was folklore about groups that had the ability to manipulate events more than what the 8 schools of magic could change, this is my best guess as to what could have caused the symbol to change. An example group is "the dreamweavers". The whispering pines is another group around kitsune folklore. "The Starbound Sojourners" is another one.
+    - Kei's nature check of 31 says the tree aged about 150 years since he traveled back to the present
 
 - Ingdani tells us the necklace is what keeps us safe. It is "the pheonix necklace".  It let's you battle each other without killing each other.
     - it also has revival magic, you can use a feather to perform a level 7 raise the dead spell
@@ -492,11 +494,11 @@ The puzzles are just activated, no need to roll !!!
 - We see some people in enforcer's uniforms guarding the tower
 - They invite us in, we see 4 archways with some sort of portal-looking substrate
 - They tower has portals, the portans transport you between 5 towers on the island
-    - "The North Tower"     X: Just east of mid            Y: Top
-    -                       X: Just west of mid            Y: About 1/3 down from the Top
-    -                       X: Just east of mid            Y: Mid
-    -                       X: About 1/3 west from right   Y: About 1/3 up from bottom
-    - "The SouthWest Tower" X: About 1/4 east from left    Y: About 1/3 up from bottom
+    - 5. "The North Tower"     X: Just east of mid            Y: Top
+    - 4.                       X: Just west of mid            Y: About 1/3 down from the Top
+    - 3.                       X: Just east of mid            Y: Mid
+    - 2.                       X: About 1/3 west from right   Y: About 1/3 up from bottom
+    - 1. "The SouthWest Tower" X: About 1/4 east from left    Y: About 1/3 up from bottom
 - Kyuu randomly goes through a portal and we end up at the top
 
 - All our of deity is
@@ -514,8 +516,40 @@ The puzzles are just activated, no need to roll !!!
 - Everyone but me swims out to the boat
     - on the crest of the ship we found the irori symbol but it's made out of a bunch of little versions of
       that tribal sun with the keys for rays
-- we found a small bag with (added to items)
+- we found a small bag with under the floorboards of a shack (added to items)
     - 3 greater elixirs of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
     - a chain shirt
     - a ring of greater electricity resistance (resistance 10 to electricity) (Kyuu equipped)
 
+- we headed south to the next coast and found a cave
+    - we found gargantuan spiders in the cave
+
+### Session: February 16, 2024
+
+- Time is around 2:30 ish
+- We decide to ignore the spider cave and go back to the portals
+- Abby maps our where all the portals go
+    - one of the enforcers gave Abby a small diamond with a "Return Beacon" spell inside it (added to items)
+    - our return beacon is heightened to 10th level (unlimited duration)
+      and can bring up to 8 willing allies
+    - we cast it immediately just in case (so this is at the tower 1 close to our base)
+- We head to the tower 4
+    - One of the enforcers tell us about "Jai Bon" and his island to the SouthEast
+    - If we come back with "Jaiban's" horn he'll give us two feathers
+        - and the other guard will give us 10,000 gp
+    - Abby investigates the island
+- Investigating the river outlet on NW part of Jaiban's island
+    - a "fade" arm band, a consumable that grants level 2 invisibility (added to items)
+    - added two Swan-Boat feather tokens (tossed into a body of water it into a permanent swan boat) (added to items)
+        - boat carries 32 medium, 8 large or 2 huge creatures
+        - moves at a speed of 50 feet and lasts for 1 day
+    - small bag with large potion of gems coins (311 gold pieces, added to money.txt)
+- We head to the lightkeepers to recruit them
+    - we head inside and my 41 occultism check detects conjuration magic
+    - Kei felt confustion/feat outside
+        - he took a minute to get a vision, it's a human we don't recognize
+          it looks like their clothes look similar to the enforcers and they
+          look very old
+    - Inside he gets close to the dust circle and gets 6 phsycic dammage
+    - Amatar says someone was here and they "went somewhere"
+        - he says it seems they went willingly
