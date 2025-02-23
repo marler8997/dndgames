@@ -24,6 +24,13 @@ Patron: The Resentment
 
 Pet: Gus: Fuzzy snake with a fox head (Snox)
 Familiar Ability: Flier
+Familiar Ability: Fast Movement (fly)
+# Spellcasting?
+# Familiar Focus?
+# Innate Surge?
+# Share Senses
+# Spell Battery
+# Spell Delivery
 
 Level 2:
 ----------------------------------------

@@ -553,3 +553,30 @@ The puzzles are just activated, no need to roll !!!
     - Inside he gets close to the dust circle and gets 6 phsycic dammage
     - Amatar says someone was here and they "went somewhere"
         - he says it seems they went willingly
+
+### Session: February 23, 2024
+
+- We decided to walk to the shrine to the SE of Mount Haminabu
+   - we stopped by the tower to ask about the lightkeeper base and they
+     mentioned they've only seen 2 teams which is a bit surprising
+   - I ask if any of the enforcers have gone missing and I notice that the enforcer who is "not new" reacted to my question
+       - the older enforcer said they think the enforcer assigned to the light-keepers was either "Lyra" or "Christoph"
+       - the headquarters are not booby-trapped by the enforcers
+       - the enforcer asked for roll call and we heard 32 numbers
+   - we take 20 minutes to walk to the shrine
+- At the shrine we see the timekeeper "key symbol"
+- We find a bag
+    - 264g worth of valuables (added to money.txt)
+    - a "candle of truth", causes creates within 10 feet get a status penalty when attempting to lie, it has about 6 inches in length (added to items)
+- We see a cave similar to giant spider cave to the south west along the coast
+- We find a Gargantuan Dinosaur
+- We went to a team headquarters on the coast nearby, the "Tideborn Corsairs"
+    - Rod, the captain
+      Marina the blue person
+      Barnacle the barbarian
+      Sylivia the halfling
+- I roll a nat 20 nature check to see if I know how strong this dinosaur might be
+    - I look towards the sun and I see the "key symbol" and I realize I know what this is
+- Kyuu put on the ring of swimming
+- We snuck up on the creature using the boat and I casted Dominate, it initially rolled a nat 20 and we entered initiative. I rolled a nat 20 on my initiative and casted it again and it failed.
+    - after a few rounds it got a critical failure and is now dominated

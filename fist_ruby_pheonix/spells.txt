@@ -39,6 +39,7 @@ Time Jump
 
 Level 4: 4
 --------------------------------------------------------------------------------
+Dimension Door
 Fly?
 
 Level 5: 4
@@ -46,8 +47,9 @@ Level 5: 4
 
 Level 6: 2
 --------------------------------------------------------------------------------
+Dominate
+
 Spirit Blast (16D6)
-Dominate (will save)?
   Vibrant Pattern (will save) blind/dazzle, 10-foot (target multiple instead of 1 with dominate)
 Teleport?
 Vampiric Exhaustion (do dammage and gain temporary hit points, avg 21)
