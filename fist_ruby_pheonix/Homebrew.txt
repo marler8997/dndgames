@@ -1,0 +1,7 @@
+
+Dark Benediction
+--------------------------------------------------------------------------------
+- every 5 levels, I can add a "open spell slot" that I can roll to fill it in
+  with "any spell" even if it's not known
+   - DC is 10 for "Spell Ability"
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.7" dataversion="20241002" release="19.2|CoreRPG:7">
+ <npc>
+  <ac type="string">30</ac>
+  <ac_final type="number">30</ac_final>
+  <actions_interactionabilities>
+   <id-00001>
+    <desc type="string">The grave spinosaurus can hold its breath for 4 hours.</desc>
+    <name type="string">Deep Breath</name>
+   </id-00001>
+  </actions_interactionabilities>
+  <actions_offensiveproactive>
+   <id-00001>
+    <desc type="string">The grave spinosaurus Strides and makes a Strike at the end of its movement. If the Strike hits, it deals damage as normal and the grave spinosaurus makes an Athletics check to Trip the target. This check counts toward the grave spinosaurus's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes the check.</desc>
+    <name type="string">Pouncing Pin </name>
+   </id-00001>
+   <id-00002>
+    <automation type="string">"DC 36 basic Reflex save"|Save: Reflex[DC:36][BASIC]\n"6d10 slashing damage"|Damage: 6d10 slashing\n"2d6 persistent bleed damage"|Effect: PERS: 2d6 bleed</automation>
+    <ct_automation type="string">Save: Reflex[DC:36][BASIC] | Damage: 6d10 slashing | Effect: PERS: 2d6 bleed</ct_automation>
+    <desc type="string">- Requirements: The grave spinosaurus has a creature grabbed in its jaws.\n- Effect: The grave spinosaurus reaches up, slashes the creature it has grabbed with its claws, dealing [6d10 slashing damage] ([DC 36 basic Reflex save]) and [2d6 persistent bleed damage].</desc>
+    <name type="string">Rip and Tear </name>
+   </id-00002>
+   <id-00003>
+    <automation type="string">"DC 36 Reflex save"|Save: Reflex[DC:36]\n"8d6 bludgeoning damage"|Damage: 8d6 bludgeoning\n"slowed 1"|Effect: Slowed: 1[D:1][END]\n"stunned 3"|Effect: Stunned: 3</automation>
+    <ct_automation type="string">Save: Reflex[DC:36] | Damage: 8d6 bludgeoning | Effect: Slowed: 1[D:1][END] | Effect: Stunned: 3</ct_automation>
+    <desc type="string">- Requirements: The grave spinosaurus is swimming on the surface of water.\n- Effect: With a powerful lunge to the side, the grave spinosaurus uses its sail to slap the water's surface, creating a crushing wave that deals [8d6 bludgeoning damage] in a 30foot cone. Each creature in the water in the area must attempt a [DC 36 Reflex save].\n&gt; Critical Success: The creature is unaffected.\n&gt; Success: The creature takes half damage.\n&gt; Failure: The creature takes full damage and is [slowed 1] until the end of its next turn.\n&gt; Critical Failure: The creature takes double damage and is [stunned 3].</desc>
+    <name type="string">Staggering Sail  (incapacitation)</name>
+   </id-00003>
+   <id-00004>
+    <automation type="string">"Athletics check opposed by the grabbed creature's Reflex DC"|VsDC:Athletics:vs:REF\n"swallows the creature"|Effect: Swallowed (Rupture 36, Suffocating, Escape DC 36); DMGO: 3d12+12 bludgeoning; Grabbed; Slowed: 1[DC:36]\n"3d12+12 bludgeoning"|Damage: 3d12+12 bludgeoning</automation>
+    <ct_automation type="string">VsDC:Athletics:vs:REF | Effect: Swallowed (Rupture 36, Suffocating, Escape DC 36); DMGO: 3d12+12 bludgeoning; Grabbed; Slowed: 1[DC:36] | Damage: 3d12+12 bludgeoning</ct_automation>
+    <desc type="string">Medium, [3d12+12 bludgeoning], Rupture 36. The monster attempts to swallow a creature of medium size or smaller that it has grabbed in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an [Athletics check opposed by the grabbed creature's Reflex DC]. If it succeeds, it [swallows the creature]. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to Strike or Grab once again. The monster can't attack creatures it has swallowed.\n\nA swallowed creature is grabbed, is slowed 1, and has to hold its breath or start suffocating. The swallowed creature takes 3d12+12 bludgeoning damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim Escapes this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The engulfing creature is flat-footed against the attack. If the monster takes piercing or slashing damage equaling or exceeding 36 damage from a single attack or spell, the engulfed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.\n\nIf the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage.</desc>
+    <name type="string">Swallow Whole  (attack)</name>
+   </id-00004>
+   <id-00005>
+    <automation type="string">"automatically Grabs"|Effect: Grabbed; Escape DC 40[D:2][END]</automation>
+    <ct_automation type="string">Effect: Grabbed; Escape DC 40[D:2][END]</ct_automation>
+    <desc type="string">- Requirement: The monster's last action was a success with a Strike that lists Grab in its damage entry, or it has a creature grabbed using this action. \n- Effect: The monster [automatically Grabs] the target until the end of the monster's next turn. The creature is grabbed by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended.\n\nUsing Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it.</desc>
+    <name type="string">Grab </name>
+   </id-00005>
+  </actions_offensiveproactive>
+  <actions_reactiveabilities />
+  <active type="number">0</active>
+  <addedlights type="string">-</addedlights>
+  <addedvisions type="string">-</addedvisions>
+  <attacks>
+   <id-00001>
+    <value type="string">Melee  jaws +30 (deadly d12, reach 20 feet), Damage 3d12+15 piercing plus Grab\nMelee  claw +30 (agile, reach 15 feet), Damage 3d8+15 slashing</value>
+   </id-00001>
+  </attacks>
+  <charisma type="number">3</charisma>
+  <constitution type="number">7</constitution>
+  <current type="number">280</current>
+  <dexterity type="number">5</dexterity>
+  <dying type="number">0</dying>
+  <fortitudesave type="number">23</fortitudesave>
+  <friendfoe type="string">foe</friendfoe>
+  <hp type="number">280</hp>
+  <hptemp type="number">0</hptemp>
+  <init type="number">26</init>
+  <initresult type="number">46</initresult>
+  <intelligence type="number">-4</intelligence>
+  <isidentified type="number">0</isidentified>
+  <level type="number">15</level>
+  <link type="windowreference">
+   <class>npc</class>
+   <recordname />
+  </link>
+  <locked type="number">1</locked>
+  <meleeatk type="string"> jaws +30 (deadly d12, reach 20 feet), Damage 3d12+15 piercing plus Grab\n claw +30 (agile, reach 15 feet), Damage 3d8+15 slashing</meleeatk>
+  <miscellaneous type="formattedtext">
+   <p />
+  </miscellaneous>
+  <name type="string">Grave Spinosaurus</name>
+  <nonid_name type="string">Gargantuan Dinosaur</nonid_name>
+  <npc_shield type="number">0</npc_shield>
+  <picture type="token"></picture>
+  <reach type="number">20</reach>
+  <reactionused type="number">0</reactionused>
+  <reflexsave type="number">21</reflexsave>
+  <senses type="string">Perception +26; low-light vision, scent (imprecise) 30 feet</senses>
+  <shieldbt type="number">0</shieldbt>
+  <shieldhardness type="number">0</shieldhardness>
+  <shieldhp type="number">0</shieldhp>
+  <shieldhpdamage type="number">0</shieldhpdamage>
+  <shieldraised type="number">0</shieldraised>
+  <skills type="string">Acrobatics +26, Athletics +30 (+32 to Swim)</skills>
+  <sourcelink type="windowreference">
+   <class>npc</class>
+   <recordname>npc.id-00044@Fists of the Ruby Phoenix AP 1 Despair on Danger Island</recordname>
+  </sourcelink>
+  <space type="number">20</space>
+  <speed type="string">40 feet, swim 30 feet</speed>
+  <spelldisplaymode type="string">action</spelldisplaymode>
+  <spellset />
+  <status type="string">Healthy</status>
+  <strength type="number">9</strength>
+  <text type="formattedtext">
+   <linklist>
+    <link class="imagewindow" recordname="image.id-00077@Fists of the Ruby Phoenix AP 1 Despair on Danger Island">
+     <b>Image: </b>Spinosaurus</link>
+   </linklist>
+  </text>
+  <token type="token">tokens/Spinosaurus.png@Fists of the Ruby Phoenix AP 1 Despair on Danger Island</token>
+  <token3Dflat type="token"></token3Dflat>
+  <tokenrefid type="string">5</tokenrefid>
+  <tokenrefnode type="string">image.id-00047.image@Fists of the Ruby Phoenix AP 1 Despair on Danger Island</tokenrefnode>
+  <tokenvis type="number">0</tokenvis>
+  <traits type="string">Unique, N, Gargantuan, Animal, Dinosaur\nVariant spinosaurus</traits>
+  <willsave type="number">19</willsave>
+  <wisdom type="number">3</wisdom>
+  <wounded type="number">0</wounded>
+  <wounds type="number">0</wounds>
+ </npc>
+</root>

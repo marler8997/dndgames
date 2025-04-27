@@ -554,7 +554,7 @@ The puzzles are just activated, no need to roll !!!
     - Amatar says someone was here and they "went somewhere"
         - he says it seems they went willingly
 
-### Session: February 23, 2024
+### Session: February 23, 2025
 
 - We decided to walk to the shrine to the SE of Mount Haminabu
    - we stopped by the tower to ask about the lightkeeper base and they
@@ -576,7 +576,19 @@ The puzzles are just activated, no need to roll !!!
       Barnacle the barbarian
       Sylivia the halfling
 - I roll a nat 20 nature check to see if I know how strong this dinosaur might be
-    - I look towards the sun and I see the "key symbol" and I realize I know what this is
+    - I look towards the sun and I see the "key symbol" and I realize I know what this (the dinosaur) is
 - Kyuu put on the ring of swimming
-- We snuck up on the creature using the boat and I casted Dominate, it initially rolled a nat 20 and we entered initiative. I rolled a nat 20 on my initiative and casted it again and it failed.
+- We snuck up on the creature using the boat and I cast Dominate, it initially rolled a nat 20 and we entered initiative. I rolled a nat 20 on my initiative and cast it again and it failed.
     - after a few rounds it got a critical failure and is now dominated
+
+### Session: April 27, 2025
+
+- Around 3PM
+- We headed to the Dinosaurs Cave
+   - 3 emeralds (1 given to the Corsairs team, 2 added to items.txt)
+   - carved jaw that looks like a club (added to items.txt)
+- We check out a bungalow
+   - there is some clothes in the corner, they are dirty but seem like they are not from this region
+   - greater boots of bounding (+10 speed, +2 athletics for high/long jump, when leaping you move 8 feet farther or 6 feet higher) given to faux
+- I spent 10 minutes to Tame the dinosaur
+   - this allows me to use Command Animal

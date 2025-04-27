@@ -52,6 +52,10 @@ Ability Boosts: Int Dex Con Wis
 Skill Increase: Arcana
 Ancestry Feat: ?
 
+Level 7:
+----------------------------------------
+Skill Increase: Nature (expert)
+
 Level 8:
 ----------------------------------------
 Class Feat: Spirit Familiar
@@ -59,6 +63,14 @@ Class Feat: Spirit Familiar
 Level 9:
 ----------------------------------------
 Ancestry Feat: Otherworldly Acumen?
+
+Level 9:
+----------------------------------------
+Skill Feat: Tame Animal
+
+Level 12:
+----------------------------------------
+Class Feat: Dark Benediction (homebrew)
 
 
 Languages: Common, Dwarven, Elven, Fey, Gnomish, Halfling, Kitsune

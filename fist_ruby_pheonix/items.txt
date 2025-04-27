@@ -9,6 +9,9 @@
 - "Fade Band"
 - 2 Swan Boat Feathers
 - Candle of Truth, about 6 inches which we'll equate to 6 hours
+- 2 emeralds (from dino cave)
+- carved jaw that looks like a club
+    - 37 society check, this would need to be sold to a collector, we could maybe get around 150 to 500 gold
 
 === Found in NorthWest room (Reebus room) =========
 - Greater holy prayer beeds, can be used to heal
@@ -60,6 +63,7 @@
       time of the area you're in, you get to be in that time for 1 minute, not sure
       if you're physical in the time you're in
 - Diamond with "Return Beacon" (Heightened 10th) spell
+- Greater boots of bounding
 
 === Abby =============================================
 - The feather from the "North room" of our base which gives them the wronged Monk's wrath ability
@@ -70,3 +74,4 @@
 - Sapphire Puzzle(Dancing Fountain)
 - Decantor of endless water
 - 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
+- Boots of bounding
