@@ -1,7 +1,21 @@
-
 Dark Benediction
 --------------------------------------------------------------------------------
-- every 5 levels, I can add a "open spell slot" that I can roll to fill it in
-  with "any spell" even if it's not known
-   - DC is 10 for "Spell Ability"
+During preparations, reserve a spell slot. It takes 2 actions to ask to your patron to fill that slot with any spell in your tradition's spell list. Roll the skill associated with your spellcasting tradition, the DC is based on the spell level using the standard spell DC:
 
+1st 15
+2nd 18
+3rd 20
+4th 23
+5th 26
+6th 28
+7th 31
+8th 34
+9th 36
+10th 39
+
+- Critical Success Your spell slot is filled with the desired spell can immediately cast a 1-action cantrip as a free action.
+- Success You fill the spell slot with any desired spell in your spell list.
+- Failure You do not fill the spell slot
+- Critical Failure You lose that spell slot.
+
+Every 5 levels, you can reserve an additional slot.

@@ -63,6 +63,7 @@ Class Feat: Spirit Familiar
 Level 9:
 ----------------------------------------
 Ancestry Feat: Otherworldly Acumen?
+Skill Increase: Occultism
 
 Level 9:
 ----------------------------------------
