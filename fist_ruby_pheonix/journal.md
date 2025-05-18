@@ -592,3 +592,26 @@ The puzzles are just activated, no need to roll !!!
    - greater boots of bounding (+10 speed, +2 athletics for high/long jump, when leaping you move 8 feet farther or 6 feet higher) given to faux
 - I spent 10 minutes to Tame the dinosaur
    - this allows me to use Command Animal
+
+### Session: May 18, 2025
+
+- Around 3PM
+- I named the dinosaur "Snapper", suggested by Kei
+- We head over towards "Jai Bon", we explore the pinensula to the southeast has some
+- We found an "idol" that says "Give this idol to an enforcer to decline a match"
+    - this is worth a "good amount" of gold, used Society to estimate we could get 500g and
+      we don't need to sell it to a collector
+    - clarification, we can use the idol after accepting the challenge and they can't challenge
+      us for 12 hours
+- We sense that snapper senses something, like when a "cat notices a nother cat"
+    - there are large portions of the ground that have been manipulated, possibly something large is burrowing trailing under the ground, from my 37 nature checks seems like it's probably a worm
+    - It ends up being 2 gargantuan worms, I got a nat 20 nature check and realized these guys would probably fuck us up, even with Snapper so we left
+- We got to a nearbly shrine
+    - This is a shrine to the God "Ni-sa-yei"
+    - we offer some old boots to the shrine
+    - every time we close our eyes we get a birds-eye-view of the island
+- We go the temple in the middle,
+    - we see a paladin/cleric looking man, has a symbol of "Shazuru"
+    - a kitsune and samsarin comes out as well
+    - there's a much taller humanoid with a clean/golden skin
+    - we've offerred them 500g to help us fight Jai Bon, they agree to make an alliance with us to kill Jai Bon but also request we assist in taking out the worms
