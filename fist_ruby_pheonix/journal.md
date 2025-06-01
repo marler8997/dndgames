@@ -615,3 +615,43 @@ The puzzles are just activated, no need to roll !!!
     - a kitsune and samsarin comes out as well
     - there's a much taller humanoid with a clean/golden skin
     - we've offerred them 500g to help us fight Jai Bon, they agree to make an alliance with us to kill Jai Bon but also request we assist in taking out the worms
+    - This is the "Blades of ancestral dawn" team
+
+### Session: June 1, 2025
+
+- we agree with the team "Blades of ancestral dawn" to meet to take out Jai Bon in an hour at the "farm" (one of the team headquarters)
+- Shrine of Ramijav's (north of the Blades of ancestral dawn) headquarters on the pinensula
+    - we see the symbol of the "Taumatan god", god of Comedy
+    - we spend 10 minutes vibing at the shrine
+    - now, whenever we are fatigued, we can rest for 1 hour to remove this condition
+- There's a shrine that's on the island to the north of the Shrine of Ramijav
+- We go to the lighthouse which is the team headquarters on the north Tip of Jai Bon's island
+    - Fuax sees a child-sized creature in the lighthouse
+    - Even though it's day there's alot of visible light eminating from that lighthouse
+    - the coastline around the lighthouse is pretty rocky
+    - The initial person with a long bow introduces themselves as "Corwin"
+    - Human late 40s/early 50s, no weaponry
+    - Halfling in a small outdoorsy getup with a staff
+    - We propose to them that we help them take care of Jai Bon if they help us take our the worms
+    - A gnome "Finn" comes out and is a bit miffed to hear people are agreeing to things
+         - wearing many mechanical/machine looking mechanisms and has some sort of eye glasses
+    - Marris assures us they're going to do it
+    - We offer to split the treasure we find in Jai Bon's layer
+- We get to the farm
+    - we see two large Auroch's in pens
+    - the farm seems to be automated
+    - there is a human and a centaur and a "magical heap" (other party member, Centaur) in the pen
+    - my 40 recall knowledge check makes it seem like it's maybe a curse specific to the general area, it doesn't seem to be a spell
+    - Faux spoke to "Brin" and the dwarf "Rurik"
+    - Rurik feels like something is amiss but the others don't agree
+    - Faux discussis with Rurik and they think there's a curse causing this
+    - we start feeling way more "relaxed"
+    - Kei detects large amounts of magic from all 4 people
+    - Kei tastes the ground and detects the ground has some sort of effect, and he things he seems some sort of magic writing in the sand
+    - seems like this "effect" is tuned to non-humanoid animals to calm them
+    - Brin is the female of the group, Faux took her out of the fence and all of the sudden she crumpled over in pain
+        - Thorgar sees this and is now concerned about Brin screaming in pain
+    - Faux tries to explain to Thorgar that he's trying to help Brin, but Thorgar charges anyway, when Thorgar crosses the barrier he crashes to the ground
+    - Faux thinks some of them have been under the effect too long and it might need to be broken
+    - REMINDER: ask Ingdani whether this effect is a test setup by the tournament?
+    - REMINDER: faux tells me his suspicion that this spell affects non-humanoids and I could do a recall knowledge to see
