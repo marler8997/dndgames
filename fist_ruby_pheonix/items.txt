@@ -12,6 +12,8 @@
 - 2 emeralds (from dino cave)
 - carved jaw that looks like a club
     - 37 society check, this would need to be sold to a collector, we could maybe get around 150 to 500 gold
+- 2 "barding saddles", covered in metal, it covers your mount in, added to items
+    - +3 to AC, loses 10 ft of movement, 
 
 === Found in NorthWest room (Reebus room) =========
 - Greater holy prayer beeds, can be used to heal
@@ -21,7 +23,6 @@
 == Found SW room of Irori base ======================
 - Axiomatic Runestone with a Zuishin Kami symbol on it
   (imbues lawful energy an does +1 dammage on attacks or causes enfeebled 1 if a chaotic creature carries it)
-- wand of Remove Curse (made out of a horn of a Bulette)
 - iron medalion (affix it to your armor, consumable, +2 to fear effects and auto triggers)
 - Spell Strike Arrow Level 5 (put up to level 5 touch spell into an arrow)
 - ring of climbing
@@ -40,6 +41,7 @@
 - Wearing Lacquered Wooden Holy Symbols Strung on rotted hemp
 - wondrous figurine jade serpent: activate and you summon a giant viper for 10 minutes
 - 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
+- wand of Remove Curse (made out of a horn of a Bulette)
 
 === Kyuu ============================================
 - Ghost Touch rune from Tino

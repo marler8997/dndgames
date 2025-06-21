@@ -655,3 +655,183 @@ The puzzles are just activated, no need to roll !!!
     - Faux thinks some of them have been under the effect too long and it might need to be broken
     - REMINDER: ask Ingdani whether this effect is a test setup by the tournament?
     - REMINDER: faux tells me his suspicion that this spell affects non-humanoids and I could do a recall knowledge to see
+
+### Session: June 20, 2025
+
+- I roll a 38 to learn more about the effect, it seems to be only focused on the farm, there might be multiple ways to lift the curse, i.e. remove curse or find the item that's causing the curse
+- 38 perception check makes me think the sand is not random, there seems to be certain ridges in the ground
+    - abby flies up and notices the same "keys" we've been seeing everywhere in the sand
+- Faux and I go to the farmhouse
+    - We find some magical saddles that are probably worth something
+    - I roll 40 occultism check and I notice some sort of symbology inside the wood but it could be mistaken just for wood grain
+    - We found 2 "barding saddles", covered in metal, it covers your mount in, we took one (added to items.txt)
+       - +3 to AC, loses 10 ft of movement
+
+--------------------------------------------------------------------------------
+Transcript (30 minutes)
+https://otter.ai/u/suw6FLkz-UKIBCLnCco59BacJgs?view=summary
+--------------------------------------------------------------------------------
+```
+Outline
+A curse affecting a group of people, causing them to sleep.
+Unknown speaker hears voices, suspects curse (Mei Ling, Brandi)
+A trial targeting a team's weakness, with accusations and defensiveness.
+Unknown speaker accuses others of putting a curse on people, causing them to be unconscious in a tournament.
+Trial process and enforcers' role.
+Unknown speaker questions enforcers' integrity in trial.
+Magical necklace for protection in battles.
+Unknown Speaker discusses using specialties to defeat opponents in a tournament.
+Elder is asked to find a specific necklace to protect the team during battles.
+Finding a magical necklace hidden in a cow.
+Unknown Speaker searches for a magical necklace hidden in a cow's feces.
+Healing necklace, team strategy, and approaching enemy.
+Unknown Speaker: "They're trying to play on your weaknesses, man. They think you're the weakest party member."
+Eric: "The silver feathers themselves aren't necessarily magical, right? I thought that."
+Removing curses using various methods and items.
+Alchemist or someone knowledgeable about alchemy may be able to identify and remove curses.
+Removing curses using magic spells.
+Unknown Speaker tries to cast a spell to remove a curse from a person, but struggles with the process.
+Speaker discusses the limitations of the spell and the potential consequences of using it.
+Removing curses using magic items.
+Unknown Speaker discusses removing curses, including using Brent's spell.
+Finding magical vials on a farm.
+Player attempts to find hidden vials of arcane energy on a farm.
+```
+--------------------------------------------------------------------------------
+
+- I use our wand of remove curse to revive Brinn
+- Brinn is able to revive Thorgar
+- we head to Jai Bon
+
+--------------------------------------------------------------------------------
+Transcript
+https://otter.ai/u/WN270Gcv0G-Oy6AVv_E3X6MHudY?view=summary
+--------------------------------------------------------------------------------
+```
+Outline
+Potential escape routes and using a "star path" to move through water.
+The speaker discusses their ability to create a path that allows them to move to new locations, potentially useful for escaping a dangerous situation.
+Magical saddles for a mecha dinosaur.
+Unknown Speaker discusses escape routes and armor with Eldra.
+Saddle on wall is magical, might help protect Thor guard.
+Removing a curse from a creature.
+Unknown Speaker struggles to counteract a curse on a creature.
+Counteracting spells and removing curses.
+Unknown speaker discusses counteracting a spell with a wand.
+Curses, healing, and risk assessment.
+Unknown Speaker discusses AI art and the limitations of machine learning.
+Speaker mentions a Minotaur barbarian character and the risk of removing curses.
+Curses removal and hero points, with mentions of guidance and ability checks.
+Unknown Speaker expresses frustration with lack of progress in removing curses.
+Abilities, weapons, and terrain for a group of adventurers heading towards a demon.
+Thor Gard wakes up and is calmed down by Brit and Rourke.
+The group approaches Demon, with Christian noting that it's halfway over towards the water.
+Strategy for fighting a creature in a map.
+Unknown Speaker discusses strategy for dealing with a potential monster in a fantasy setting.
+How to handle a lizard-like creature with acidic abilities.
+Unknown Speaker discusses potential strategies for dealing with a lizard-like creature, including using acid and incapacitation.
+Speaker mentions having an ability to put a divine protection on up to eight people, increasing shield capabilities.
+How to defeat a powerful dinosaur with harpoons and abilities.
+The Triton range Ranger, Brain, uses a harpoon to attack and potentially knock enemies prone.
+Brain's agility allows him to reduce the multiple attack penalty, making it easier to capture enemies.
+A creature's durability and damage potential.
+Unknown Speaker assesses the creature's strength and intelligence, considering its damage output and abilities.
+```
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+Transcript
+https://otter.ai/u/QwHF0AbT2xNuC4UaUuROCP49BMM?view=summary
+Outline
+--------------------------------------------------------------------------------
+```
+Distracting a preacher with illusions and magic.
+The team plans to create illusions and distractions to confuse the preacher during a battle.
+Strategies to defeat a powerful creature using various attacks and tactics.
+Unknown Speaker discusses strategies for dealing with a creature, including using a beacon to ward off the temple team and considering whether the creature can breathe underwater.
+Speaker mentions the size of the creature's horns and the potential for it to slash through the AX with its murder guy.
+Grabbing and moving creatures, breathing underwater, and immobilization.
+Unknown Speaker discusses grabbing creatures and immobilizing them, mentioning that moving a creature while grabbing it is at half speed unless the creature is two or more sizes smaller.
+Speaker discusses the ability of a creature to breathe underwater, with an estimate of 100 rounds if they can hold their breath for 10 minutes.
+Strategies for fighting a powerful enemy.
+The main goal for Snapper is to immobilize John using abilities like True Strike and Forbidden Word.
+The group can increase Snapper's size categories to make him larger than John, potentially giving him an advantage in combat.
+Using spells to enhance combat abilities.
+Unknown Speaker discusses using Quicken condition to act faster in combat.
+Speaker mentions potential to make normal attacks considered magic with spellcasting abilities.
+A character's abilities and potential strategies for a combat encounter.
+Marris suggests using Runic body spell to enhance Snapper's abilities.
+Snapper's size increase will increase reach by 5 feet.
+Using necklace to revive teammates, plan to attack snapper with melee artists.
+Unknown Speaker discusses strategies for defeating a boss in a video game.
+Spell casting and team alignment.
+Bryn will join the Library Group to set up protection spells.
+How to defeat a Spinosaurus using grappling and trick attacks.
+Unknown Speaker discusses strategy for battling a Spinosaurus, including using grab ability to immobilize it.
+Speaker mentions need to make athletics check to trip target, and potential for bonus strike hits if successful.
+D&D combat mechanics and grappling rules.
+Unknown Speaker discusses pouncing pin and its effects on attacking and grabbing.
+Speaker questions whether grab is automatic and if there are circumstances that affect attacking while prone.
+Using prone and immobilized states for stealth and combat advantage.
+Unknown speaker discusses potential strategies for attacking a large, hard-to-see creature in a dark cave.
+```
+--------------------------------------------------------------------------------
+
+
+
+- Jai Bon Encounter:
+
+- plan is to have snapper immobolize first, and attack as second priority
+- I can cast forbidding ward on those who it would matter (increase saves/AC)
+
+Snapper Stat Increases
+-----------------
+- Brinn has "Runic Body" (+1 striking, +1 attack, increase dammage dice to 2)
+- +1 status bonus attack (from Bless from Maris)
+- Quickened (extra strike or stride per round, from Haste)
+
+
+- AC +2 Saves+2 (from forbidding ward from me)
+- AC +3 Strength+5 (barding saddle, speed -10ft)
+
+- +1 initiative - from Abby's warning Caw
+
+- Guidance: +1 status to attack roll/perception/saving throw/skill check. The target chooses which roll to use the bonus on before rolling. If the target uses the bonus, the spell ends. Either way, the target is then temporarily immune for 1 hour.
+
+- Snapper took 28 dammage (total is 252 down from 280)
+
+- Corwin has electrical dammage with their Trident
+- Hadachi fucked up Jai Bon with his sword doing 55 damage
+
+
+--------------------------------------------------------------------------------
+Transcript
+https://otter.ai/u/i2xdUhGm4aXs9cmTMkxHRMxBNfs?view=summary
+--------------------------------------------------------------------------------
+```
+Outline
+Using athletics to trip and grapple an opponent.
+Thor Gar pounces on Johnny with a gold brilliance, narrowing his eyes.
+D&D combat mechanics, including off guard condition and prone state.
+Johnny struggles with off guard condition in combat.
+Strategy for a tabletop game involving damage calculations and character abilities.
+Unknown Speaker strategizes with Joey to take down Anthony.
+Magic spells and abilities.
+Unknown speaker discusses manipulating a DC 5 flat check to stand up.
+Using abilities in a fantasy setting.
+Jai struggles with attacks and deficits in a frustrating battle.
+Using esoteric lore to exploit a creature's weaknesses.
+Unknown Speaker uses esoteric lore to exploit vulnerabilities in a creature.
+Using magic to distract and confuse an opponent.
+Unknown Speaker discusses using various objects to attack an opponent, including a dagger and a mirror.
+A character's attack with a harpoon and electrical energy.
+Corwin readies harpoon with electrical energy, misses creature.
+Using electrical attacks and melee combat in a tabletop RPG game.
+Ryota uses People's Elbow on Jaipon, dealing 100% damage with haste.
+Using athletics check to escape grapple and deal damage.
+Unknown Speaker grabs Snapper with intent to strike, but fails to do so.
+Snapper's critical hit deals 50 damage to Unknown Speaker.
+```
+--------------------------------------------------------------------------------
