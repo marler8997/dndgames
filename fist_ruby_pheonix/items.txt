@@ -2,7 +2,6 @@
 - 2 runes of "Ghost Touch"
 - 1 wand of Death Ward
 - Poison Extractor built by Amatar
-- Feather and "puzzles" from the sand room
 - Summon "Living Landslide" Gem (retrieved from sand room)
 - 10 emeralds found in the chest in the North beach on the island
 - a moonlit chain shirt (silver, gives you low-light vision in moonlight, once per day can prevent the dazzled condition)
@@ -48,15 +47,17 @@
 - +2 striking ghost touch Hook Sword
 - Greater Striking Rune from the sparring pit
 - Axiomatic Rune
-- Ruby Puzzle(Flame Vortex)
+- Ruby Puzzle(Flame Vortex) with 5 feathers
+    - feather from the South sand room at the base
+    - 2 feathers from the enforcer payment for killing Jai Bon
+    - feather from the North room at base
+    - feather from SouthEast room at base
 - The pheonix necklace
 - 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
 - a ring of greater electricity resistance (resistance 10 to electricity)
 
 === Kei ==============================================
 - Potiion of tongues
-- Feather from the North room at base
-- Feather from SouthEast room at base
 - Emerald Puzzle(Elemental Confluence)
 - Temporal Talisman (The Time Traveling device from Amatar)
     - my 34 arcana check, this time device has two stages, it is retaining it's magic
@@ -66,13 +67,13 @@
       if you're physical in the time you're in
 - Diamond with "Return Beacon" (Heightened 10th) spell
 - Greater boots of bounding
+- Journal from Jai Bon's cave
 
 === Abby =============================================
 - The feather from the "North room" of our base which gives them the wronged Monk's wrath ability
 - Opal Puzzle(Prismatic Armor)
 
 === Faux =============================================
-- feather from the South sand room at the base
 - Sapphire Puzzle(Dancing Fountain)
 - Decantor of endless water
 - 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)

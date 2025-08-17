@@ -835,3 +835,15 @@ Unknown Speaker grabs Snapper with intent to strike, but fails to do so.
 Snapper's critical hit deals 50 damage to Unknown Speaker.
 ```
 --------------------------------------------------------------------------------
+
+
+### Session: August 17, 2025
+
+- snapper eats Jai Bon's body
+- Gas is released and I roll 10 constitution
+- Kyuu and I hop on Snapper to go redeem the 10,000g from the head
+    - they pay us the 10,000g and give us the two feathers
+    - he tells us that Snapper could help hide us from the worms by making noise
+    - I hear under his breath "this changes the pools completely"
+- we find about 700g in the cave (not added anywhere yet)
+- Kei finds a journal in the cave
