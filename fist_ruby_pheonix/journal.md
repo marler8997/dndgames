@@ -847,3 +847,15 @@ Snapper's critical hit deals 50 damage to Unknown Speaker.
     - I hear under his breath "this changes the pools completely"
 - we find about 700g in the cave (not added anywhere yet)
 - Kei finds a journal in the cave
+
+
+### Session: December 7, 2025
+
+- We're headed to the WORMS!
+   - Kyuu and Ryu coming on snapper from the guard
+   - rest of the group going from Jai Bon
+ Strategy Snapper Tank, prioritize buffing snapper
+   - the worm cannot be immobalized
+   - focus on killling one, distract the other one with an illusion/ghost sound
+   - we sneak into position on the ridge/beach, spread out
+   - snapper will run into the area making alot of noise to goad out the worms

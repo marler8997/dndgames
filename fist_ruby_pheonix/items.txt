@@ -32,6 +32,8 @@
 - a phylactery of faithfullness of irori, tiny box, you tie it around your head, no benefit if you don't worship irori, +2 item bonus to religous checks
 - a ring of swimming (worth alot)
 
+- idol to decline a match (used society to esimate it's worth 500g)
+
 
 === Me ==============================================
 - Cognitive Mutagen (Greater)
@@ -47,12 +49,12 @@
 - +2 striking ghost touch Hook Sword
 - Greater Striking Rune from the sparring pit
 - Axiomatic Rune
-- Ruby Puzzle(Flame Vortex) with 5 feathers
+- Ruby Puzzle(Flame Vortex)
+- The pheonix necklace with 5 feathers
     - feather from the South sand room at the base
     - 2 feathers from the enforcer payment for killing Jai Bon
     - feather from the North room at base
     - feather from SouthEast room at base
-- The pheonix necklace
 - 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
 - a ring of greater electricity resistance (resistance 10 to electricity)
 

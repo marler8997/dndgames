@@ -1,3 +1,11 @@
+Worms
+--------------------------------------------------
+- Round1
+    - "Jaw" attack Snapper took 85 points of dammage (HP 195/280)
+    - "Stinger" missed
+    - tried to drag Snapper but didn't quite
+
+
 Kinnitry
 --------------------------------------------------------------------------------
 - I got stupefied 1 and took 23 points of dammage
