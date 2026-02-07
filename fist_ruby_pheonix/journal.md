@@ -859,3 +859,8 @@ Snapper's critical hit deals 50 damage to Unknown Speaker.
    - focus on killling one, distract the other one with an illusion/ghost sound
    - we sneak into position on the ridge/beach, spread out
    - snapper will run into the area making alot of noise to goad out the worms
+
+### Session: January 25, 2025
+
+- we defeat the worms
+- I hear some small clapping from the woods

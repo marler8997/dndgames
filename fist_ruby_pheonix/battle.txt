@@ -1,9 +1,29 @@
 Worms
 --------------------------------------------------
-- Round1
-    - "Jaw" attack Snapper took 85 points of dammage (HP 195/280)
-    - "Stinger" missed
-    - tried to drag Snapper but didn't quite
+- "Jaw" attack Snapper took 85 points of dammage (HP 195/280)
+ - snapper is Grabbed, immobalized, OffGuard (-2 AC)
+- "Stinger" missed
+- tried to drag Snapper but didn't quite
+- Kei heals snapper for 42 (HP 237/280)
+- Snapper successfully attacks with Jaws (37 dammage) Rip and Tear (49 dammager, 11 bleed) and Claws (34 dammage)
+- Thorgar 22 dammage
+- Eldra beam 16 dammage
+- Takashi 27 dammage
+- Brin auroch attack, misses
+- The monk Riota crits 46 dammage with needeles
+- Mei Ling oracle kitsune, heals snapper 53 points of healing,
+(HP 280/280)
+- Worm strikes Snapper with jaws for 34 points of dammage (HP 246/280)
+- Worm stinger for 34 dammage (HP 212/280) OffGuard(-2 to AC), worm down
+- Elias does 26 dammage on worm2
+
+round2:
+
+- kyu did 34 dammage
+- bunch of people attack
+- snapper jaws 24 dammage, grabs
+- Kei reacts and crits 58 dammage
+- snapper did around 120 dammage
 
 
 Kinnitry
