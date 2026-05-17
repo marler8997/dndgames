@@ -80,3 +80,4 @@
 - Decantor of endless water
 - 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
 - Boots of bounding
+- Ring of Earth's Mantle(Worm Cave) (allows Assume Earth's Mantle)

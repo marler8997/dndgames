@@ -526,7 +526,7 @@ The puzzles are just activated, no need to roll !!!
 
 ### Session: February 16, 2024
 
-- Time is around 2:30 ish
+- Time is around 2:30PM ish
 - We decide to ignore the spider cave and go back to the portals
 - Abby maps our where all the portals go
     - one of the enforcers gave Abby a small diamond with a "Return Beacon" spell inside it (added to items)
@@ -860,7 +860,52 @@ Snapper's critical hit deals 50 damage to Unknown Speaker.
    - we sneak into position on the ridge/beach, spread out
    - snapper will run into the area making alot of noise to goad out the worms
 
-### Session: January 25, 2025
+### Session: January 25, 2026
 
 - we defeat the worms
 - I hear some small clapping from the woods
+
+### Session: May 17, 2026
+
+- we'll say time is around 5:00 PM
+- Faux is partially deafened from a thunder effect during the worm fight, hearing recovers over the scene
+- Snapper is purring next to Faux, took ~140 dmg total between Jai Bon and the worm bite (252/280 -> lower)
+- The three allied teams part ways amicably back at the beach
+    - Blades of Ancestral Dawn (the minotaur) thanks us, says they "would have faced the end" without us
+    - Aurochs farm team (Brinn, Rurik, Thorgar) much happier now that the curse is lifted
+    - Lighthouse team (Corwin, Finn, Marris) departs, old man rides off in his little machine walker
+- We explore the cave near the wreckage
+    - Entrance is well-trodden, floors packed down (consistent heavy use)
+    - Tunnel splits into 4 paths: down (steep), left, right, forward
+- Down path
+    - Noticeable warm updraft
+    - Tested for methane with a small flame, wind interferes but no ignition
+    - Nature check (23) suggests geothermal: magma or heated pool below
+    - Abby flies down ~3000+ft (~half mile, 5 min in), still pitch black, faint red radiation starts from below
+    - Too far/hot to reach without rope tricks or a teleport
+- Left path (sweet decay smell)
+    - Abby flies ~5 min in, finds a nesting cavern
+    - Huge piles of bones, mushrooms growing in spots
+    - Unclear if it was the worms' nest or something else
+- Right and forward paths
+    - ~10 min in, just keep branching, no smells or features of interest yet
+- Loot: Ring on a crushed skeletal hand in the bone pile
+    - Abby's second pass with detect magic picks it up
+    - Faux declines to touch ("too dirty"), Kei grabs it
+    - Faix spends 10 min identifying: Ring of Earth's Mantle
+        - Grants "Assume Earth's Mantle" (turn to stone, burrow = land speed, climb, armor abilities)
+
+- Long table re-read of Ruby Phoenix qualifier rules to make sure we're aligned
+    - We hold 5 silver feathers (3 from temple base, 2 from Jai Bon enforcer payout)
+    - Challenges wager 1-3 feathers, defender must accept or be disqualified
+    - At 10 feathers a team can no longer issue challenges, only receive them (target on our back)
+    - Winning team can't re-challenge the losing team; losing team can demand rematches until out of feathers or wins one
+    - Phoenix necklace auto-converts attacks to non-lethal for selected creatures (10 min, must activate before fight)
+    - Consumes a feather to cast 7th-level Raise Dead on a downed teammate (so losing can burn multiple feathers)
+    - Looting only allowed if the entire opposing team is killed (i.e., they didn't get revived)
+    - Qualifier is 3 days; first 8 teams to present 10 feathers at Mount Hamanabi advance
+    - Enforcers can themselves challenge teams (no wager from them, defender wagers up to 3); can also declare special non-combat challenges with bonus feather rewards
+    - REMINDER: ask the DM/Ingdani whether spells refresh between official arena fights, we all half-remember this being true but couldn't find it written down
+    - Strategy: ally with Lighthouse / Blades / farm team to gang-challenge dangerous opponents; consider going sparse once near 10 feathers
+
+- Next session plan: head to the stone market (check if shops are open), then likely the unofficial scrimmage with Tino's Toughest
