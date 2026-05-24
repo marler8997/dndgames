@@ -56,3 +56,8 @@ Teleport?
 Vampiric Exhaustion (do dammage and gain temporary hit points, avg 21)
 Collective Transportation
 Zero gravity?
+Mislead
+   - maintain invisibility while attacking
+
+
+- the background looks like the City of "Goka"

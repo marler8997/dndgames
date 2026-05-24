@@ -909,3 +909,89 @@ Snapper's critical hit deals 50 damage to Unknown Speaker.
     - Strategy: ally with Lighthouse / Blades / farm team to gang-challenge dangerous opponents; consider going sparse once near 10 feathers
 
 - Next session plan: head to the stone market (check if shops are open), then likely the unofficial scrimmage with Tino's Toughest
+
+### Session: May 24, 2026
+
+- Identified the loot from the magical bungalow/abandoned magic shop
+   - 8 scrolls
+      1 blink
+      2 chain lightening
+      1 ethereal jaunt
+      1 mariner's curse
+      1 project image
+      1 tongues
+   - level 14 "Staff of Major Phantasms" (two handed) (added to my/Ryu's items)
+      - looked like a plain walking stick; when held it transforms into an ornate
+        carved staff with ivory and blue-stone inlays, reverts to a stick when let go
+      - spell list (illusion): cantrip ghost sound; 1st illusory disguise/object;
+        2nd illusory creature, item facade, dread prison; 3rd illusory disguise,
+        item facade; 4th illusory creature, veil; 5th illusory scene, veil;
+        6th hallucination, mislead
+      - staff mechanics refresher: prepare it each day to gain charges equal to your
+        highest spell rank for free; can spend ONE spell slot/day to add more charges;
+        casting a spell expends charges = the spell's rank; cantrips are free; uses your
+        spell attack/DC. Can also be used as a melee staff weapon (can't take damage runes)
+   - 4 pouches of "Dust of Disappearance" (a talisman) — place on tongue to turn
+     invisible (works like Mislead-style invisibility; you stay invisible even when you
+     attack, unlike normal invisibility). Long table discussion of PF2e
+     invisible/undetected/hidden/off-guard mechanics
+   - The deity "Nyarlathotep / the crawling chaos" came up while reading an item entry
+
+- We've only explored about 1/3 of the island. !!! REMINDER: there is a well-built shack
+  on top of a mountain (with cube-shaped chunks cut out of the snow/ice/rock around it,
+  and a nicer circular building lower down) that we want to come back and investigate.
+  Climbing it would take ~30-60 min up a near-vertical face, so we skipped it for now.
+
+- Plan: take the transport tower toward the stone market to the south, exploring on the way.
+  Snapper can't fit through the portal (coral/archway), so we sent him running overland to
+  rendezvous (he full-tilt runs ~7 min per grid square; ~20 min to base). Ryu rode Snapper
+  and made perception checks along the route.
+   - A "finding site" near a river
+   - A very nice, out-of-place manor to the south: cobblestone walls, light stone pillars,
+     looks like nobility lived there
+   - A large stone watchtower with signs "BEWARE — DO NOT APPROACH — punishment will be
+     severe", enforcers on the ramparts. Signs look new — likely an off-limits zone per the
+     tournament rules. We avoided it.
+   - Large insect nests high in the tall trees (nature 25); saw a ~15ft greenish-gray,
+     faceless larva/grub-like creature emerge from a nest and retreat. Avoided.
+   - Terrain turns swampier heading south, similar to the frog village
+
+- The Stone Market = the "Grand Markets of Goka"
+   - 3 crude Flintstone-style stone buildings, pitch black inside (can't see in even with
+     darkvision/low-light — some illusion/dimensional effect; you can still see your own hand)
+   - Inside is a shimmering stone "window" that shows a live-ish image of an attendant at a
+     desk against a bustling city — identified (society) as the city of Goka (free city-state
+     on the west coast of Tian Xia). Hologram-like; you can't reach through (stone behind it).
+     Conjuration/illusion magic, unsure if real-time or recording.
+   - Attendant: "First team! How can we help you?" — buy and SELL only, NO services
+     (no rune etching / item upgrades / crafting here)
+   - Two enforcers silently appeared behind us watching the transaction (one with a large
+     chest, one with a rack of weapons for the area's guards)
+   - Mechanically: the market has an item-LEVEL cap on what's available; we describe what we
+     want, roll a knowledge check to know the item exists, and the DM sources it if in range
+   - Staff of Major Phantasms appraised at ~1900g (we declined to sell, keeping it for now)
+
+- Shopping wishlist discussed (nothing finalized/purchased yet):
+   - Kyuu (grappler): Bands of Force / crushing bracers / grippy gloves to add damage while
+     grabbing; Greater Bands of Force also give a shove
+   - Double rings (iron + gold) to duplicate weapon runes across two weapons (dual-wield)
+   - Diadem of Intellect (~15,000g, level 17 item, boosts Intelligence) — Ryu eyeing it
+   - Grievous rune for hand wraps
+   - "Cape of translocate" / Charlotte's Cape — flashy teleport cloak (1/day) for escapes
+   - Raven Band for Abby (speak with/summon ravens; ravens are around inland/treed areas)
+   - Homebrew flair: anklet that leaves a showy smoke/dragonfire trail when Faux tumbles/leaps
+
+- BIG PLAN — making Snapper a real party member:
+   - Tournament rules (Player's Guide): NO max team size, any weapons/tactics legal, no
+     creature-type restriction — animal companions / eidolons / summons / pets are all fair
+     game. So Snapper is allowed in arena fights. (May still confirm w/ Ingdani/"Donny".)
+   - "Awaken Animal" ritual: raises Snapper's INT to 10 (12 on a crit success) and grants
+     speech/intelligence; he'd effectively become a controllable animal companion / party
+     member. Costs 19,500 gp to even start and takes 1 day.
+   - Idea: have Amatar pull us into his pocket dimension (time flows differently) to spend the
+     ritual's day without burning tournament time or being challenged mid-ritual. Concern:
+     Amatar's pocket-dimension time is inconsistent/unknown — risky.
+   - Note: we have 5 feathers; heightened Dominate can also make the dino bond permanent.
+
+- Next session: hopefully at our base (Temple of Irori) once it's set up. To-dos: talk to
+  Amatar about the pocket dimension for the Awaken ritual, and finalize market purchases.
