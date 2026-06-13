@@ -995,3 +995,24 @@ Snapper's critical hit deals 50 damage to Unknown Speaker.
 
 - Next session: hopefully at our base (Temple of Irori) once it's set up. To-dos: talk to
   Amatar about the pocket dimension for the Awaken ritual, and finalize market purchases.
+
+### Session: June 7, 2026
+
+- idea: kelly suggests I get sleeves of storing
+- Snapper
+   - animal phermones (becomes helpful when we convince it to fight with us)
+   - Primevil Missletoe (item bonus)
+   - harrow ritualist (use harrow cards for +2 item bonus)
+   - flexible ritualist (need 1 less secondary caster)
+   - efficient rituals (4 hours)
+   - Assist
+
+   - "During the time I held the dinosaur under my influence, I spent my downtime observing its hunting patterns, feeding it, and establishing a rapport. Now that the magic is gone, it recognizes me as its pack leader and provider."
+
+Summary (mostly shopping + planning, light session):
+- Finished up at the Stone Market: sold off jewels/gems (trade at ~full value; negotiating could help or hurt). Sitting on ~10,000g unsorted plus gems.
+- Purchases: Ring of Minor Arcana (160g, recharges a spell slot), Charlatan's Cape (980g) + a 500g item, 3 lesser Elixirs of Life, 3 soothing tonics, 2 potions of quickness, 2 snap leaf talismans, Primeval Mistletoe (+1, 230g), greater clanging bubbles vial (250g), and a homebrew "Edward step" anklet (60g). Eyed the Skyrider sword (~3,900g, ride it like a hoverboard 1/day) but passed — too pricey/high level.
+- Long discussion of the Awaken Animal ritual for Snapper: ~20,000g, needs 3 secondary casters and a strong Nature primary caster (DC ~30-35). Idea to borrow the indebted animal team or use the library; looked at feats (train animal, harrow/flexible/efficient ritualist) to improve odds. Also clarified Snapper only becomes a scaling animal companion with a feat (e.g. Beast Master); otherwise he's just a "wild" follower with no combat stats.
+- From the temple roof, perception spotted two distant buildings (a watchtower on the beach, another structure), no visible people.
+- Walked back to base (Temple of Irori), dead spiders still around; noticed something red in the trees — an enforcer (maybe Big Donnie) tailing us.
+- Visited Amatar in his workshop. Floated using his pocket dimension (different time flow) to run the ritual, but everyone's too big — his doorway is tiny (~10 in). Tried fox form / reduce to squeeze through; a fox is "small," not "tiny," so no luck, and Snapper definitely can't fit. Shelved the idea.

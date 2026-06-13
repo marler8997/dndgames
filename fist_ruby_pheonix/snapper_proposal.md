@@ -135,3 +135,38 @@ contender than a wild animal — another reason Phase 2 is the goal.
 
 *Sources: Fists of the Ruby Phoenix Player's Guide; Archives of Nethys (Dominate, Awaken
 Animal); party journal.md.*
+
+
+--------------------------------------------------------------------------------
+
+9th-rank
+
+
+- We've awakened it to become sentient to help
+
+# How to convince snapper to join us
+
+1. Establish the "Relationship" Mechanic
+
+The Awaken spell makes the creature friendly toward you initially, but it does not make it your slave.
+
+    - The Foundation: As a friendly creature, it will be helpful, but it still has its own agency. You aren't "training" a pet; you are recruiting a teammate.
+    - Avoid Coercion: Resist the urge to use the Coerce action (Intimidation). While it can force compliance, it will degrade the creature's attitude toward you, potentially turning it from "friendly" to "unfriendly." This makes it much less likely to fight its heart out for you in a tournament.
+
+2. Leverage Its New Sentience
+
+An awakened dinosaur has gone from being a creature of instinct to a being with complex thoughts. Use this to your advantage in negotiations:
+    - Appeal to its Nature: A dinosaur might crave the thrill of the hunt or the dominance of the apex predator. Frame the tournament as a challenge worthy of its strength—a "great hunt" where it can prove its superiority.
+    - Offer "Creature Comforts": The Awaken spell often brings with it a desire for the comforts of civilization. Offer the dinosaur things it couldn't appreciate before: gourmet food, luxury housing, shiny adornments (perhaps armor or barding fit for a tournament champion), or even a name it chooses for itself.
+    - The Shared Goal: Does the dinosaur have a vendetta? Is there a particular rival it wants to crush? If you can align your tournament goals with its personal desires, you won't have to convince it at all—it will want to be there.
+
+3. Use the Influence System
+
+Instead of a single Diplomacy check, treat this as an Influence subsystem encounter. This is the standard way to handle "convincing" NPCs of things that take more than a moment:Set the DC: Your GM will likely set a DC based on the dinosaur's personality (e.g., a "stubborn" dinosaur might have a higher Will DC).Determine Stages: Break the persuasion into stages.Stage 1: Respect. Prove you are worthy of its company.Stage 2: Interest. Explain what the tournament offers it (glory, gold, protection).Stage 3: Commitment. Finalize the agreement.Gather "Clues": Use Perception or Nature checks to learn what the dinosaur actually wants. If you discover it loves music or a specific type of sensory stimulation, use that as a +2 circumstance bonus to your next Diplomacy check.
+
+4. Ensure Its Safety (The "Best Interests" Clause)
+
+The spell states that while an awakened creature remains friendly, it will only undertake tasks if it is in its best interest.  If the tournament is dangerous (which it clearly is), you must demonstrate that you have its back.The Pitch: "We aren't just sending you in to die; we are a team. We will heal you, buff you, and ensure you receive the glory you deserve." If you can convince it that you are the key to its survival and success, it will be far more willing to risk its hide for you.A note on logistics: Don't forget that an awakened dinosaur is a large, intelligent, and potentially terrifying creature. You may need to spend time navigating the tournament's registration process—most organizers might be skeptical of a dinosaur signing up as a contestant! You might need to use Deception or Society checks to convince the tournament officials that your dinosaur teammate is a "dignified competitor."How do you envision the dinosaur's personality? Is it a majestic and proud beast, or something more erratic and hungry? Understanding its "new" personality will be the key to the right dialogue.
+
+
+- animal pheromones

@@ -44,7 +44,7 @@ General Feat: ?
 
 Level 4:
 ----------------------------------------
-Class Feat: ReachSpell? WidenSpell?
+Class Feat: Ritualist Dedication
 
 Level 5:
 ----------------------------------------
@@ -52,13 +52,17 @@ Ability Boosts: Int Dex Con Wis
 Skill Increase: Arcana
 Ancestry Feat: ?
 
+Level 6:
+----------------------------------------
+Class Feat: Bestial Protection
+
 Level 7:
 ----------------------------------------
 Skill Increase: Nature (expert)
 
 Level 8:
 ----------------------------------------
-Class Feat: Spirit Familiar
+Class Feat: Companion's Cry
 
 Level 9:
 ----------------------------------------

@@ -54,6 +54,8 @@
     • 4th illusory creature, illusory disguise
     • 5th illusory creature, illusory scene
     • 6th hallucination, mislead
+- Primevil Mistletoe
+- Animal Phermones (moderate)
 
 
 === Kyuu ============================================
@@ -69,6 +71,15 @@
     - feather from SouthEast room at base
 - 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
 - a ring of greater electricity resistance (resistance 10 to electricity)
+- cape
+- charlaton's cape level 10
+- bands of force level 8
+- ember step anklet
+- potiion of flying
+- 2 potions of quickness
+- 3 elixirs of life lesser
+- 3 soothing tonic's
+- 2 snapleaf talismans
 
 === Kei ==============================================
 - Potiion of tongues
@@ -86,6 +97,7 @@
 === Abby =============================================
 - The feather from the "North room" of our base which gives them the wronged Monk's wrath ability
 - Opal Puzzle(Prismatic Armor)
+- Ring of minor arcana
 
 === Faux =============================================
 - Sapphire Puzzle(Dancing Fountain)
