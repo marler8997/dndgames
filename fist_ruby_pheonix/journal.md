@@ -1016,3 +1016,83 @@ Summary (mostly shopping + planning, light session):
 - From the temple roof, perception spotted two distant buildings (a watchtower on the beach, another structure), no visible people.
 - Walked back to base (Temple of Irori), dead spiders still around; noticed something red in the trees — an enforcer (maybe Big Donnie) tailing us.
 - Visited Amatar in his workshop. Floated using his pocket dimension (different time flow) to run the ritual, but everyone's too big — his doorway is tiny (~10 in). Tried fox form / reduce to squeeze through; a fox is "small," not "tiny," so no luck, and Snapper definitely can't fit. Shelved the idea.
+
+### Session: July 19, 2026
+
+Summary (exploring Bonmu's south coast — two new shrines, a shipwreck haul, and a
+6th feather — then off to a friendly match with Tino's team):
+
+- Wrapped up at the shops (late afternoon, ~2 hrs before we're due to meet Tino/Kino for a
+  friendly arena fight; sunset ~3 hrs out). Locked in the Snapper plan: go the animal-companion
+  route (Ryu takes the feats) instead of the ~20,000g Awaken ritual — the ritual would also
+  need us to find/learn it and get into Amatar's, so it stays shelved. Deferred selling our raw
+  materials/jewels until the end of the day.
+
+- Put one of our two barding saddles on Snapper. It unfolds Transformer-style into full metal
+  plate ("metal Snapper" — plates over the head/snout, down the spine, tail wrapped in spiral
+  metal).
+   - +3 to AC, −10 ft speed (40 → 30), −3 to movement-based skill checks (Athletics, jump,
+     swim). Spend 2 actions to enable/disable. The spare saddle goes in the sell pile.
+   - Faux also used his wand of pampered pet to Pamper Snapper.
+
+- Headed to the southwest tip of the island beach (rode Snapper). Ran into:
+
+   - A watchtower on the beach — another team's lookout/HQ, not enforcers. Spotted a figure at
+     the top that vanished when we looked away (perc 35); later two men up there, one with a very
+     large bow, who just watched the giant dinosaur pass. Left them be.
+
+   - A giant black scorpion's nest — ~50 ft of upheaved sand, black shiny carapace and the stinger
+     poking out, bloated half-digested cattle carcasses to the north (nature 35). No loot worth the
+     risk, so we skirted it (and stayed out of deep water after last time).
+
+   - SHIPWRECK (far SW tip): found an intact chest — **4 potions of greater healing, 6 oil of
+     mending, 1 truesight potion, a level-4 scroll of water walk, and a Silver Buckler** (small
+     shield, non-magical, but high-grade pure silver — value is the material). Checked for key
+     symbols like the last shipwreck; none here.
+
+- SHRINE OF AHNGONAR (south coast): wind behaves oddly around it; small altar with incense
+  holders, tiny flutes/ocarina, and old tied notes/scrolls. Ahngonar = god of messengers, music,
+  and love, used in the ancient (Monatan) empire's life celebrations and marriages. Ghostly
+  visions of figures playing small stringed instruments (koto/tengu-ish) and one clutching a
+  ghostly necklace — a love song of longing/adoration.
+   - Faux drank the Potion of Tongues (True Speech, 4 hrs) to understand the lyrics — a gorgeous
+     love song — then recreated it on the shrine's ocarina (fascinating performance, 37). The love
+     song was the key.
+   - **BLESSING: every character (Abby included) can cast Tongues / True Speech as a divine innate
+     spell once per day while we're on Bonmu.** Note: Tongues is now "True Speech" — lets you speak
+     AND understand any language, but does NOT let you read written text.
+   - Faux left an offering (a note + an emerald), "prayed" to Ahngonar to sponsor him (he's a free
+     agent with no god), and kept the ocarina.
+
+- The seven gods: Donnie let on there are SEVEN old (Monatan) gods/tribes, likely a shrine for
+  each. We've now hit three and earned a blessing from each:
+   - Farseer shrine → top-down aerial "satellite" view of the island (must be at the temple to use)
+   - Rama Shah / rest shrine → rest 1 hour to remove fatigue
+   - Ahngonar → Tongues/True Speech 1/day (this session)
+  A couple more are spotted but unvisited.
+
+- 6th FEATHER: spotted a Phoenix feather dangling from a tree in a patch of stomped/broken trees
+  near a rival team's courtyard; Kyuu grabbed it. The necklace now has 6 feathers.
+
+- SHRINE OF BABBUNABI (further south): the whole shrine is made of books — pillars, table, even the
+  roof of open books — with an open book in an old (but not forgotten) language. Babbunabi = god of
+  scripture, storytellers, and travelers. Performances, stories, and parables (even Faux's love song)
+  couldn't "find purchase." The key was SCRIPTURE: Abby read the open book aloud for ~10 minutes.
+   - **BLESSING ("gift of sight"): +2 circumstance bonus to saving throws vs blinded and dazzled.**
+
+- Other things noticed heading back (sun setting):
+   - A rival team's spot: a small shrine to Gosra (a fickle god of wind/waves/light), a stable with
+     3 armored horses, and a menacing "death-knight"-looking human in metal-and-leather armor with a
+     scorpion-like helmet (no visible skin) tending them. They arrived on a different boat and we
+     don't recognize them. Idea: come back for the horses if they clear out.
+   - A swampy area with an unnerving droning/hissing sound — a large sleeping creature in a nest/cave:
+     pale luminescent white-purple scaly skin, translucent pink bat-wings, pointed teeth, big head.
+     It stirred and hissed (the drumming got louder) but didn't notice us. Avoided it.
+   - Passed the enforcer base (enforcers along the wall) and the fighting ring.
+
+- Ended arriving at a small arena at sunset where Tino/Kino's team is waiting for the friendly match
+  (just a spar — no feather/blessing rewards on Bonmu; the arena mainly stops you leaving mid-combat).
+  Noticed their leader is also carrying a Phoenix necklace (not wearing the feathers on it).
+
+- Next session: the friendly fight vs Tino/Kino's team; still want to hit the remaining shrines, sell
+  the raw materials/jewels, and maybe revisit the rival team's horses.

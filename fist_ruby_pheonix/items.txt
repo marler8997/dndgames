@@ -11,8 +11,8 @@
 - 2 emeralds (from dino cave)
 - carved jaw that looks like a club
     - 37 society check, this would need to be sold to a collector, we could maybe get around 150 to 500 gold
-- 2 "barding saddles", covered in metal, it covers your mount in, added to items
-    - +3 to AC, loses 10 ft of movement, 
+- 1 "barding saddles", covered in metal, it covers your mount in, added to items
+    - +3 to AC, loses 10 ft of movement,
 
 === Found in NorthWest room (Reebus room) =========
 - Greater holy prayer beeds, can be used to heal
@@ -34,6 +34,12 @@
 
 - idol to decline a match (used society to esimate it's worth 500g)
 
+== From the shipwreck in the SW corder ====================
+- 4 x potions of greater healing
+- 6 x oil of mending
+- truesight potiion
+- scroll of water walk level 4
+- Silver Buckler — Small shield, non-magical. Made of high-grade pure silver; value is in the material
 
 === Ryu (Me) ==============================================
 - Cognitive Mutagen (Greater)
@@ -64,11 +70,12 @@
 - Greater Striking Rune from the sparring pit
 - Axiomatic Rune
 - Ruby Puzzle(Flame Vortex)
-- The pheonix necklace with 5 feathers
+- The pheonix necklace with 6 feathers
     - feather from the South sand room at the base
     - 2 feathers from the enforcer payment for killing Jai Bon
     - feather from the North room at base
     - feather from SouthEast room at base
+    - feather from the southern coast we spotted dangling from a tree (while looking for shrines)
 - 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
 - a ring of greater electricity resistance (resistance 10 to electricity)
 - cape
@@ -81,8 +88,12 @@
 - 3 soothing tonic's
 - 2 snapleaf talismans
 
+=== Snapper ==============================================
+- barding saddle, covered in metal, it covers your mount in, added to items
+    - +3 to AC, -3 to movement skill checks, -10ft movement
+    - spend 2 actions to enable/disable
+
 === Kei ==============================================
-- Potiion of tongues
 - Emerald Puzzle(Elemental Confluence)
 - Temporal Talisman (The Time Traveling device from Amatar)
     - my 34 arcana check, this time device has two stages, it is retaining it's magic
@@ -105,3 +116,4 @@
 - 1 greater elixir of life (heal 7d6 + 18 HP and 10 minutes +2 against diseases)
 - Boots of bounding
 - Ring of Earth's Mantle(Worm Cave) (allows Assume Earth's Mantle)
+- Ocarina (small tengu-style instrument, kept from the Ahngonar shrine)

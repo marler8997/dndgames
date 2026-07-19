@@ -1,4 +1,5 @@
 
+
 - Summon "Living Landslide" Gem
 
 Focus Spells
@@ -12,3 +13,10 @@ Focus Spells
 # TODO: add skill feat reveal true name
 
 - Get the "Reveal True Name" feat?
+
+## Bonmu Shrine Bufs (active while we're on Bonmu)
+- Ahngonar's blessing: cast "Tongues"/"True Speech" as a divine innate spell once per day (each of us, Abby included)
+    - True Speech = speak AND understand any language, but does NOT let you read written text
+- Babbunabi's blessing ("gift of sight"): +2 circumstance bonus to saving throws vs blinded and dazzled
+- Farseer shrine: top-down aerial "satellite" view of the island (must be at the temple to use)
+- Rama Shah / rest shrine: rest 1 hour to remove fatigue
