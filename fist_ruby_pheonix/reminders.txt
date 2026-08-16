@@ -14,6 +14,20 @@ Focus Spells
 
 - Get the "Reveal True Name" feat?
 
+## My DCs (came up Aug 16)
+- Spell DC 31 <- this is the one that matters, everything I cast uses it (hexes included)
+- Class DC 29, stays TRAINED forever. Witch never advances it. Only used by wands/items that
+  say "your class DC". Make sure the DM is rolling against 31, not 29.
+- Spell DC proficiency goes expert at 7, master at 15, legendary at 19. Only other lever is Int.
+- To land more hexes, lower their save instead: Bon Mot (-2/-3 Will), frightened, stupefied.
+
+## Phoenix Necklace (full details + all tournament rules are in TournamentRules.md)
+- Non-lethal ward: 3 ACTIONS (not 10 min), any number of willing creatures within 30 ft.
+  Lets them attack non-lethally with no penalty. Does NOT auto-convert damage.
+- Raise Dead: 10 min, 7th rank. EACH USE COSTS ONE MORE FEATHER THAN THE LAST.
+- Call out lethal vs non-lethal on every attack during a match.
+- We have 6 feathers.
+
 ## Bonmu Shrine Bufs (active while we're on Bonmu)
 - Ahngonar's blessing: cast "Tongues"/"True Speech" as a divine innate spell once per day (each of us, Abby included)
     - True Speech = speak AND understand any language, but does NOT let you read written text

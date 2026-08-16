@@ -601,8 +601,6 @@ The puzzles are just activated, no need to roll !!!
 - We found an "idol" that says "Give this idol to an enforcer to decline a match"
     - this is worth a "good amount" of gold, used Society to estimate we could get 500g and
       we don't need to sell it to a collector
-    - clarification, we can use the idol after accepting the challenge and they can't challenge
-      us for 12 hours
 - We sense that snapper senses something, like when a "cat notices a nother cat"
     - there are large portions of the ground that have been manipulated, possibly something large is burrowing trailing under the ground, from my 37 nature checks seems like it's probably a worm
     - It ends up being 2 gargantuan worms, I got a nat 20 nature check and realized these guys would probably fuck us up, even with Snapper so we left
@@ -895,17 +893,9 @@ Snapper's critical hit deals 50 damage to Unknown Speaker.
     - Faix spends 10 min identifying: Ring of Earth's Mantle
         - Grants "Assume Earth's Mantle" (turn to stone, burrow = land speed, climb, armor abilities)
 
-- Long table re-read of Ruby Phoenix qualifier rules to make sure we're aligned
+- Long table re-read of Ruby Phoenix qualifier rules to make sure we're aligned — notes now live in
+  TournamentRules.md (several of them turned out to be wrong; corrected Aug 16)
     - We hold 5 silver feathers (3 from temple base, 2 from Jai Bon enforcer payout)
-    - Challenges wager 1-3 feathers, defender must accept or be disqualified
-    - At 10 feathers a team can no longer issue challenges, only receive them (target on our back)
-    - Winning team can't re-challenge the losing team; losing team can demand rematches until out of feathers or wins one
-    - Phoenix necklace auto-converts attacks to non-lethal for selected creatures (10 min, must activate before fight)
-    - Consumes a feather to cast 7th-level Raise Dead on a downed teammate (so losing can burn multiple feathers)
-    - Looting only allowed if the entire opposing team is killed (i.e., they didn't get revived)
-    - Qualifier is 3 days; first 8 teams to present 10 feathers at Mount Hamanabi advance
-    - Enforcers can themselves challenge teams (no wager from them, defender wagers up to 3); can also declare special non-combat challenges with bonus feather rewards
-    - REMINDER: ask the DM/Ingdani whether spells refresh between official arena fights, we all half-remember this being true but couldn't find it written down
     - Strategy: ally with Lighthouse / Blades / farm team to gang-challenge dangerous opponents; consider going sparse once near 10 feathers
 
 - Next session plan: head to the stone market (check if shops are open), then likely the unofficial scrimmage with Tino's Toughest
@@ -1096,3 +1086,40 @@ Summary (exploring Bonmu's south coast — two new shrines, a shipwreck haul, an
 
 - Next session: the friendly fight vs Tino/Kino's team; still want to hit the remaining shrines, sell
   the raw materials/jewels, and maybe revisit the rival team's horses.
+
+### Session: August 16, 2026
+
+Summary (a rules recap on challenges and the Phoenix Necklace, then the friendly match vs
+Tino's Toughest — the whole session is that one fight, and we stopped two rounds in):
+
+- Rules recap with Ingdani before the match — challenges, feathers, and the Phoenix Necklace. We
+  had several things written down wrong; all corrected and consolidated in **TournamentRules.md**.
+
+- BEFORE THE FIGHT:
+   - Faux showed off the wand of pampered pet by putting Snapper in it. Snapper hated it right up
+     until the little servant hands started petting him. Tino asked for the match "without our big
+     friend," so Snapper sat it out — which also meant he was outside the necklace's protection.
+   - Tino's Toughest, up close: **Tino** (monk — flurry of blows, a ki blast cone, hand wraps),
+     **Jeuk** (kitsune, bandolier of returning throwing darts plus a dagger), **Yaben** (nagaji
+     caster, billowing robe, dragon-headed staff with green gems, green flame out of his eyes and
+     mouth — very Jafar), and **Takakura** (tengu, gorgeous scimitar-ish longsword that splits into
+     two identical blades).
+   - Abby (perception 27) caught Yaben and Takakura talking in a language only she understands:
+     they need to get on our good side for any chance at the first part of the tournament.
+   - Yaben carries their team's Phoenix Necklace with no feathers attached, and activated their
+     non-lethal ward; we activated ours (it covered Abby, but not Snapper in the wand).
+   - Ingdani dropped in on the "friendly sparring match" — a second enforcer we hadn't spotted
+     stayed seated on top of the wall. **Our tournament application passed; the tournament starts
+     tomorrow morning.** Abby spread her wings over the party for +1 initiative.
+
+- THE FIGHT: the rest of the session was the match itself, two rounds deep when we stopped. Nobody
+  went down and no one is close to it. Blow-by-blow and everything we learned about their abilities
+  is in combat.txt under "Battle with Tino". The one thing that carries: **Yaben landed a confusion
+  on Kei with a natural 1 on the save — 10 rounds, and a critical failure means no save to shake it
+  off**, so Kei starts next session swinging at whoever is adjacent. Abby can end it with a touch
+  (2 actions) if she can reach him.
+
+- Stopped at the top of round 3. Next session: finish the friendly match, then the tournament
+  proper starts in the morning. Still outstanding: sell the jewels/raw materials, the three
+  remaining Monatan shrines, and the rival team's armored horses.
+

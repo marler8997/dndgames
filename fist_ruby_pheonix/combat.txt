@@ -1,3 +1,46 @@
+Battle with Tino
+--------------------------------------------------
+snapper chilling in Faux's pampered pet pocket dimension
+(friendly match, both teams' phoenix necklaces activated for non-lethal)
+Abby spread their wings over us: +1 initiative
+
+Their team:
+- Tino - monk, flurry of blows, ki blast cone (hadoken), hand wraps
+   - REACTION: can negate/block damage to an ally (nullified Faux's star on Yaben, healed him up)
+- Jeuk - kitsune, bandolier of throwing darts (they teleport back to his hand), dagger
+- Yaben - nagaji caster, dragon-head staff, green flame, fireball + confusion, grows dragon claws
+- Takakura - tengu, longsword that splits into two blades, Blade Barrage (3 strikes + movement),
+   disarm sweep, some kind of blue shield reaction
+
+round1:
+- Yaben fireball, hits us all (18 dammage reduced to 9 for save), Faux crit saved for 0
+- Jeuk dart hits Kyu, immobolized + off guard (costs an action to pull out)
+- Faux mirror duplicate, fascinating performance failed (needs a CRIT in combat),
+   guiding star hit Yaben but Tino reacted and negated all of it
+- Takakura shattered Faux's mirror image (23 slashing), mirror burst back for 8
+   then Blade Barrage, only 1 of 3 hit
+- Tino moved in -> Kyu REACTIVE STRIKE CRIT 59 dammage + 4 fire
+   then ki blast cone, 14 dammage reduced to 7 for save
+- Kyu pulled the dart, grabbed Tino, snagging strike 39 + 2 fire, advantageous assault 17
+   (~100 dammage on Tino in one turn)
+- I cast Evil Eye, failed, Telekinetic Projectile hit Yaben for 29 dammage
+- Kei flurry on the off-guard tengu: 25, 32, 34
+
+round2:
+- Yaben cast confusion on Kei, NATURAL 1 = critical failure = 10 rounds, NO save to end it
+   - Kei attacks whoever is adjacent, d6 per attack, even odds per adjacent creature
+   - hit Jeuk, then hit Kyu for 13
+   - Abby can remove confusion by touch but it's 2 actions and she was too far
+- Faux exploit vulnerability on the tengu: no weaknesses or immunities, so used personal antithesis
+- Takakura DISARMED Faux's mirror out of his hand (athletics is his only untrained skill)
+   - no mirror = no mirror images
+- Tino stepped (step avoids reactive strike) then flurry of blows on Faux: 17 + 20 bludgeoning
+- Kyu drew 2nd sword (no quick draw, costs an action) then double slice on Tino, 2nd one a CRIT
+- I cast Evil Eye on the tengu (landed, penalty to DCs and checks), Telekinetic Projectile did 17 dammage
+
+stopped at the top of round 3
+
+
 Worms
 --------------------------------------------------
 - "Jaw" attack Snapper took 85 points of dammage (HP 195/280)
